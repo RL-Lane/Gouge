@@ -3,3 +3,6 @@ https://txdmv.secure.force.com/dealers/motorvehicledealerliststaging
 
 Census Bureau adjacent county data
 https://www.census.gov/geographies/reference-files/2010/geo/county-adjacency.html
+
+CIS API vehicle data
+https://rapidapi.com/competitive-intelligence-solutions-llc-competitive-intelligence-solutions-llc-default/api/cis-automotive/
