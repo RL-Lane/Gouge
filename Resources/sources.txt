@@ -1,2 +1,5 @@
 TX DMV auto dealers list (note: some dealers not present):
 https://txdmv.secure.force.com/dealers/motorvehicledealerliststaging
+
+Census Bureau adjacent county data
+https://www.census.gov/geographies/reference-files/2010/geo/county-adjacency.html
