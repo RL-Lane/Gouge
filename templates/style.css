@@ -1,14 +1,14 @@
 .plots_header {
-    background: linear-gradient(to right, white, grey,rgb(11, 11, 185));
+    background: linear-gradient(to right, white,rgb(231, 201, 173),rgb(233, 127, 40));
     padding:2em
 }
 
 .navbar {
-    background: rgb(208, 201, 201);
+    background: linear-gradient(to right, white,rgb(231, 201, 173),rgb(233, 127, 40));
     opacity: 0.8;
 }
 
-#about_tab {
+#nav_tabs {
     font-weight: bold;
     font-size: larger;
     color:rgb(11, 11, 185)
@@ -18,7 +18,7 @@
 
 
 #card_format {
-    background-color: yellow;
+    background-color: rgb(231, 201, 173);
     padding:1em;
     margin-right:2%;
     text-align: left;
