@@ -1,0 +1,27 @@
+.plots_header {
+    background: linear-gradient(to right, white, grey,rgb(11, 11, 185));
+    padding:2em
+}
+
+.navbar {
+    background: rgb(208, 201, 201);
+    opacity: 0.8;
+}
+
+#about_tab {
+    font-weight: bold;
+    font-size: larger;
+    color:rgb(11, 11, 185)
+}
+
+
+
+
+#card_format {
+    background-color: yellow;
+    padding:1em;
+    margin-right:2%;
+    text-align: left;
+    font-size: 15px;
+    font-weight: 500;
+}
