@@ -76,3 +76,28 @@
     margin-bottom: 85%;
 }
 
+.home_image {
+    width: 90%;
+    margin-left: 6%;
+    border: 2px solid rgb(11, 11, 185) ;
+    border-radius: 5px;
+}
+
+.home_page_header {
+    text-align: center;
+    color:  rgb(11, 11, 185) ;
+}
+
+#accordion_layout {
+    background:  beige;
+    margin-left: 5%;
+    margin-top: 5%;
+}   
+#accordion_dropdown {
+    background: rgb(238, 150, 78) ;
+}
+
+#button_accord {
+    background: rgb(11, 11, 185);
+    color:white;
+}
