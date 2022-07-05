@@ -464,3 +464,89 @@ ALTER TABLE "sales" ADD CONSTRAINT "fk_sales_BedType" FOREIGN KEY("BedType")
 REFERENCES "BedType" ("id");
 -- END 10
 
+SELECT * FROM sales;
+
+-- cleanup options for output
+SELECT DISTINCT "option" FROM "options";
+UPDATE "options" SET "option" = replace("option", 'Not Available', '');
+
+
+-- develop views
+CREATE VIEW cruise_control AS 
+	SELECT options.id AS cruise_control, sales.id 
+		FROM sales 
+	JOIN options 
+		ON sales."Cruise_Control" = options.id;
+SELECT * FROM cruise_control;
+
+
+CREATE VIEW auto_reverse_system AS 
+	select sales.id, options.id AS auto_reverse_system
+		FROM sales
+	JOIN options
+		ON sales."AutoReverseSystem" = options.id;
+SELECT * FROM auto_reverse_system;
+
+
+CREATE VIEW pedestrian_alerting_sound AS
+	SELECT sales.id, options.id AS pedestrian_alerting_sound
+		FROM sales
+	JOIN options
+		ON sales."PedestrianAlertingSoundint" = options.id;
+SELECT * FROM pedestrian_alerting_sound;
+
+
+CREATE VIEW blind_spot_monitor AS
+	SELECT sales.id, options.id AS blind_spot_monitor
+		FROM sales
+	JOIN options
+		ON sales."BlindSpotMon" = options.id;
+SELECT * FROM blind_spot_monitor LIMIT 10;
+
+
+
+
+-- create options view
+SELECT cruise_control.id, cruise_control, auto_reverse_system FROM cruise_control
+JOIN auto_reverse_system
+	ON cruise_control.id = auto_reverse_system.id;
+
+SELECT 
+	sales.id, 
+	sales."ModelYear" AS model_year, 
+	make.make, 
+	"Model" AS model, 
+	"MSRP" AS msrp, 
+	"VehicleType".vehicletype AS vehicle_type, 
+	"Mileage" AS milage, 
+	"Axles" AS axles, 
+	"BasePrice" AS base_price,
+	"BedLengthIN" AS bed_length_inches,
+	"BedType".bedtype AS bed_type,
+	"BodyCabType".type AS body_cab_type,
+	"BodyClass".type AS body_class,
+	"Doors" AS doors,
+	"DriveType".drivetype AS drive_type,
+	"EngineHP" AS engine_hp,
+	"TopSpeedMPH" AS top_speed_mph,
+	"TransmissionSpeeds" AS transmission_speeds,
+	"TransmissionStyle".type AS transmission_style,
+	
+	FROM sales
+JOIN make 
+	ON sales."Make" = make.id
+JOIN "VehicleType"
+	ON sales."VehicleType" = "VehicleType".id
+JOIN "BedType"
+	ON sales."BedType" = "BedType".id
+JOIN "BodyCabType"
+	ON sales."BodyCabType" = "BodyCabType".id
+JOIN "BodyClass"
+	ON sales."BodyClass" = "BodyClass".id
+JOIN "DriveType"
+	ON sales."DriveType" = "DriveType".id
+JOIN "TransmissionStyle"
+	ON sales."TransmissionStyle" = "TransmissionStyle".id
+
+
+
