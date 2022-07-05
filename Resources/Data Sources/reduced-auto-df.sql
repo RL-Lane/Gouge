@@ -367,3 +367,100 @@ ALTER TABLE "sales" ADD CONSTRAINT "fk_sales_Make" FOREIGN KEY("Make")
 REFERENCES "make" ("id");
 -- END 7
 
+-- START 8
+SELECT * FROM sales;
+SELECT DISTINCT "DriveType" FROM sales;
+-- 'FWD/Front Wheel Drive'
+-- '4WD/4-Wheel Drive/4x4'
+-- 'AWD/All Wheel Drive'
+-- '0'
+-- '2WD/4WD'
+-- 'RWD/ Rear Wheel Drive'
+-- '4x2'
+
+CREATE TABLE "DriveType" (
+id SERIAL,
+drivetype VARCHAR,
+CONSTRAINT "pk_drivetype" PRIMARY KEY ("id")
+);
+
+INSERT INTO "DriveType" (drivetype)
+VALUES
+('FWD/Front Wheel Drive'),
+('4WD/4-Wheel Drive/4x4'),
+('AWD/All Wheel Drive'),
+('0'),
+('2WD/4WD'),
+('RWD/ Rear Wheel Drive'),
+('4x2');
+
+UPDATE "sales" SET "DriveType" = replace("DriveType", 'FWD/Front Wheel Drive', '1');
+UPDATE "sales" SET "DriveType" = replace("DriveType", '4WD/4-Wheel Drive/4x4', '2');
+UPDATE "sales" SET "DriveType" = replace("DriveType", 'AWD/All Wheel Drive', '3');
+UPDATE "sales" SET "DriveType" = replace("DriveType", '0', '4');
+UPDATE "sales" SET "DriveType" = replace("DriveType", '2WD/4WD', '5');
+UPDATE "sales" SET "DriveType" = replace("DriveType", 'RWD/ Rear Wheel Drive', '6');
+UPDATE "sales" SET "DriveType" = replace("DriveType", '4x2', '7');
+
+ALTER TABLE sales ALTER COLUMN "DriveType" TYPE INTEGER USING ("DriveType"::INTEGER);
+
+ALTER TABLE "sales" ADD CONSTRAINT "fk_sales_DriveType" FOREIGN KEY("DriveType")
+REFERENCES "DriveType" ("id");
+-- END 8
+
+-- START 9
+SELECT * FROM sales;
+SELECT DISTINCT "VehicleType" from sales;
+'TRUCK '
+'PASSENGER CAR'
+
+CREATE TABLE "VehicleType" (
+id SERIAL,
+vehicletype VARCHAR,
+CONSTRAINT "pk_vehicletype" PRIMARY KEY (id)
+);
+
+INSERT INTO "VehicleType" (vehicletype)
+VALUES
+('TRUCK'),
+('PASSENGER CAR');
+
+UPDATE "sales" SET "VehicleType" = replace("VehicleType", 'TRUCK ', '1');
+UPDATE "sales" SET "VehicleType" = replace("VehicleType", 'PASSENGER CAR', '2');
+
+ALTER TABLE sales ALTER COLUMN "VehicleType" TYPE INTEGER USING ("VehicleType"::INTEGER);
+
+ALTER TABLE "sales" ADD CONSTRAINT "fk_sales_VehicleType" FOREIGN KEY("VehicleType")
+REFERENCES "VehicleType" ("id");
+-- END 9
+
+
+-- START 10
+SELECT * FROM sales;
+SELECT DISTINCT "BedType" FROM sales;
+
+UPDATE "sales" SET "BedType" = replace("BedType", '0', 'Short');
+UPDATE "sales" SET "BedType" = replace("BedType", '2', 'Long');
+'Short'
+'Long'
+
+CREATE TABLE "BedType" (
+id SERIAL,
+bedtype VARCHAR(5),
+CONSTRAINT "pk_bedtype" PRIMARY KEY (id)
+);
+
+INSERT INTO "BedType" (bedtype)
+VALUES
+('Short'),
+('Long');
+
+UPDATE "sales" SET "BedType" = replace("BedType", 'Short', '1');
+UPDATE "sales" SET "BedType" = replace("BedType", 'Long', '2');
+
+ALTER TABLE sales ALTER COLUMN "BedType" TYPE INTEGER USING ("BedType"::INTEGER);
+
+ALTER TABLE "sales" ADD CONSTRAINT "fk_sales_BedType" FOREIGN KEY("BedType")
+REFERENCES "BedType" ("id");
+-- END 10
+
