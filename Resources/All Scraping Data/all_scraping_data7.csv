@@ -63,8 +63,6 @@ vin,msrp,dealer's price,price,make,model,year,transmission,mileage,dealer name,d
 3GNKBERS4NS145909,44980,43442,43706,General Motors,Blazer,2022,8 Speed Automatic,2 miles,Classic Chevrolet of Houston,"7000 Southwest Fwy Houston, TX 77074",29.7102127,-95.5097388
 3GNKBJRS1NS124962,44990,44990,44990,General Motors,Blazer,2022,8 Speed Automatic,271 miles,Carvana,"7000 Southwest Fwy Houston, TX 77074",29.7102127,-95.5097388
 3GNKBERS2NS200339,46885,46885,46885,General Motors,Blazer,2022,Automatic,5 miles,Four Stars Auto Ranch Chevrolet Buick,"262 US HWY 287 S Henrietta, TX 76365",33.7977697,-98.1944308
-3GNKBERS8NS195163,46015,46015,46015,General Motors,Blazer,2022,Automatic,5 miles,Cavender Chevrolet,"30700 Interstate 10 - West Boerne, TX 78006",29.7476019,-98.6952709
-3GNKBERSXNS195987,46370,46370,46370,General Motors,Blazer,2022,Automatic,10 miles,Cavender Chevrolet,"30700 Interstate 10 - West Boerne, TX 78006",29.7476019,-98.6952709
 3GNKBERS2NS203029,47670,47670,47670,General Motors,Blazer,2022,Automatic,2 miles,El Dorado Chevrolet,"2300 North Central Expressway Mckinney, TX 75070",33.2265094,-96.6314957
 3GNKBERS8NS196409,45975,46725,46725,General Motors,Blazer,2022,Automatic,10 miles,"Gunn Chevrolet, Ltd.","16550 Interstate 35 N Selma, TX 78154",29.5897305,-98.2974632
 3GNKBERS7NS196885,46525,47275,47275,General Motors,Blazer,2022,Automatic,10 miles,"Gunn Chevrolet, Ltd.","16550 Interstate 35 N Selma, TX 78154",29.5897305,-98.2974632
@@ -159,7 +157,6 @@ vin,msrp,dealer's price,price,make,model,year,transmission,mileage,dealer name,d
 1C4JJXP60NW177883,58580,58580,58888,Jeep,Wrangler,2022,Automatic,25 miles,Premier CDJR of Lamesa,"1611 Lubbock Hwy Lamesa, TX 79331",32.7478766,-101.9508105
 1C4JJXP66NW229520,58945,58945,58945,Jeep,Wrangler,2022,Automatic,14 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
 1C4JJXP67NW274367,59770,59770,60169,Jeep,Wrangler,2022,Automatic,0 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
-1C4JJXP64NW214417,60695,60695,60695,Jeep,Wrangler,2022,Automatic,0 miles,Yaklin Chrysler Dodge Jeep Ram,"1550 W Kingsbury St Seguin, TX 78155",29.5757331,-97.990967
 1C4JJXP62NW198671,60375,60375,60774,Jeep,Wrangler,2022,Automatic,0 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
 1C4JJXP69NW228121,61075,61075,61075,Jeep,Wrangler,2022,Automatic,12 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
 1C4JJXP60NW228122,61470,61470,61470,Jeep,Wrangler,2022,Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
@@ -265,7 +262,6 @@ vin,msrp,dealer's price,price,make,model,year,transmission,mileage,dealer name,d
 1C4HJXAG9NW180877,45780,45780,45780,Jeep,Wrangler,2022,8 Speed Automatic,0 miles,Sames Bastrop CDJ,"1586 Hwy 71 West, Cedar Creek, TX 78612",30.1258939,-97.4366989
 1C4HJXCG2NW201906,45945,45945,46344,Jeep,Wrangler,2022,8 Speed Automatic,6 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121, Frisco, TX 75035",33.1009626,-96.7998519
 1C4HJXCN7NW225729,47550,47550,47550,Jeep,Wrangler,2022,8 Speed Automatic,7 miles,Covert Chrysler Dodge Jeep Ram-Austin,"8107 Research Blvd, Austin, TX 78758",30.3522474,-97.7135395
-1C4HJXCN5NW225728,47945,47945,47945,Jeep,Wrangler,2022,Automatic,7 miles,Covert Chrysler Dodge Jeep Ram-Austin,"8107 Research Blvd, Austin, TX 78758",30.3522474,-97.7135395
 1C4HJXCG7NW225733,50190,50190,50190,Jeep,Wrangler,2022,Automatic,7 miles,Covert Chrysler Dodge Jeep Ram-Austin,"8107 Research Blvd, Austin, TX 78758",30.3522474,-97.7135395
 1C4GJXAG5NW259605,50525,50525,50525,Jeep,Wrangler,2022,Automatic,0 miles,South Point Dodge Chrysler Jeep,"5210 IH-35 South, Austin, TX 78745",30.2039191,-97.7612793
 1C4HJXCN0NW196137,50535,50535,50934,Jeep,Wrangler,2022,Automatic,0 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121, Frisco, TX 75035",33.1009626,-96.7998519
@@ -282,7 +278,6 @@ vin,msrp,dealer's price,price,make,model,year,transmission,mileage,dealer name,d
 1C4HJXDN5NW243595,43065,39965,39965,Jeep,Wrangler,2022,Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy, Houston, TX 77079",29.78321,-95.5993955
 1C4HJXDN1NW253881,40060,40060,40259,Jeep,Wrangler,2022,Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35, San Antonio, TX 78233",29.5474868,-98.3631077
 1C4HJXDN3NW253882,40060,40060,40259,Jeep,Wrangler,2022,Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35, San Antonio, TX 78233",29.5474868,-98.3631077
-1C4JJXP64NW275797,58280,54880,54880,Jeep,Wrangler,2022,Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy, Houston, TX 77079",29.78321,-95.5993955
 1C4JJXP64NW275797,58280,54880,54880,Jeep,Wrangler,2022,Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy, Houston, TX 77079",29.78321,-95.5993955
 1C4JJXP60NW275795,58885,55485,55485,Jeep,Wrangler,2022,Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy, Houston, TX 77079",29.78321,-95.5993955
 1C4JJXP69NW275794,59280,55880,55880,Jeep,Wrangler,2022,Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy, Houston, TX 77079",29.78321,-95.5993955
