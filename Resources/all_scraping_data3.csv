@@ -1,0 +1,438 @@
+Make:,Model:,Year:,Mileage:,VIN:,Price:,Dealer Name:,Dealer Address:,Dealer's Price:,MSRP:,Transmission:
+,Wrangler,,15 miles,1C4JJXR61NW152861,"$68,218",Premier CDJR of Lamesa,"1611 Lubbock Hwy Lamesa, TX 79331","$67,935","$67,935",8-Speed Automatic
+,Wrangler,,---,1C4JJXR64NW108322,"$69,920",Shottenkirk Prosper Chrysler Dodge Jeep Ram,"2550 W University Dr Prosper, TX 75078","$69,920","$69,920",8-Speed Automatic
+,Wrangler,,3 miles,1C4JJXR6XNW108101,"$68,700",Pegasus CDJR,"305 South Interstate Highway 45 Ennis, TX 75119","$68,700","$68,700",8-Speed Automatic
+,Wrangler,,---,1C4JJXR62NW270773,"$70,475",Classic Chrysler Dodge Jeep Ram Fiat,"1111 E Interstate 20 Arlington, TX 76018","$70,475","$70,475",8-Speed Automatic
+,Wrangler,,---,1C4JJXR61NW274197,"$70,870",Classic Chrysler Dodge Jeep Ram Fiat,"1111 E Interstate 20 Arlington, TX 76018","$70,870","$70,870",8-Speed Automatic
+,Wrangler,,0 miles,1C4JJXP62NW205277,4WD,Waxahachie Dodge Chrysler Jeep,"2405 N Interstate 35 E Waxahachie, TX 75167",No Price Listed,Not Provided,
+,Wrangler,,0 miles,1C4JJXP65NW227967,4WD,Waxahachie Dodge Chrysler Jeep,"2405 N Interstate 35 E Waxahachie, TX 75167",No Price Listed,Not Provided,
+,Wrangler,,0 miles,1C4JJXP66NW197989,4WD,Waxahachie Dodge Chrysler Jeep,"2405 N Interstate 35 E Waxahachie, TX 75167",No Price Listed,Not Provided,
+,Wrangler,,0 miles,1C4JJXP61NW227951,4WD,Waxahachie Dodge Chrysler Jeep,"2405 N Interstate 35 E Waxahachie, TX 75167",No Price Listed,Not Provided,
+,Wrangler,,5 miles,1C4JJXP67NW249324,4WD,Huffines Chrysler Jeep Dodge Ram Lewisville,"1024 S Stemmons Fwy Lewisville, TX 75067",No Price Listed,"$62,460",8-Speed Automatic
+,Wrangler,,5 miles,1C4JJXP65NW249323,4WD,Huffines Chrysler Jeep Dodge Ram Lewisville,"1024 S Stemmons Fwy Lewisville, TX 75067",No Price Listed,"$62,460",8-Speed Automatic
+,Wrangler,,5 miles,1C4JJXP60NW231487,4WD,Huffines Chrysler Jeep Dodge Ram Lewisville,"1024 S Stemmons Fwy Lewisville, TX 75067",No Price Listed,"$61,170",8-Speed Automatic
+,Wrangler,,5 miles,1C4JJXP69NW231486,4WD,Huffines Chrysler Jeep Dodge Ram Lewisville,"1024 S Stemmons Fwy Lewisville, TX 75067",No Price Listed,"$61,170",8-Speed Automatic
+,Wrangler,,5 miles,1C4JJXP65NW207637,4WD,Huffines Chrysler Jeep Dodge Ram Lewisville,"1024 S Stemmons Fwy Lewisville, TX 75067",No Price Listed,"$61,070",8-Speed Automatic
+,Wrangler,,---,1C4JJXP69NW178174,4WD,Uptown Chrysler Dodge Jeep Ram Fiat,"2800 W Mockingbird Ln Dallas, TX 75235",No Price Listed,"$62,565",8-Speed Automatic
+,Wrangler,,---,1C4JJXP66NW124959,4WD,Huffines Chrysler Jeep Dodge Ram Plano,"4500 W Plano Pkwy Plano, TX 75093",No Price Listed,"$66,145",8-Speed Automatic
+,Tundra,,5 miles,5TFLA5AB9NX008331,"$47,511",Pat Lobb Toyota of McKinney,"3350 S Central Expy Mckinney, TX 75070","$47,511","$47,511",Automatic
+,Tundra,,6 miles,5TFLA5BC2NX001986,"$47,892",Shottenkirk Toyota Weatherford,"3131 Fort Worth Hwy Weatherford, TX 76087","$47,892","$47,892",Automatic
+,Tundra,,1 miles,5TFLA5AB3NX111468,"$48,957",Family Toyota of Arlington,"1661 Wet N Wild Way Arlington, TX 76011","$48,957","$48,957",Automatic
+,Tundra,,0 miles,5TFLA5AB3NX012214,"$50,073",Texas Toyota of Grapevine,"701 E State Highway 114 Grapevine, TX 76092","$50,073","$48,957",Automatic
+,Tundra,,0 miles,5TFLA5AB3NX012830,"$50,073",Texas Toyota of Grapevine,"701 E State Highway 114 Grapevine, TX 76092","$50,073","$48,957",Automatic
+,Tundra,,13 miles,5TFLA5EC0NX007782,"$50,312",Sport City Toyota,"12650 Lyndon B Johnson Fwy Dallas, TX 75228","$50,312","$50,312",Automatic
+,Tundra,,5 miles,5TFLA5AB3NX009930,"$51,376",Pat Lobb Toyota of McKinney,"3350 S Central Expy Mckinney, TX 75070","$51,376","$51,376",Automatic
+,Tundra,,6 miles,5TFLA5DB4NX040258,"$51,957",Shottenkirk Toyota Granbury,"5100 East US Hwy 377 Granbury, TX 76049","$51,957","$51,957",Automatic
+,Tundra,,6 miles,5TFLA5DB0NX039494,"$51,957",Shottenkirk Toyota Weatherford,"3131 Fort Worth Hwy Weatherford, TX 76087","$51,957","$51,957",Automatic
+,Tundra,,6 miles,5TFLA5DB7NX039427,"$51,957",Shottenkirk Toyota Weatherford,"3131 Fort Worth Hwy Weatherford, TX 76087","$51,957","$51,957",Automatic
+,Tundra,,6 miles,5TFLA5AB5NX012196,"$51,965",Shottenkirk Toyota Granbury,"5100 East US Hwy 377 Granbury, TX 76049","$51,965","$51,965",Automatic
+,Tundra,,0 miles,5TFLA5DB7NX035412,"$53,073",Texas Toyota of Grapevine,"701 E State Highway 114 Grapevine, TX 76092","$53,073","$51,957",Automatic
+,Tundra,,0 miles,5TFLA5DB6NX038463,"$56,847",Texas Toyota of Grapevine,"701 E State Highway 114 Grapevine, TX 76092","$56,847","$55,731",Automatic
+,Tundra,,6 miles,5TFJA5DB2NX039049,"$57,936",Shottenkirk Toyota Granbury,"5100 East US Hwy 377 Granbury, TX 76049","$57,936","$57,936",Automatic
+,Tundra,,6 miles,5TFJA5DB9NX038318,"$60,281",Shottenkirk Toyota Granbury,"5100 East US Hwy 377 Granbury, TX 76049","$60,281","$60,281",Automatic
+,Tundra,,6 miles,5TFJA5DB6NX040415,"$61,248",Shottenkirk Toyota Weatherford,"3131 Fort Worth Hwy Weatherford, TX 76087","$61,248","$61,248",Automatic
+,Tundra,,0 miles,5TFMA5AB2NX011222,"$62,845",Texas Toyota of Grapevine,"701 E State Highway 114 Grapevine, TX 76092","$62,845","$61,729",Automatic
+,Tundra,,0 miles,5TFMA5EC8NX21A301,"$65,281",Texas Toyota of Grapevine,"701 E State Highway 114 Grapevine, TX 76092","$65,281","$64,165",Automatic
+,Tundra,,6 miles,5TFMA5EC4NX007336,"$66,042",Shottenkirk Toyota Weatherford,"3131 Fort Worth Hwy Weatherford, TX 76087","$66,042","$66,042",Automatic
+,Tundra,,0 miles,5TFMA5DB0NX039001,"$68,343",Texas Toyota of Grapevine,"701 E State Highway 114 Grapevine, TX 76092","$68,343","$67,227",Automatic
+,Tundra,,0 miles,5TFMA5DB1NX040884,"$68,768",Texas Toyota of Grapevine,"701 E State Highway 114 Grapevine, TX 76092","$68,768","$67,652",Automatic
+,Tundra,,6 miles,5TFVC5DB1NX003705,"$77,922",Shottenkirk Toyota Weatherford,"3131 Fort Worth Hwy Weatherford, TX 76087","$77,922","$77,922",Automatic
+,Tundra,,5 miles,5TFVC5DB7NX003594,"$78,347",Lone Star Toyota of Lewisville,"1547 S. Stemmons Frwy. Lewisville, TX 75067","$78,347","$78,347",Automatic
+,Tundra,,3 miles,5TFLA5AB1NX011210,RWD,Toyota of Richardson,"1221 N Central Expressway Richardson, TX 75080",No Price Listed,Not Provided,
+,Tundra,,25 miles,5TFLA5AB3NX011693,RWD,Toyota of Richardson,"1221 N Central Expressway Richardson, TX 75080",No Price Listed,Not Provided,
+,Tundra,,---,5TFLA5AA2NX011787,RWD,South Toyota,"39660 Lyndon B Johnson Fwy Dallas, TX 75237",No Price Listed,Not Provided,Automatic
+,Bronco,,0 miles,1FMEE5DP8NLB35076,"$32,225",DeMontrond Ford,"3944 US 59 S Cleveland, TX 77328","$32,020",Not Provided,Automatic
+,Bronco,,0 miles,1FMDE5BH9NLB12171,"$40,675",DeMontrond Ford,"3944 US 59 S Cleveland, TX 77328","$40,470",Not Provided,
+,Bronco,,0 miles,1FMDE5BH9NLB13062,"$42,220",DeMontrond Ford,"3944 US 59 S Cleveland, TX 77328","$42,015",Not Provided,
+,Bronco,,0 miles,1FMDE5CP1NLB31612,"$44,700",DeMontrond Ford,"3944 US 59 S Cleveland, TX 77328","$44,495",Not Provided,Automatic
+,Bronco,,10 miles,1FMDE5BH2NLB33377,"$46,520",Griffith Ford San Marcos,"2661 N Interstate 35 San Marcos, TX 78666","$46,520","$46,520",
+,Bronco,,10 miles,1FMDE5BH4NLA82318,"$63,162","J.O. Williams Motors, Inc.","419 E Broadway Ave. Gladewater, TX 75647","$62,955","$52,955",Automatic
+,Bronco,,10 miles,1FMEE5DP6NLB31740,"$54,270",Griffith Ford San Marcos,"2661 N Interstate 35 San Marcos, TX 78666","$54,270","$54,270",
+,Bronco,,10 miles,1FMEE5DP4NLB25337,"$54,920",Griffith Ford San Marcos,"2661 N Interstate 35 San Marcos, TX 78666","$54,920","$54,920",
+,Bronco,,10 miles,1FMEE5DP3NLB09887,"$55,725",Griffith Ford San Marcos,"2661 N Interstate 35 San Marcos, TX 78666","$55,725","$55,725",
+,Bronco,,3 miles,1FMEE5DP4NLB30943,"$56,795",DeMontrond Ford,"3944 US 59 S Cleveland, TX 77328","$56,590",Not Provided,Automatic
+,Bronco,,0 miles,1FMEE5DP0NLA73236,"$57,235",Chaparral Ford Inc.,"102 County Road 773 Devine, TX 78016","$57,235","$57,235",Automatic
+,Bronco,,269 miles,1FMDE5BH2NLA83712,"$57,590",Carvana,"102 County Road 773 Devine, TX 78016","$57,590",Not Provided,Automatic
+,Bronco,,10 miles,1FMEE5DP1NLB31435,"$63,245",Griffith Ford San Marcos,"2661 N Interstate 35 San Marcos, TX 78666","$63,245","$63,245",
+,Bronco,,10 miles,1FMEE5DP3NLB32912,"$64,185",Griffith Ford San Marcos,"2661 N Interstate 35 San Marcos, TX 78666","$64,185","$64,185",
+,Bronco,,58 miles,1FMEE5DP0NLA79277,"$68,990",Carvana,"2661 N Interstate 35 San Marcos, TX 78666","$68,990",Not Provided,Automatic
+,Bronco,,0 miles,1FMDE5CP4NLB41261,4WD,Ford of Boerne,"31480 IH 10 west Boerne, TX 78006",No Price Listed,Not Provided,Automatic
+,Bronco,,6 miles,1FMEE5DP6NLA84810,4WD,Ford of Boerne,"31480 IH 10 west Boerne, TX 78006",No Price Listed,"$55,500",Automatic
+,Maverick,,193 miles,3FTTW8F98NRA45047,"$41,990",Carvana,"31480 IH 10 west Boerne, TX 78006","$41,990",Not Provided,8-Speed Automatic
+,Maverick,,229 miles,3FTTW8F99NRA41511,"$42,990",Carvana,"31480 IH 10 west Boerne, TX 78006","$42,990",Not Provided,8-Speed Automatic
+,Maverick,,58 miles,3FTTW8F98NRA53665,"$43,590",Carvana,"31480 IH 10 west Boerne, TX 78006","$43,590",Not Provided,8-Speed Automatic
+,Hummer,,13 miles,1GT40FDA3NU100794,"$112,839",Sterling McCall Buick GMC,"10422 Southwest Fwy Building D Houston, TX 77074","$112,839","$112,839",Automatic
+,Hummer,,11 miles,1GT40FDA6NU100305,"$114,590",Sterling McCall Buick GMC,"10422 Southwest Fwy Building D Houston, TX 77074","$114,590","$114,590",Automatic
+,Hummer,,0 miles,1GT40FDAXNU100517,"$115,139",Sterling McCall Buick GMC,"10422 Southwest Fwy Building D Houston, TX 77074","$115,139","$115,139",1-Speed Automatic
+,Hummer,,3 miles,1GT40FDA3NU100729,"$115,139",Sterling McCall Buick GMC,"10422 Southwest Fwy Building D Houston, TX 77074","$115,139",Not Provided,1-Speed Automatic
+,Hummer,,11 miles,1GT40FDA1NU100552,"$115,139",Sterling McCall Buick GMC,"10422 Southwest Fwy Building D Houston, TX 77074","$115,139","$115,139",Automatic
+,Hummer,,11 miles,1GT40FDA4NU100674,"$115,139",Sterling McCall Buick GMC,"10422 Southwest Fwy Building D Houston, TX 77074","$115,139","$115,139",Automatic
+,Hummer,,13 miles,1GT40FDA4NU100688,"$115,139",Sterling McCall Buick GMC,"10422 Southwest Fwy Building D Houston, TX 77074","$115,139","$115,139",Automatic
+,Hummer,,5 miles,1GT40FDA3NU100407,"$115,439",Sterling McCall Buick GMC,"10422 Southwest Fwy Building D Houston, TX 77074","$115,439","$115,439",Automatic
+,Blazer,,5 miles,3GNKBERS8NS195163,"$46,015",Cavender Chevrolet,"30700 Interstate 10 - West Boerne, TX 78006","$46,015","$46,015",Automatic
+,Blazer,,5 miles,3GNKBCR47NS203520,"$37,855",Cavender Chevrolet,"30700 Interstate 10 - West Boerne, TX 78006","$37,855","$37,855",Automatic
+,Blazer,,10 miles,3GNKBERSXNS195987,"$46,370",Cavender Chevrolet,"30700 Interstate 10 - West Boerne, TX 78006","$46,370","$46,370",Automatic
+,Blazer,,0 miles,3GNKBCR40NS202323,"$34,100",Neessen Chevrolet Buick GMC Truck,"2007 S US Highway 77 Byp Kingsville, TX 78363","$34,100","$35,350",Automatic
+,Blazer,,2 miles,3GNKBCR43NS200923,"$37,281",Freestone Autoplex,"1201 Hwy 84 West Fairfield, TX 75840","$36,961","$37,950",9-Speed Automatic Overdrive
+,Blazer,,5 miles,3GNKBCR47NS203520,"$37,855",Cavender Chevrolet,"30700 Interstate 10 - West Boerne, TX 78006","$37,855","$37,855",Automatic
+,Blazer,,2 miles,3GNKBFRS5NS189150,"$42,386",Westside Chevrolet,"23001 Katy Fwy Katy, TX 77450","$42,141","$43,040",Automatic
+,Blazer,,2 miles,3GNKBERS4NS145909,"$43,706",Classic Chevrolet of Houston,"7000 Southwest Fwy Houston, TX 77074","$43,442","$44,980",9-Speed Automatic Overdrive
+,Blazer,,271 miles,3GNKBJRS1NS124962,"$44,990",Carvana,"7000 Southwest Fwy Houston, TX 77074","$44,990",Not Provided,9-Speed Automatic Overdrive
+,Blazer,,5 miles,3GNKBERS2NS200339,"$46,885",Four Stars Auto Ranch Chevrolet Buick,"262 US HWY 287 S Henrietta, TX 76365","$46,885","$46,885",9-Speed Automatic Overdrive
+,Blazer,,5 miles,3GNKBERS8NS195163,"$46,015",Cavender Chevrolet,"30700 Interstate 10 - West Boerne, TX 78006","$46,015","$46,015",Automatic
+,Blazer,,10 miles,3GNKBERSXNS195987,"$46,370",Cavender Chevrolet,"30700 Interstate 10 - West Boerne, TX 78006","$46,370","$46,370",Automatic
+,Blazer,,2 miles,3GNKBERS2NS203029,"$47,670",El Dorado Chevrolet,"2300 North Central Expressway Mckinney, TX 75070","$47,670","$47,670",9-Speed Automatic Overdrive
+,Blazer,,10 miles,3GNKBERS8NS196409,"$46,725","Gunn Chevrolet, Ltd.","16550 Interstate 35 N Selma, TX 78154","$46,725","$45,975",Automatic
+,Blazer,,10 miles,3GNKBERS7NS196885,"$47,275","Gunn Chevrolet, Ltd.","16550 Interstate 35 N Selma, TX 78154","$47,275","$46,525",Automatic
+,Blazer,,10 miles,3GNKBERS2NS196860,"$47,850","Gunn Chevrolet, Ltd.","16550 Interstate 35 N Selma, TX 78154","$47,850","$47,520",Automatic
+,Blazer,,0 miles,3GNKBCR46NS193725,FWD,Richardson Chevrolet,"1539 US Hwy 181 N Floresville, TX 78114",No Price Listed,"$35,100",9-Speed Automatic
+,Blazer,,1 miles,3GNKBCR49NS198479,FWD,ValMark Chevrolet,"725 S Ih 35 New Braunfels, TX 78130",No Price Listed,"$37,670",9-Speed Automatic Overdrive
+,Blazer,,5 miles,3GNKBERS3NS194860,FWD,ValMark Chevrolet,"725 S Ih 35 New Braunfels, TX 78130",No Price Listed,"$46,910",9-Speed Automatic Overdrive
+,Blazer,,9 miles,3GNKBERS1NS192766,FWD,Price Chevrolet,"2035 W Oaklawn Pleasanton, TX 78064",No Price Listed,"$43,750",Automatic
+,Wrangler,,0 miles,1C4GJXAN0NW257291,"$34,175",Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079","$34,175","$37,275",8-Speed Automatic
+,Wrangler,,11 miles,1C4HJXAG9NW180572,"$38,560",San Marcos Chrysler Dodge,"2990 I-35 S San Marcos, TX 78666","$38,560","$38,560",8-Speed Automatic
+,Wrangler,,15 miles,1C4HJXAG3NW194869,"$38,968",Premier CDJR of Lamesa,"1611 Lubbock Hwy Lamesa, TX 79331","$38,660","$38,660",8-Speed Automatic
+,Wrangler,,0 miles,1C4HJXAG9NW272555,"$39,370",San Marcos Chrysler Dodge,"2990 I-35 S San Marcos, TX 78666","$39,370","$39,370",8-Speed Automatic
+,Wrangler,,273 miles,1C4GJXAG4MW759639,"$39,590",Carvana,"2990 I-35 S San Marcos, TX 78666","$39,590",Not Provided,6-Speed Manual
+,Wrangler,,0 miles,1C4HJXAG7NW262882,"$39,719",Neessen Chrysler Dodge Jeep Ram,"2151 N US Highway 77 Byp Kingsville, TX 78363","$39,575","$39,575",Automatic
+,Wrangler,,11 miles,1C4GJXAN4NW175564,"$40,561",Nyle Maxwell CDJR of Castroville,"1950 US Highway 90 E Castroville, TX 78009","$40,561","$41,330",8-Speed Automatic
+,Wrangler,,29 miles,1C4GJXANXNW175567,"$40,716",Nyle Maxwell CDJR of Castroville,"1950 US Highway 90 E Castroville, TX 78009","$40,716","$41,330",8-Speed Automatic
+,Wrangler,,2 miles,1C4GJXANXNW223827,"$41,230",Freestone Autoplex,"1201 Hwy 84 West Fairfield, TX 75840","$40,910","$39,910",8-Speed Automatic
+,Wrangler,,2 miles,1C4GJXAN8NW223826,"$41,625",Freestone Autoplex,"1201 Hwy 84 West Fairfield, TX 75840","$41,305","$40,305",8-Speed Automatic
+,Wrangler,,2 miles,1C4GJXAN1NW223828,"$41,625",Freestone Autoplex,"1201 Hwy 84 West Fairfield, TX 75840","$41,305","$40,305",8-Speed Automatic
+,Wrangler,,0 miles,1C4HJXAG1NW242112,"$43,250",San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233","$43,250","$43,250",Automatic
+,Wrangler,,2 miles,1C4GJXANXNW223830,"$44,480",Freestone Autoplex,"1201 Hwy 84 West Fairfield, TX 75840","$44,160","$43,160",8-Speed Automatic
+,Wrangler,,2 miles,1C4GJXAG1NW223829,"$44,585",Freestone Autoplex,"1201 Hwy 84 West Fairfield, TX 75840","$44,265","$43,265",8-Speed Automatic
+,Wrangler,,6 miles,1C4HJXCG2NW201906,"$46,344",Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035","$45,945","$45,945",Manual
+,Wrangler,,0 miles,1C4HJXCN0NW196137,"$50,934",Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035","$50,535","$50,535",Automatic
+,Wrangler,,15 miles,1C4HJXCG4NW180850,"$51,298",Premier CDJR of Lamesa,"1611 Lubbock Hwy Lamesa, TX 79331","$50,990","$50,990",8-Speed Automatic
+,Wrangler,,10 miles,1C4HJXDG9NW194970,"$49,771",Atascosa Chrysler Dodge Jeep,"110128 I-37 Pleasanton, TX 78064","$49,771","$50,220",8-Speed Automatic
+,Wrangler,,0 miles,1C4HJXDN2NW231419,"$36,465",Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079","$36,465","$39,565",8-Speed Automatic
+,Wrangler,,0 miles,1C4HJXDN9NW231417,"$36,465",Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079","$36,465","$39,565",8-Speed Automatic
+,Wrangler,,0 miles,1C4HJXDNXNW252230,"$39,270",Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079","$39,270","$42,370",8-Speed Automatic
+,Wrangler,,0 miles,1C4HJXDN1NW243593,"$39,615",Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079","$39,615","$42,715",8-Speed Automatic
+,Wrangler,,0 miles,1C4HJXDNXNW252227,"$39,665",Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079","$39,665","$42,765",8-Speed Automatic
+,Wrangler,,1 miles,1C4HJXDN3NW252232,"$41,609",Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079","$41,609","$42,765",8-Speed Automatic
+,Wrangler,,0 miles,1C4HJXDG1NW240629,"$39,885",Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079","$39,885","$42,985",8-Speed Automatic
+,Wrangler,,0 miles,1C4HJXDN5NW243595,"$39,965",Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079","$39,965","$43,065",8-Speed Automatic
+,Wrangler,,0 miles,1C4HJXDN1NW253881,"$40,060",San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233","$40,060","$40,060",Automatic
+,Wrangler,,0 miles,1C4HJXDN3NW253882,"$40,060",San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233","$40,060","$40,060",Automatic
+,Wrangler,,0 miles,1C4HJXDN6NW243959,"$40,160",San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233","$40,160","$40,160",Automatic
+,Wrangler,,0 miles,1C4HJXDNXNW253569,"$42,125",Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079","$42,125","$45,225",8-Speed Automatic
+,Wrangler,,0 miles,1C4HJXDN8NW242280,"$43,379",Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035","$42,980","$42,980",Automatic
+,Wrangler,,0 miles,1C4HJXDG9NW226056,"$43,879",Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035","$43,480","$43,480",Automatic
+,Wrangler,,---,1C4HJXDG1NW225029,"$43,920",Boerne Dodge Chrysler Jeep Ram,"30300 I-10 West Boerne, TX 78006","$43,920","$43,920",8-Speed Automatic
+,Wrangler,,0 miles,1C4HJXDG6NW224829,"$45,279",Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035","$44,880","$44,880",Automatic
+,Wrangler,,11 miles,1C4HJXDG9NW181815,"$45,650",Nyle Maxwell CDJR of Castroville,"1950 US Highway 90 E Castroville, TX 78009","$45,650","$46,150",8-Speed Automatic
+,Wrangler,,8 miles,1C4HJXDNXMW815680,"$45,835",San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233","$45,835",Not Provided,Automatic
+,Wrangler,,11 miles,1C4HJXDG2NW181817,"$46,045",Nyle Maxwell CDJR of Castroville,"1950 US Highway 90 E Castroville, TX 78009","$46,045","$46,545",8-Speed Automatic
+,Wrangler,,0 miles,1C4HJXDNXNW201424,"$46,219",Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035","$45,820","$45,820",Automatic
+,Wrangler,,0 miles,1C4HJXDM8NW231982,"$46,775",Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079","$46,775","$49,875",8-Speed Automatic
+,Wrangler,,11 miles,1C4HJXDG7NW181814,"$47,045",Nyle Maxwell CDJR of Castroville,"1950 US Highway 90 E Castroville, TX 78009","$47,045","$47,045",8-Speed Automatic
+,Wrangler,,11 miles,1C4HJXDG5NW181813,"$47,045",Nyle Maxwell CDJR of Castroville,"1950 US Highway 90 E Castroville, TX 78009","$47,045","$47,045",8-Speed Automatic
+,Wrangler,,0 miles,1C4HJXDGXNW231427,"$47,570",Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079","$47,570","$50,670",8-Speed Automatic
+,Wrangler,,2 miles,1C4HJXDN1NW223831,"$47,685",Freestone Autoplex,"1201 Hwy 84 West Fairfield, TX 75840","$47,365","$46,365",8-Speed Automatic
+,Wrangler,,0 miles,1C4HJXDG3NW231429,"$47,965",Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079","$47,965","$51,065",8-Speed Automatic
+,Wrangler,,0 miles,1C4HJXDG2NW227579,"$48,270",Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079","$48,270","$51,370",8-Speed Automatic
+,Wrangler,,2 miles,1C4HJXDN3NW223832,"$48,330",Freestone Autoplex,"1201 Hwy 84 West Fairfield, TX 75840","$48,010","$47,010",8-Speed Automatic
+,Wrangler,,6 miles,1C4HJXEN2NW118228,"$48,529",Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035","$48,130","$48,130",Automatic
+,Wrangler,,0 miles,1C4HJXDG8NW231426,"$48,665",Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079","$48,665","$51,765",8-Speed Automatic
+,Wrangler,,0 miles,1C4HJXDN7NW222313,"$48,829",Neessen Chrysler Dodge Jeep Ram,"2151 N US Highway 77 Byp Kingsville, TX 78363","$48,685","$48,685",Automatic
+,Wrangler,,0 miles,1C4HJXDG6NW231425,"$49,110",Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079","$49,110","$52,210",8-Speed Automatic
+,Wrangler,,0 miles,1C4HJXDG0NW227581,"$49,460",Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079","$49,460","$52,560",8-Speed Automatic
+,Wrangler,,0 miles,1C4HJXDG0NW227578,"$49,460",Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079","$49,460","$52,560",8-Speed Automatic
+,Wrangler,,0 miles,1C4HJXDG9NW227577,"$49,460",Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079","$49,460","$52,560",8-Speed Automatic
+,Wrangler,,10 miles,1C4HJXDG9NW194970,"$49,771",Atascosa Chrysler Dodge Jeep,"110128 I-37 Pleasanton, TX 78064","$49,771","$50,220",8-Speed Automatic
+,Wrangler,,0 miles,1C4HJXEN3NW253136,"$50,395",San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233","$50,395","$50,395",Automatic
+,Wrangler,,0 miles,1C4HJXEN5NW253137,"$50,790",San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233","$50,790","$50,790",Automatic
+,Wrangler,,0 miles,1C4HJXEN1NW253135,"$50,790",San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233","$50,790","$50,790",Automatic
+,Wrangler,,15 miles,1C4HJXEG7NW260091,"$51,035",San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233","$51,035","$51,035",Automatic
+,Wrangler,,65 miles,1C4HJXDG7NW200846,"$51,088",San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233","$51,088","$51,165",Automatic
+,Wrangler,,8 miles,1C4HJXDM6NW255603,"$51,138",San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233","$51,138","$51,215",Automatic
+,Wrangler,,0 miles,1C4HJXDG3NW224349,"$51,259",Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035","$50,860","$50,860",Automatic
+,Wrangler,,12 miles,1C4HJXDG2NW115655,"$52,152",San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233","$52,152","$52,230",Automatic
+,Wrangler,,9 miles,1C4HJXDMXNW247522,"$53,425",San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233","$53,425","$53,505",Automatic
+,Wrangler,,4 miles,1C4HJXDG9NW249661,"$53,444",Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035","$53,045","$53,045",Automatic
+,Wrangler,,20 miles,1C4HJXDM1NW247523,"$53,724",San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233","$53,724","$53,805",Automatic
+,Wrangler,,1 miles,1C4HJXFN2NW248234,"$53,616",Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079","$53,616","$56,940",8-Speed Automatic
+,Wrangler,,10 miles,1C4HJXDG8NW204095,"$54,649",Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035","$54,250","$54,250",Automatic
+,Wrangler,,0 miles,1C4HJXEN8NW252760,"$54,909",Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035","$54,510","$54,510",Automatic
+,Wrangler,,---,1C4HJXFN6NW252125,"$55,665",Boerne Dodge Chrysler Jeep Ram,"30300 I-10 West Boerne, TX 78006","$55,665","$55,665",8-Speed Automatic
+,Wrangler,,0 miles,1C4HJXDGXNW203658,"$55,764",Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035","$55,365","$55,365",Automatic
+,Wrangler,,0 miles,1C4HJXDG8NW203657,"$56,159",Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035","$55,760","$55,760",Automatic
+,Wrangler,,4 miles,1C4HJXEN0NW208154,"$56,974",Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035","$56,575","$56,575",Automatic
+,Wrangler,,11 miles,1C4HJXDG7NW272095,"$57,056",Ingram Park Auto Center Chrysler Jeep,"7000 NW Loop 410 San Antonio, TX 78238","$57,056","$59,700",8-Speed Automatic
+,Wrangler,,0 miles,1C4HJXFN2NW246452,"$58,124",Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035","$57,725","$57,725",Automatic
+,Wrangler,,13 miles,1C4HJXEM8NW248862,"$58,170",San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233","$58,170","$58,170",Automatic
+,Wrangler,,15 miles,1C4HJXFG2NW266864,"$60,073",Premier CDJR of Lamesa,"1611 Lubbock Hwy Lamesa, TX 79331","$59,765","$59,765",8-Speed Automatic
+,Wrangler,,0 miles,1C4HJXFN4NW246453,"$61,164",Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035","$60,765","$60,765",Automatic
+,Wrangler,,0 miles,1C4HJXFN0NW253884,"$62,172",San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233","$62,172","$62,265",Automatic
+,Wrangler,,0 miles,1C4HJXFG6NW260324,"$67,424",San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233","$67,424","$67,525",Automatic
+,Wrangler,,10 miles,1C4JJXSJ2MW789433,"$80,995",Price Chrysler Dodge Jeep Ram,"1541 US Highway 181 N Floresville, TX 78114","$80,995","$80,995",Automatic
+,Wrangler,,17 miles,1C4HJXDG4NW124454,4WD,Yaklin Chrysler Dodge Jeep Ram,"1550 W Kingsbury St Seguin, TX 78155",No Price Listed,Not Provided,Automatic
+,Wrangler,,0 miles,1C4JJXP64NW214417,"$60,695",Yaklin Chrysler Dodge Jeep Ram,"1550 W Kingsbury St Seguin, TX 78155","$60,695","$60,695",Automatic
+,Wrangler,,0 miles,1C4JJXP64NW275797,"$54,880",Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079","$54,880","$58,280",8-Speed Automatic
+,Wrangler,,0 miles,1C4JJXP60NW275795,"$55,485",Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079","$55,485","$58,885",8-Speed Automatic
+,Wrangler,,0 miles,1C4JJXP69NW275794,"$55,880",Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079","$55,880","$59,280",8-Speed Automatic
+,Wrangler,,0 miles,1C4JJXP69NW205292,"$58,280",San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233","$58,280","$58,280",Automatic
+,Wrangler,,13 miles,1C4JJXP67NW136926,"$58,280",San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233","$58,280","$58,280",Automatic
+,Wrangler,,0 miles,1C4JJXP68NW229521,"$58,550",San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233","$58,550","$58,550",Automatic
+,Wrangler,,25 miles,1C4JJXP60NW177883,"$58,888",Premier CDJR of Lamesa,"1611 Lubbock Hwy Lamesa, TX 79331","$58,580","$58,580",8-Speed Automatic
+,Wrangler,,14 miles,1C4JJXP66NW229520,"$58,945",San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233","$58,945","$58,945",Automatic
+,Wrangler,,0 miles,1C4JJXP67NW274367,"$60,169",Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035","$59,770","$59,770",Automatic
+,Wrangler,,0 miles,1C4JJXP64NW214417,"$60,695",Yaklin Chrysler Dodge Jeep Ram,"1550 W Kingsbury St Seguin, TX 78155","$60,695","$60,695",Automatic
+,Wrangler,,0 miles,1C4JJXP62NW198671,"$60,774",Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035","$60,375","$60,375",Automatic
+,Wrangler,,12 miles,1C4JJXP69NW228121,"$61,075",San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233","$61,075","$61,075",Automatic
+,Wrangler,,0 miles,1C4JJXP60NW228122,"$61,470",San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233","$61,470","$61,470",Automatic
+,Wrangler,,0 miles,1C4JJXP67NW228120,"$61,470",San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233","$61,470","$61,470",Automatic
+,Wrangler,,0 miles,1C4JJXP61NW264952,"$61,570",San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233","$61,570","$61,570",Automatic
+,Wrangler,,11 miles,1C4JJXP65NW232294,"$61,770",San Marcos Chrysler Dodge,"2990 I-35 S San Marcos, TX 78666","$61,770","$61,770",8-Speed Automatic
+,Wrangler,,0 miles,1C4JJXP69NW228569,"$61,969",Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035","$61,570","$61,570",Automatic
+,Wrangler,,15 miles,1C4JJXP65NW153563,"$62,243",Premier CDJR of Lamesa,"1611 Lubbock Hwy Lamesa, TX 79331","$61,935","$61,935",8-Speed Automatic
+,Wrangler,,0 miles,1C4JJXR68NW198655,"$62,325",Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079","$62,325","$65,725",8-Speed Automatic
+,Wrangler,,0 miles,1C4JJXP61NW198211,"$62,525",San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233","$62,525","$62,525",Automatic
+,Wrangler,,13 miles,1C4JJXP67NW228571,"$62,619",Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035","$62,220","$62,220",Automatic
+,Wrangler,,13 miles,1C4JJXP69NW228572,"$62,619",Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035","$62,220","$62,220",Automatic
+,Wrangler,,9 miles,1C4JJXP6XNW198210,"$62,920",San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233","$62,920","$62,920",Automatic
+,Wrangler,,14 miles,1C4JJXP67NW198214,"$62,920",San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233","$62,920","$62,920",Automatic
+,Wrangler,,0 miles,1C4JJXP63NW264533,"$64,190",San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233","$64,190","$64,190",Automatic
+,Wrangler,,15 miles,1C4JJXR61NW152861,"$68,243",Premier CDJR of Lamesa,"1611 Lubbock Hwy Lamesa, TX 79331","$67,935","$67,935",8-Speed Automatic
+,Wrangler,,0 miles,1C4JJXR62NW222268,"$69,685",San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233","$69,685","$69,685",Automatic
+,Tundra,,---,5TFLA5AB4NX012657,"$47,723",Toyota of Boerne,"31205 I-10 W Boerne, TX 78006","$47,723",Not Provided,Automatic
+,Tundra,,---,5TFLA5AB8NX011303,"$49,039",Toyota of Boerne,"31205 I-10 W Boerne, TX 78006","$49,039",Not Provided,Automatic
+,Tundra,,1 miles,5TFLA5AB3NX111468,"$49,198",Family Toyota of Arlington,"1661 Wet N Wild Way Arlington, TX 76011","$48,957","$48,957",Automatic
+,Tundra,,10 miles,5TFLA5AB1NX012499,"$49,970",North Park Toyota of San Antonio,"10703 S.W. Loop 410 San Antonio, TX 78211","$49,970","$49,970",Automatic
+,Tundra,,---,5TFLA5DB5NX038535,"$50,453",Toyota of Boerne,"31205 I-10 W<br>Boerne, TX 78006","$50,453",Not Provided,Automatic
+,Tundra,,0 miles,5TFJA5AB4NX010771,"$54,796",Alamo Toyota,"18019 US 281 North<br>San Antonio, TX 78232","$54,796","$54,796",Automatic
+,Tundra,,10 miles,5TFLA5DB3NX040445,"$55,317",North Park Toyota of San Antonio,"10703 S.W. Loop 410<br>San Antonio, TX 78211","$55,317","$55,317",Automatic
+,Tundra,,0 miles,5TFJC5BC7NX001029,"$58,469",Alamo Toyota,"18019 US 281 North<br>San Antonio, TX 78232","$58,469","$58,469",Automatic
+,Tundra,,0 miles,5TFJC5AB0NX001141,"$58,859",Toyota of Laredo,"6324 Bob Bullock Loop<br>Laredo, TX 78041","$58,640","$58,640",Automatic
+,Tundra,,5 miles,5TFJA5DB5NX014601,"$60,168","Powell Watson Motors, Inc.","6301 Arena Blvd<br>Laredo, TX 78041","$59,949","$59,949",Automatic
+,Tundra,,0 miles,5TFNA5DB3NX039174,"$65,187",Alamo Toyota,"18019 US 281 North<br>San Antonio, TX 78232","$65,187","$65,187",Automatic
+,Tundra,,0 miles,5TFPC5DB4NX004081,"$70,377",Alamo Toyota,"18019 US 281 North<br>San Antonio, TX 78232","$70,377","$70,377",Automatic
+,Tundra,,2 miles,5TFMC5EC2NX001223,4WD,Red Mccombs Toyota,"13526 Interstate 10 Frontage Road<br>San Antonio, TX 78249",No Price Listed,Not Provided,Automatic
+,Tundra,,0 miles,5TFKB5ABXNX012476,RWD,Red Mccombs Toyota,"13526 Interstate 10 Frontage Road<br>San Antonio, TX 78249",No Price Listed,Not Provided,Automatic
+,Tundra,,---,5TFLA5DBXNX035937,4WD,Toyota of Boerne,"31205 I-10 W<br>Boerne, TX 78006",No Price Listed,Not Provided,Automatic
+,Tundra,,---,5TFLA5AB0NX011280,RWD,Toyota of Boerne,"31205 I-10 W<br>Boerne, TX 78006",No Price Listed,Not Provided,Automatic
+,Tundra,,---,5TFLA5DB1NX036393,4WD,Toyota of Boerne,"31205 I-10 W<br>Boerne, TX 78006",No Price Listed,Not Provided,Automatic
+,Tundra,,---,5TFLA5AB3NX011743,RWD,Toyota of Boerne,"31205 I-10 W<br>Boerne, TX 78006",No Price Listed,Not Provided,Automatic
+,Tundra,,---,5TFLA5DB9NX035864,4WD,Toyota of Boerne,"31205 I-10 W<br>Boerne, TX 78006",No Price Listed,Not Provided,Automatic
+,Tundra,,---,5TFLA5AB8NX010894,RWD,Toyota of Boerne,"31205 I-10 W<br>Boerne, TX 78006",No Price Listed,Not Provided,Automatic
+,Tundra,,---,5TFJA5BC8NX001983,RWD,Toyota of Boerne,"31205 I-10 W<br>Boerne, TX 78006",No Price Listed,Not Provided,Automatic
+,Bronco,,0 miles,1FMEE5DP8NLB35076,"$32,174",DeMontrond Ford,"3944 US 59 S<br>Cleveland, TX 77328","$32,020",Not Provided,Automatic
+,Bronco,,0 miles,1FMDE5BH9NLB12171,"$40,624",DeMontrond Ford,"3944 US 59 S<br>Cleveland, TX 77328","$40,470",Not Provided,
+,Bronco,,0 miles,1FMDE5BH9NLB13062,"$42,169",DeMontrond Ford,"3944 US 59 S<br>Cleveland, TX 77328","$42,015",Not Provided,
+,Bronco,,0 miles,1FMDE5CP1NLB31612,"$44,649",DeMontrond Ford,"3944 US 59 S<br>Cleveland, TX 77328","$44,495",Not Provided,Automatic
+,Bronco,,8 miles,1FMDE5BH6NLB45077,"$45,465",Maxwell Ford,"5000 South IH-35<br>Austin, TX 78745","$45,465","$45,465",Automatic
+,Bronco,,10 miles,1FMDE5BH2NLB33377,"$46,520",Griffith Ford San Marcos,"2661 N Interstate 35<br>San Marcos, TX 78666","$46,520","$46,520",
+,Bronco,,8 miles,1FMDE5BH8NLB45095,"$46,775",Maxwell Ford,"5000 South IH-35<br>Austin, TX 78745","$46,775","$46,775",Automatic
+,Bronco,,11 miles,1FMEE5BP1NLB44446,"$49,115",Maxwell Ford,"5000 South IH-35<br>Austin, TX 78745","$49,115","$49,115",Automatic
+,Bronco,,11 miles,1FMEE5BP4NLB43551,"$49,115",Maxwell Ford,"5000 South IH-35<br>Austin, TX 78745","$49,115","$49,115",Automatic
+,Bronco,,10 miles,1FMDE5BH4NLA82318,"$63,115","J.O. Williams Motors, Inc.","419 E Broadway Ave.<br>Gladewater, TX 75647","$62,955","$52,955",Automatic
+,Bronco,,8 miles,1FMEE5BPXNLB44588,"$51,760",Maxwell Ford,"5000 South IH-35<br>Austin, TX 78745","$51,760","$51,760",Automatic
+,Bronco,,10 miles,1FMEE5DP6NLB31740,"$54,270",Griffith Ford San Marcos,"2661 N Interstate 35<br>San Marcos, TX 78666","$54,270","$54,270",
+,Bronco,,10 miles,1FMEE5DP4NLB25337,"$54,920",Griffith Ford San Marcos,"2661 N Interstate 35<br>San Marcos, TX 78666","$54,920","$54,920",
+,Bronco,,10 miles,1FMEE5DP3NLB09887,"$55,725",Griffith Ford San Marcos,"2661 N Interstate 35<br>San Marcos, TX 78666","$55,725","$55,725",
+,Bronco,,3 miles,1FMEE5DP4NLB30943,"$56,744",DeMontrond Ford,"3944 US 59 S<br>Cleveland, TX 77328","$56,590",Not Provided,Automatic
+,Bronco,,269 miles,1FMDE5BH2NLA83712,"$57,590",Carvana,"3944 US 59 S<br>Cleveland, TX 77328","$57,590",Not Provided,Automatic
+,Bronco,,10 miles,1FMEE5DP1NLB31435,"$63,245",Griffith Ford San Marcos,"2661 N Interstate 35<br>San Marcos, TX 78666","$63,245","$63,245",
+,Bronco,,10 miles,1FMEE5DP3NLB32912,"$64,185",Griffith Ford San Marcos,"2661 N Interstate 35<br>San Marcos, TX 78666","$64,185","$64,185",
+,Bronco,,58 miles,1FMEE5DP0NLA79277,"$68,990",Carvana,"2661 N Interstate 35<br>San Marcos, TX 78666","$68,990",Not Provided,Automatic
+,Bronco,,0 miles,1FMEE5DP8MLA94298,4WD,Covert Ford Lincoln-Austin,"11514 Research Blvd<br>Austin, TX 78759",No Price Listed,Not Provided,Automatic
+,Bronco,,0 miles,1FMDE5CP5NLA97657,4WD,Covert Ford Lincoln-Austin,"11514 Research Blvd<br>Austin, TX 78759",No Price Listed,Not Provided,Automatic
+,Bronco,,0 miles,1FMDE5BH7NLB12346,4WD,Covert Ford Hutto,"1200 US Highway 79, #B<br>Hutto, TX 78634",No Price Listed,"$47,905",
+,Bronco,,0 miles,1FMDE5CP8NLB31462,4WD,Covert Ford Lincoln-Austin,"11514 Research Blvd<br>Austin, TX 78759",No Price Listed,Not Provided,Automatic
+,Bronco,,0 miles,1FMEE5DP9NLB07528,4WD,Mac Haik Ford Lincoln,"7201 South IH-35<br>Georgetown, TX 78627",No Price Listed,Not Provided,Automatic
+,Bronco,,0 miles,1FMDE5BH3NLB16037,4WD,Mac Haik Ford Lincoln,"7201 South IH-35<br>Georgetown, TX 78627",No Price Listed,Not Provided,Automatic
+,Bronco,,0 miles,1FMDE5BH2NLB21925,4WD,Covert Ford Lincoln-Austin,"11514 Research Blvd<br>Austin, TX 78759",No Price Listed,Not Provided,Automatic
+,Bronco,,0 miles,1FMEE5DP2NLB07614,4WD,Covert Ford Lincoln-Austin,"11514 Research Blvd<br>Austin, TX 78759",No Price Listed,Not Provided,Automatic
+,Bronco,,"7,707 miles",1FMEE5DP2MLA90053,"$58,674",Maxwell Ford,"5000 South IH-35<br>Austin, TX 78745","$58,674",Not Provided,Automatic
+,Maverick,,10 miles,3FTTW8F96NRA66348,"$31,855",Maxwell Ford,"5000 South IH-35<br>Austin, TX 78745","$31,855","$31,855",Automatic
+,Maverick,,0 miles,3FTTW8F96NRA78323,"$32,284",Vernon Ford,"2803 Wilbarger St<br>Vernon, TX 76384","$31,855","$31,855",Automatic
+,Maverick,,193 miles,3FTTW8F98NRA45047,"$41,990",Carvana,"2803 Wilbarger St<br>Vernon, TX 76384","$41,990",Not Provided,8-Speed Automatic
+,Maverick,,229 miles,3FTTW8F99NRA41511,"$42,990",Carvana,"2803 Wilbarger St<br>Vernon, TX 76384","$42,990",Not Provided,8-Speed Automatic
+,Maverick,,58 miles,3FTTW8F98NRA53665,"$43,590",Carvana,"2803 Wilbarger St<br>Vernon, TX 76384","$43,590",Not Provided,8-Speed Automatic
+,Hummer,,13 miles,1GT40FDA3NU100794,"$112,839",Sterling McCall Buick GMC,"10422 Southwest Fwy Building D<br>Houston, TX 77074","$112,839","$112,839",Automatic
+,Hummer,,11 miles,1GT40FDA6NU100305,"$114,590",Sterling McCall Buick GMC,"10422 Southwest Fwy Building D<br>Houston, TX 77074","$114,590","$114,590",Automatic
+,Hummer,,0 miles,1GT40FDAXNU100517,"$115,139",Sterling McCall Buick GMC,"10422 Southwest Fwy Building D<br>Houston, TX 77074","$115,139","$115,139",1-Speed Automatic
+,Hummer,,3 miles,1GT40FDA3NU100729,"$115,139",Sterling McCall Buick GMC,"10422 Southwest Fwy Building D<br>Houston, TX 77074","$115,139",Not Provided,1-Speed Automatic
+,Hummer,,11 miles,1GT40FDA1NU100552,"$115,139",Sterling McCall Buick GMC,"10422 Southwest Fwy Building D<br>Houston, TX 77074","$115,139","$115,139",Automatic
+,Hummer,,11 miles,1GT40FDA4NU100674,"$115,139",Sterling McCall Buick GMC,"10422 Southwest Fwy Building D<br>Houston, TX 77074","$115,139","$115,139",Automatic
+,Hummer,,13 miles,1GT40FDA4NU100688,"$115,139",Sterling McCall Buick GMC,"10422 Southwest Fwy Building D<br>Houston, TX 77074","$115,139","$115,139",Automatic
+,Hummer,,5 miles,1GT40FDA3NU100407,"$115,439",Sterling McCall Buick GMC,"10422 Southwest Fwy Building D<br>Houston, TX 77074","$115,439","$115,439",Automatic
+,Blazer,,0 miles,3GNKBCR40NS202323,"$34,100",Neessen Chevrolet Buick GMC Truck,"2007 S US Highway 77 Byp<br>Kingsville, TX 78363","$34,100","$35,350",Automatic
+,Blazer,,2 miles,3GNKBCR43NS200923,"$37,179",Freestone Autoplex,"1201 Hwy 84 West<br>Fairfield, TX 75840","$36,961","$37,950",9-Speed Automatic Overdrive
+,Blazer,,13 miles,3GNKBDRS0NS175435,"$43,515",Coleman Chevrolet,"510 Addison St<br>New Boston, TX 75570","$43,219","$40,220",9-Speed Automatic Overdrive
+,Blazer,,2 miles,3GNKBFRS5NS189150,"$42,330",Westside Chevrolet,"23001 Katy Fwy<br>Katy, TX 77450","$42,141","$43,040",Automatic
+,Blazer,,2 miles,3GNKBERS4NS145909,"$43,652",Classic Chevrolet of Houston,"7000 Southwest Fwy<br>Houston, TX 77074","$43,442","$44,980",9-Speed Automatic Overdrive
+,Blazer,,0 miles,3GNKBERSXNS185184,"$44,355",Capitol Chevrolet,"6200 S I H 35<br>Austin, TX 78745","$44,355","$45,605",Automatic
+,Blazer,,271 miles,3GNKBJRS1NS124962,"$44,990",Carvana,"6200 S I H 35<br>Austin, TX 78745","$44,990",Not Provided,9-Speed Automatic Overdrive
+,Blazer,,5 miles,3GNKBERS2NS200339,"$46,885",Four Stars Auto Ranch Chevrolet Buick,"262 US HWY 287 S<br>Henrietta, TX 76365","$46,885","$46,885",9-Speed Automatic Overdrive
+,Blazer,,7 miles,3GNKBERS4NS143769,"$47,465",Coleman Chevrolet,"510 Addison St<br>New Boston, TX 75570","$47,169","$44,870",9-Speed Automatic Overdrive
+,Blazer,,2 miles,3GNKBERS2NS203029,"$47,670",El Dorado Chevrolet,"2300 North Central Expressway<br>Mckinney, TX 75070","$47,670","$47,670",9-Speed Automatic Overdrive
+,Blazer,,10 miles,3GNKBERS8NS196409,"$46,725","Gunn Chevrolet, Ltd.","16550 Interstate 35 N<br>Selma, TX 78154","$46,725","$45,975",Automatic
+,Blazer,,10 miles,3GNKBERS7NS196885,"$47,275","Gunn Chevrolet, Ltd.","16550 Interstate 35 N<br>Selma, TX 78154","$47,275","$46,525",Automatic
+,Blazer,,10 miles,3GNKBERS2NS196860,"$47,850","Gunn Chevrolet, Ltd.","16550 Interstate 35 N<br>Selma, TX 78154","$47,850","$47,520",Automatic
+,Blazer,,0 miles,3GNKBCR41NS202217,FWD,"Covert Chevrolet, Buick, GMC-Bastrop","702 State Highway 71 W<br>Bastrop, TX 78602",No Price Listed,Not Provided,Automatic
+,Blazer,,0 miles,3GNKBCR42NS202095,FWD,"Covert Chevrolet, Buick, GMC-Bastrop","702 State Highway 71 W<br>Bastrop, TX 78602",No Price Listed,Not Provided,Automatic
+,Blazer,,1 miles,3GNKBCR49NS198479,FWD,ValMark Chevrolet,"725 S Ih 35<br>New Braunfels, TX 78130",No Price Listed,"$37,670",9-Speed Automatic Overdrive
+,Blazer,,5 miles,3GNKBERS3NS194860,FWD,ValMark Chevrolet,"725 S Ih 35<br>New Braunfels, TX 78130",No Price Listed,"$46,910",9-Speed Automatic Overdrive
+,Wrangler,,7 miles,1C4HJXCG7NW225733,"$50,190",Covert Chrysler Dodge Jeep Ram-Austin,"8107 Research Blvd<br>Austin, TX 78758","$50,190","$50,190",Automatic
+,Wrangler,,7 miles,1C4HJXCN5NW225728,"$47,945",Covert Chrysler Dodge Jeep Ram-Austin,"8107 Research Blvd<br>Austin, TX 78758","$47,945","$47,945",Automatic
+,Wrangler,,0 miles,1C4GJXAN0NW257291,"$34,175",Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy<br>Houston, TX 77079","$34,175","$37,275",8-Speed Automatic
+,Wrangler,,10 miles,1C4GJXAG4NW237157,"$37,940",Nyle Maxwell CDJR Austin,"13817 U.S. 183<br>Austin, TX 78750","$37,940","$37,940",8-Speed Automatic
+,Wrangler,,11 miles,1C4HJXAG9NW180572,"$38,560",San Marcos Chrysler Dodge,"2990 I-35 S<br>San Marcos, TX 78666","$38,560","$38,560",8-Speed Automatic
+,Wrangler,,15 miles,1C4HJXAG3NW194869,"$38,962",Premier CDJR of Lamesa,"1611 Lubbock Hwy<br>Lamesa, TX 79331","$38,660","$38,660",8-Speed Automatic
+,Wrangler,,10 miles,1C4HJXAG1NW235113,"$39,200",Nyle Maxwell CDJR Austin,"13817 U.S. 183<br>Austin, TX 78750","$39,200","$39,200",8-Speed Automatic
+,Wrangler,,0 miles,1C4HJXAG9NW272555,"$39,370",San Marcos Chrysler Dodge,"2990 I-35 S<br>San Marcos, TX 78666","$39,370","$39,370",8-Speed Automatic
+,Wrangler,,273 miles,1C4GJXAG4MW759639,"$39,590",Carvana,"2990 I-35 S<br>San Marcos, TX 78666","$39,590",Not Provided,6-Speed Manual
+,Wrangler,,10 miles,1C4GJXAG7NW211622,"$39,685",Nyle Maxwell CDJR Austin,"13817 U.S. 183<br>Austin, TX 78750","$39,685","$39,685",6-Speed Manual
+,Wrangler,,0 miles,1C4HJXAG7NW262882,"$39,768",Neessen Chrysler Dodge Jeep Ram,"2151 N US Highway 77 Byp<br>Kingsville, TX 78363","$39,575","$39,575",Automatic
+,Wrangler,,0 miles,1C4HJXAG1NW196006,"$40,620",Sames Bastrop CDJ,"1586 Hwy 71 West<br>Cedar Creek, TX 78612","$40,620","$40,620",8-Speed Automatic Overdrive
+,Wrangler,,2 miles,1C4GJXANXNW223827,"$41,128",Freestone Autoplex,"1201 Hwy 84 West<br>Fairfield, TX 75840","$40,910","$39,910",8-Speed Automatic
+,Wrangler,,11 miles,1C4GJXAG2NW175094,"$41,175",Nyle Maxwell CDJR Austin,"13817 U.S. 183<br>Austin, TX 78750","$41,175","$41,175",8-Speed Automatic
+,Wrangler,,15 miles,1C4HJXAG2NW181210,"$41,180","Steele CJDR Lockhart, LLC","2000 S Colorado St<br>Lockhart, TX 78644","$41,180","$41,180",Automatic
+,Wrangler,,2 miles,1C4GJXAN8NW223826,"$41,523",Freestone Autoplex,"1201 Hwy 84 West<br>Fairfield, TX 75840","$41,305","$40,305",8-Speed Automatic
+,Wrangler,,2 miles,1C4GJXAN1NW223828,"$41,523",Freestone Autoplex,"1201 Hwy 84 West<br>Fairfield, TX 75840","$41,305","$40,305",8-Speed Automatic
+,Wrangler,,24 miles,1C4GJXAN6NW195850,"$42,270",Nyle Maxwell CDJR Austin,"13817 U.S. 183<br>Austin, TX 78750","$42,270","$42,270",8-Speed Automatic
+,Wrangler,,7 miles,1C4GJXAG3NW175069,"$42,740",Covert Chrysler Dodge Jeep Ram-Austin,"8107 Research Blvd<br>Austin, TX 78758","$42,740","$42,740",Automatic
+,Wrangler,,7 miles,1C4GJXAG1NW175071,"$42,740",Covert Chrysler Dodge Jeep Ram-Austin,"8107 Research Blvd<br>Austin, TX 78758","$42,740","$42,740",Automatic
+,Wrangler,,0 miles,1C4HJXAG1NW242112,"$43,449",San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35<br>San Antonio, TX 78233","$43,250","$43,250",Automatic
+,Wrangler,,10 miles,1C4GJXAN3NW233101,"$44,300",Nyle Maxwell CDJR Austin,"13817 U.S. 183<br>Austin, TX 78750","$44,300","$44,300",8-Speed Automatic
+,Wrangler,,12 miles,1C4HJXAG8NW235481,"$44,336",Foundation Chrysler Dodge Jeep Ram - Wichita Falls,"2900 Old Jacksboro Hwy<br>Wichita Falls, TX 76302","$43,955","$40,220",Automatic
+,Wrangler,,2 miles,1C4GJXANXNW223830,"$44,378",Freestone Autoplex,"1201 Hwy 84 West<br>Fairfield, TX 75840","$44,160","$43,160",8-Speed Automatic
+,Wrangler,,2 miles,1C4GJXAG1NW223829,"$44,483",Freestone Autoplex,"1201 Hwy 84 West<br>Fairfield, TX 75840","$44,265","$43,265",8-Speed Automatic
+,Wrangler,,0 miles,1C4HJXAG2NW180879,"$45,780",Sames Bastrop CDJ,"1586 Hwy 71 West<br>Cedar Creek, TX 78612","$45,780","$45,780",8-Speed Automatic Overdrive
+,Wrangler,,0 miles,1C4HJXAG0NW180878,"$45,780",Sames Bastrop CDJ,"1586 Hwy 71 West<br>Cedar Creek, TX 78612","$45,780","$45,780",8-Speed Automatic Overdrive
+,Wrangler,,0 miles,1C4HJXAG9NW180877,"$45,780",Sames Bastrop CDJ,"1586 Hwy 71 West<br>Cedar Creek, TX 78612","$45,780","$45,780",8-Speed Automatic Overdrive
+,Wrangler,,6 miles,1C4HJXCG2NW201906,"$46,344",Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121<br>Frisco, TX 75035","$45,945","$45,945",Manual
+,Wrangler,,7 miles,1C4HJXCN7NW225729,"$47,550",Covert Chrysler Dodge Jeep Ram-Austin,"8107 Research Blvd<br>Austin, TX 78758","$47,550","$47,550",Automatic
+,Wrangler,,7 miles,1C4HJXCN5NW225728,"$47,945",Covert Chrysler Dodge Jeep Ram-Austin,"8107 Research Blvd<br>Austin, TX 78758","$47,945","$47,945",Automatic
+,Wrangler,,7 miles,1C4HJXCG7NW225733,"$50,190",Covert Chrysler Dodge Jeep Ram-Austin,"8107 Research Blvd<br>Austin, TX 78758","$50,190","$50,190",Automatic
+,Wrangler,,---,1C4GJXAG5NW259605,"$50,525",South Point Dodge Chrysler Jeep,"5210 IH-35 South<br>Austin, TX 78745","$50,525","$50,525",8-Speed Automatic
+,Wrangler,,0 miles,1C4HJXCN0NW196137,"$50,934",Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121<br>Frisco, TX 75035","$50,535","$50,535",Automatic
+,Wrangler,,15 miles,1C4HJXCG4NW180850,"$51,292",Premier CDJR of Lamesa,"1611 Lubbock Hwy<br>Lamesa, TX 79331","$50,990","$50,990",8-Speed Automatic
+,Wrangler,,---,1C4HJXCN0NW196011,"$58,305",South Point Dodge Chrysler Jeep,"5210 IH-35 South<br>Austin, TX 78745","$58,305","$58,305",8-Speed Automatic
+,Wrangler,,7 miles,1C4HJXDG9NW120514,"$51,870",Covert Chrysler Dodge Jeep Ram-Austin,"8107 Research Blvd<br>Austin, TX 78758","$51,870","$51,870",Automatic
+,Wrangler,,0 miles,1C4HJXDN2NW231419,"$36,465",Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy<br>Houston, TX 77079","$36,465","$39,565",8-Speed Automatic
+,Wrangler,,0 miles,1C4HJXDN9NW231417,"$36,465",Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy<br>Houston, TX 77079","$36,465","$39,565",8-Speed Automatic
+,Wrangler,,0 miles,1C4HJXDNXNW252230,"$39,270",Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy<br>Houston, TX 77079","$39,270","$42,370",8-Speed Automatic
+,Wrangler,,0 miles,1C4HJXDN1NW243593,"$39,615",Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy<br>Houston, TX 77079","$39,615","$42,715",8-Speed Automatic
+,Wrangler,,0 miles,1C4HJXDNXNW252227,"$39,665",Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy<br>Houston, TX 77079","$39,665","$42,765",8-Speed Automatic
+,Wrangler,,1 miles,1C4HJXDN3NW252232,"$41,609",Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy<br>Houston, TX 77079","$41,609","$42,765",8-Speed Automatic
+,Wrangler,,0 miles,1C4HJXDG1NW240629,"$39,885",Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy<br>Houston, TX 77079","$39,885","$42,985",8-Speed Automatic
+,Wrangler,,0 miles,1C4HJXDN5NW243595,"$39,965",Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy<br>Houston, TX 77079","$39,965","$43,065",8-Speed Automatic
+,Wrangler,,0 miles,1C4HJXDN1NW253881,"$40,259",San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35<br>San Antonio, TX 78233","$40,060","$40,060",Automatic
+,Wrangler,,0 miles,1C4HJXDN3NW253882,"$40,259",San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35<br>San Antonio, TX 78233","$40,060","$40,060",Automatic
+,Wrangler,,0 miles,1C4JJXP64NW275797,"$54,880",Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy<br>Houston, TX 77079","$54,880","$58,280",8-Speed Automatic
+,Wrangler,,0 miles,1C4JJXP64NW275797,"$54,880",Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy<br>Houston, TX 77079","$54,880","$58,280",8-Speed Automatic
+,Wrangler,,0 miles,1C4JJXP60NW275795,"$55,485",Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy<br>Houston, TX 77079","$55,485","$58,885",8-Speed Automatic
+,Wrangler,,0 miles,1C4JJXP69NW275794,"$55,880",Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy<br>Houston, TX 77079","$55,880","$59,280",8-Speed Automatic
+,Wrangler,,2 miles,1C4JJXP62NW177898,"$57,085",Northwest Chrysler Jeep Dodge,"19616 Northwest Fwy<br>Houston, TX 77065","$57,085","$57,085",Automatic
+,Wrangler,,0 miles,1C4JJXP64NW205281,"$57,475",Texan Chrysler Dodge Jeep Ram,"18555 Highway 59 North<br>Humble, TX 77338","$57,475","$58,975",Automatic
+,Wrangler,,0 miles,1C4JJXP65NW197997,"$57,880",Texan Chrysler Dodge Jeep Ram,"18555 Highway 59 North<br>Humble, TX 77338","$57,880","$59,380",Automatic
+,Wrangler,,0 miles,1C4JJXP66NW227976,"$57,975",Texan Chrysler Dodge Jeep Ram,"18555 Highway 59 North<br>Humble, TX 77338","$57,975","$59,475",Automatic
+,Wrangler,,0 miles,1C4JJXP62NW227974,"$57,975",Texan Chrysler Dodge Jeep Ram,"18555 Highway 59 North<br>Humble, TX 77338","$57,975","$59,475",Automatic
+,Wrangler,,10 miles,1C4JJXP65NW114696,"$58,230",Ron Carter Chrysler Jeep Dodge of League City,"3535 Gulf Freeway South<br>Dickinson, TX 77539","$58,230",Not Provided,8-Speed Automatic
+,Wrangler,,0 miles,1C4JJXP67NW197998,"$58,275",Texan Chrysler Dodge Jeep Ram,"18555 Highway 59 North<br>Humble, TX 77338","$58,275","$59,775",Automatic
+,Wrangler,,11 miles,1C4JJXP66NW227931,"$58,380",Ron Carter Chrysler Jeep Dodge of League City,"3535 Gulf Freeway South<br>Dickinson, TX 77539","$58,380",Not Provided,8-Speed Automatic
+,Wrangler,,10 miles,1C4JJXP63NW114695,"$58,625",Ron Carter Chrysler Jeep Dodge of League City,"3535 Gulf Freeway South<br>Dickinson, TX 77539","$58,625",Not Provided,8-Speed Automatic
+,Wrangler,,0 miles,1C4JJXP64NW278232,"$58,885",Texan Chrysler Dodge Jeep Ram,"18555 Highway 59 North<br>Humble, TX 77338","$58,885","$60,385",Automatic
+,Wrangler,,0 miles,1C4JJXP60NW279829,"$58,970",Texan Chrysler Dodge Jeep Ram,"18555 Highway 59 North<br>Humble, TX 77338","$58,970","$60,470",Automatic
+,Wrangler,,25 miles,1C4JJXP60NW177883,"$59,026",Premier CDJR of Lamesa,"1611 Lubbock Hwy<br>Lamesa, TX 79331","$58,580","$58,580",8-Speed Automatic
+,Wrangler,,1 miles,1C4JJXP6XNW198191,"$59,070",Big Star Chrysler Jeep Dodge RAM Fiat Clear Lake,"15711 Gulf Fwy<br>Webster, TX 77598","$59,070","$59,070",Automatic
+,Wrangler,,1 miles,1C4JJXP61NW198189,"$59,070",Big Star Chrysler Jeep Dodge RAM Fiat Clear Lake,"15711 Gulf Fwy<br>Webster, TX 77598","$59,070","$59,070",Automatic
+,Wrangler,,0 miles,1C4JJXP66NW218825,"$59,230",Texan Chrysler Dodge Jeep Ram,"18555 Highway 59 North<br>Humble, TX 77338","$59,230","$60,730",Automatic
+,Wrangler,,---,1C4JJXP63NW198467,"$59,350",Tomball Dodge Chrysler Jeep,"23777 Highway 249<br>Tomball, TX 77375","$59,350","$59,350",8-Speed Automatic
+,Wrangler,,10 miles,1C4JJXP69NW229317,"$59,480",Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy<br>Manvel, TX 77578","$59,480","$57,480",8-Speed Automatic
+,Wrangler,,0 miles,1C4JJXP61NW179058,"$59,675",River Oaks Chrysler Jeep Dodge Ram,"4807 Kirby Drive<br>Houston, TX 77098","$59,675","$59,675",8-Speed Automatic Overdrive
+,Wrangler,,2 miles,1C4JJXP63NW136907,"$59,770",Northwest Chrysler Jeep Dodge,"19616 Northwest Fwy<br>Houston, TX 77065","$59,770","$59,770",Automatic
+,Wrangler,,0 miles,1C4JJXP69NW276427,"$59,870",River Oaks Chrysler Jeep Dodge Ram,"4807 Kirby Drive<br>Houston, TX 77098","$59,870","$59,870",8-Speed Automatic Overdrive
+,Wrangler,,0 miles,1C4JJXP66NW198186,"$60,070",Bayway Chrysler Dodge Jeep Ram,"4000 Pasadena Fwy<br>Pasadena, TX 77503","$60,070","$60,070",8-Speed Automatic
+,Wrangler,,0 miles,1C4JJXP6XNW179060,"$60,070",River Oaks Chrysler Jeep Dodge Ram,"4807 Kirby Drive<br>Houston, TX 77098","$60,070","$60,070",8-Speed Automatic Overdrive
+,Wrangler,,0 miles,1C4JJXP63NW179059,"$60,070",River Oaks Chrysler Jeep Dodge Ram,"4807 Kirby Drive<br>Houston, TX 77098","$60,070","$60,070",8-Speed Automatic Overdrive
+,Wrangler,,0 miles,1C4JJXP66NW179055,"$60,070",River Oaks Chrysler Jeep Dodge Ram,"4807 Kirby Drive<br>Houston, TX 77098","$60,070","$60,070",8-Speed Automatic Overdrive
+,Wrangler,,0 miles,1C4JJXP6XNW179057,"$60,070",River Oaks Chrysler Jeep Dodge Ram,"4807 Kirby Drive<br>Houston, TX 77098","$60,070","$60,070",8-Speed Automatic Overdrive
+,Wrangler,,0 miles,1C4JJXP64NW179054,"$60,070",River Oaks Chrysler Jeep Dodge Ram,"4807 Kirby Drive<br>Houston, TX 77098","$60,070","$60,070",8-Speed Automatic Overdrive
+,Wrangler,,0 miles,1C4JJXP68NW179056,"$60,070",River Oaks Chrysler Jeep Dodge Ram,"4807 Kirby Drive<br>Houston, TX 77098","$60,070","$60,070",8-Speed Automatic Overdrive
+,Wrangler,,11 miles,1C4JJXP64NW198395,"$60,080",Momentum Chrysler Dodge Jeep Ram,"3704 NE I 10 Frontage Rd<br>Sealy, TX 77474","$60,080","$60,080",Automatic
+,Wrangler,,10 miles,1C4JJXP67NW229509,"$60,250",Bayway Chrysler Dodge Jeep Ram,"4000 Pasadena Fwy<br>Pasadena, TX 77503","$60,250","$60,250",8-Speed Automatic
+,Wrangler,,5 miles,1C4JJXP63NW229314,"$60,280",Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy<br>Manvel, TX 77578","$60,280","$58,280",8-Speed Automatic
+,Wrangler,,10 miles,1C4JJXP60NW229321,"$60,280",Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy<br>Manvel, TX 77578","$60,280","$58,280",8-Speed Automatic
+,Wrangler,,10 miles,1C4JJXP61NW229313,"$60,280",Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy<br>Manvel, TX 77578","$60,280","$58,280",8-Speed Automatic
+,Wrangler,,5 miles,1C4JJXP60NW229318,"$60,280",Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy<br>Manvel, TX 77578","$60,280","$58,280",8-Speed Automatic
+,Wrangler,,5 miles,1C4JJXP69NW229320,"$60,280",Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy<br>Manvel, TX 77578","$60,280","$58,280",8-Speed Automatic
+,Wrangler,,0 miles,1C4JJXP67NW268021,"$60,355",Texan Chrysler Dodge Jeep Ram,"18555 Highway 59 North<br>Humble, TX 77338","$60,355","$61,855",Automatic
+,Wrangler,,0 miles,1C4JJXP6XNW229956,"$60,645",River Oaks Chrysler Jeep Dodge Ram,"4807 Kirby Drive<br>Houston, TX 77098","$60,645","$60,645",8-Speed Automatic Overdrive
+,Wrangler,,0 miles,1C4JJXP68NW229955,"$60,645",River Oaks Chrysler Jeep Dodge Ram,"4807 Kirby Drive<br>Houston, TX 77098","$60,645","$60,645",8-Speed Automatic Overdrive
+,Wrangler,,0 miles,1C4JJXP69NW272149,"$60,730",River Oaks Chrysler Jeep Dodge Ram,"4807 Kirby Drive<br>Houston, TX 77098","$60,730","$60,730",8-Speed Automatic Overdrive
+,Wrangler,,1 miles,1C4JJXP6XNW205396,"$60,770",Big Star Chrysler Jeep Dodge RAM Fiat Clear Lake,"15711 Gulf Fwy<br>Webster, TX 77598","$60,770","$60,770",Automatic
+,Wrangler,,0 miles,1C4JJXP62NW229255,"$60,940",Gillman Jeep,"10575 W Sam Houston Pkwy S<br>Houston, TX 77099","$60,940","$60,940",Automatic
+,Wrangler,,---,1C4JJXP69NW278551,"$61,860",Tomball Dodge Chrysler Jeep,"23777 Highway 249<br>Tomball, TX 77375","$61,860","$61,860",8-Speed Automatic
+,Wrangler,,5 miles,1C4JJXP60NW213734,"$61,965",Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy<br>Manvel, TX 77578","$61,965","$59,965",8-Speed Automatic
+,Wrangler,,10 miles,1C4JJXP69NW213733,"$61,965",Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy<br>Manvel, TX 77578","$61,965","$59,965",8-Speed Automatic
+,Wrangler,,0 miles,1C4JJXR68NW198655,"$62,325",Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy<br>Houston, TX 77079","$62,325","$65,725",8-Speed Automatic
+,Wrangler,,15 miles,1C4JJXP65NW153563,"$62,381",Premier CDJR of Lamesa,"1611 Lubbock Hwy<br>Lamesa, TX 79331","$61,935","$61,935",8-Speed Automatic
+,Wrangler,,5 miles,1C4JJXP62NW229319,"$62,480",Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy<br>Manvel, TX 77578","$62,480","$57,480",8-Speed Automatic
+,Wrangler,,---,1C4JJXP62NW279752,"$62,860",Tomball Dodge Chrysler Jeep,"23777 Highway 249<br>Tomball, TX 77375","$62,860","$62,860",8-Speed Automatic
+,Wrangler,,10 miles,1C4JJXP61NW213709,"$63,075",Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy<br>Manvel, TX 77578","$63,075","$61,075",8-Speed Automatic
+,Wrangler,,---,1C4JJXP63NW206339,"$63,075",Yaklin Chrysler Dodge Jeep Ram of Angleton,"1212 S Velasco St<br>Angleton, TX 77515","$63,075","$63,075",8-Speed Automatic
+,Wrangler,,0 miles,1C4JJXR69NW107831,"$63,170",Gillman Jeep,"10575 W Sam Houston Pkwy S<br>Houston, TX 77099","$63,170","$63,170",Automatic
+,Wrangler,,5 miles,1C4JJXP68NW213707,"$63,925",Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy<br>Manvel, TX 77578","$63,925","$61,925",8-Speed Automatic
+,Wrangler,,5 miles,1C4JJXP6XNW269759,"$64,550",Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy<br>Manvel, TX 77578","$64,550","$62,550",8-Speed Automatic
+,Wrangler,,4 miles,1C4JJXP65NW179192,"$64,900",Crossroads Dodge Chrysler Jeep Ram,"320 Highway 146 Byp<br>Liberty, TX 77575","$64,900","$60,425",Automatic
+,Wrangler,,0 miles,1C4JJXP64NW274973,"$65,888",Helfman Dodge Chrysler Jeep Ram,"7720 Katy Freeway<br>Houston, TX 77024","$65,888","$61,165",8-Speed Automatic Overdrive
+,Wrangler,,---,1C4JJXR63NW228340,"$66,560",Tomball Dodge Chrysler Jeep,"23777 Highway 249<br>Tomball, TX 77375","$66,560","$66,560",8-Speed Automatic
+,Wrangler,,2 miles,1C4JJXR66NW229451,"$67,105",Northwest Chrysler Jeep Dodge,"19616 Northwest Fwy<br>Houston, TX 77065","$67,105","$67,105",Automatic
+,Wrangler,,---,1C4JJXR65NW205559,"$67,560",Tomball Dodge Chrysler Jeep,"23777 Highway 249<br>Tomball, TX 77375","$67,560","$67,560",8-Speed Automatic
+,Wrangler,,15 miles,1C4JJXR61NW152861,"$68,381",Premier CDJR of Lamesa,"1611 Lubbock Hwy<br>Lamesa, TX 79331","$67,935","$67,935",8-Speed Automatic
+,Wrangler,,0 miles,1C4JJXR67NW233797,"$68,885",River Oaks Chrysler Jeep Dodge Ram,"4807 Kirby Drive<br>Houston, TX 77098","$68,885","$68,885",8-Speed Automatic Overdrive
+,Wrangler,,0 miles,1C4JJXP6XNW271396,"$69,888",Helfman Dodge Chrysler Jeep Ram,"7720 Katy Freeway<br>Houston, TX 77024","$69,888","$64,480",8-Speed Automatic Overdrive
+,Wrangler,,0 miles,1C4JJXR63NW236132,"$70,030",River Oaks Chrysler Jeep Dodge Ram,"4807 Kirby Drive<br>Houston, TX 77098","$70,030","$70,030",8-Speed Automatic Overdrive
+,Wrangler,,2 miles,1C4JJXR6XNW229453,"$71,195",Northwest Chrysler Jeep Dodge,"19616 Northwest Fwy<br>Houston, TX 77065","$71,195","$71,195",Automatic
+,Wrangler,,5 miles,1C4JJXR68NW267084,"$72,935",Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy<br>Manvel, TX 77578","$72,935","$70,935",8-Speed Automatic
+,Wrangler,,0 miles,1C4JJXR64NW250458,"$74,888",Helfman Dodge Chrysler Jeep Ram,"7720 Katy Freeway<br>Houston, TX 77024","$74,888","$70,970",8-Speed Automatic Overdrive
+,Wrangler,,0 miles,1C4JJXR68NW107870,"$75,888",Helfman Dodge Chrysler Jeep Ram,"7720 Katy Freeway<br>Houston, TX 77024","$75,888","$70,055",8-Speed Automatic Overdrive
+,Wrangler,,0 miles,1C4JJXR65NW158825,"$77,888",Helfman Dodge Chrysler Jeep Ram,"7720 Katy Freeway<br>Houston, TX 77024","$77,888","$73,055",8-Speed Automatic Overdrive
+,Wrangler,,5 miles,1C4JJXP62NW148918,4WD,DeMontrond Chrysler Dodge Jeep Ram in Conroe,"888 1-45 S.<br>Conroe, TX 77304",No Price Listed,Not Provided,8-Speed Automatic
+,Tundra,,5 miles,5TFKB5AA2NX012284,"$38,878",Fred Haas Toyota World,"20400 Interstate 45<br>Spring, TX 77373","$38,878","$38,878",Automatic
+,Tundra,,5 miles,5TFKB5AA4NX012271,"$38,878",Fred Haas Toyota World,"20400 Interstate 45<br>Spring, TX 77373","$38,878","$38,878",Automatic
+,Tundra,,---,5TFKB5AB8NX011732,"$42,220",Toyota of Katy,"21555 Katy Freeway<br>Katy, TX 77450","$42,220","$42,220",Automatic
+,Tundra,,---,5TFKB5DB1NX038833,"$45,101",Mike Calvert Toyota,"2333 South Loop West<br>Houston, TX 77054","$45,101","$45,101",Automatic
+,Tundra,,7 miles,5TFKB5DB8NX039381,"$46,719",Fred Haas Toyota Country,"22435 State Highway 249<br>Houston, TX 77070","$46,719","$46,719",Automatic
+,Tundra,,5 miles,5TFLA5AA6NX012876,"$47,381",Fred Haas Toyota World,"20400 Interstate 45<br>Spring, TX 77373","$47,381","$47,381",Automatic
+,Tundra,,5 miles,5TFLA5AB8NX007963,"$47,976",Fred Haas Toyota World,"20400 Interstate 45<br>Spring, TX 77373","$47,976","$47,976",Automatic
+,Tundra,,---,5TFLA5BC3NX001849,"$48,905",Gullo Toyota of Conroe,"500 I-45 South<br>Conroe, TX 77304","$48,905","$48,905",Automatic
+,Tundra,,5 miles,5TFLA5AB5NX013171,"$50,401",Sterling McCall Toyota Fort Bend,"20465 Southwest Freeway<br>Richmond, TX 77469","$50,401","$48,906",Automatic
+,Tundra,,---,5TFLA5AB1NX012082,"$48,957",Toyota of Katy,"21555 Katy Freeway<br>Katy, TX 77450","$48,957","$48,957",Automatic
+,Tundra,,5 miles,5TFLA5BC7NX001966,"$48,984",Fred Haas Toyota World,"20400 Interstate 45<br>Spring, TX 77373","$48,984","$48,984",Automatic
+,Tundra,,5 miles,5TFLA5AB2NX012852,"$49,036",Fred Haas Toyota World,"20400 Interstate 45<br>Spring, TX 77373","$49,036","$49,036",Automatic
+,Tundra,,1 miles,5TFLA5AB3NX111468,"$49,194",Family Toyota of Arlington,"1661 Wet N Wild Way<br>Arlington, TX 76011","$48,957","$48,957",Automatic
+,Tundra,,5 miles,5TFLA5BC2NX001972,"$49,409",Fred Haas Toyota World,"20400 Interstate 45<br>Spring, TX 77373","$49,409","$49,409",Automatic
+,Tundra,,5 miles,5TFLA5AB0NX011859,"$53,061",Sterling McCall Toyota Fort Bend,"20465 Southwest Freeway<br>Richmond, TX 77469","$53,061","$51,566",Automatic
+,Tundra,,---,5TFLA5EC3NX007307,"$51,910",Toyota of Katy,"21555 Katy Freeway<br>Katy, TX 77450","$51,910","$51,910",Automatic
+,Tundra,,5 miles,5TFLA5DA3NX035933,"$51,946",Sterling Mccall Toyota,"9400 Southwest Freeway<br>Houston, TX 77074","$51,946","$50,451",
+,Tundra,,5 miles,5TFLA5AB8NX012144,"$52,044",Fred Haas Toyota World,"20400 Interstate 45<br>Spring, TX 77373","$52,044","$52,044",Automatic
+,Tundra,,19 miles,5TFLA5ABXNX010962,"$52,044",Fred Haas Toyota World,"20400 Interstate 45<br>Spring, TX 77373","$52,044","$52,044",Automatic
+,Tundra,,5 miles,5TFLA5DBXNX039387,"$52,471",Fred Haas Toyota World,"20400 Interstate 45<br>Spring, TX 77373","$52,471","$52,471",Automatic
+,Tundra,,---,5TFLA5AB1NX011014,"$55,733",Don McGill Toyota of Houston,"11800 Katy Freeway<br>Houston, TX 77079","$55,733","$55,733",Automatic
+,Tundra,,---,5TFLA5DB5NX038549,"$56,014",Gullo Toyota of Conroe,"500 I-45 South<br>Conroe, TX 77304","$56,014","$56,014",Automatic
+,Tundra,,---,5TFLA5DB1NX038189,"$56,114",Gullo Toyota of Conroe,"500 I-45 South<br>Conroe, TX 77304","$56,114","$56,114",Automatic
+,Tundra,,---,5TFLA5DB1NX041562,"$56,114",Gullo Toyota of Conroe,"500 I-45 South<br>Conroe, TX 77304","$56,114","$56,114",Automatic
+,Tundra,,7 miles,5TFJA5DB6NX037854,"$57,556",Gullo Toyota of Conroe,"500 I-45 South<br>Conroe, TX 77304","$57,556","$57,556",Automatic
+,Tundra,,---,5TFJA5DB5NX039949,"$65,378",Toyota of Katy,"21555 Katy Freeway<br>Katy, TX 77450","$65,378","$65,378",Automatic
+,Tundra,,---,5TFLA5AB1NX012938,"$58,970",Don McGill Toyota of Houston,"11800 Katy Freeway<br>Houston, TX 77079","$58,970","$58,970",Automatic
+,Tundra,,0 miles,5TFJC5AB0NX001141,"$59,075",Toyota of Laredo,"6324 Bob Bullock Loop<br>Laredo, TX 78041","$58,640","$58,640",Automatic
+,Tundra,,5 miles,5TFJA5EC3NX008111,"$60,713",Sterling McCall Toyota Fort Bend,"20465 Southwest Freeway<br>Richmond, TX 77469","$60,713","$59,218",Automatic
+,Tundra,,---,5TFJC5AB2NX001125,"$59,233",Gullo Toyota of Conroe,"500 I-45 South<br>Conroe, TX 77304","$59,233","$59,233",Automatic
+,Tundra,,---,5TFJC5DB8NX004686,"$60,242",Gullo Toyota of Conroe,"500 I-45 South<br>Conroe, TX 77304","$60,242","$60,242",Automatic
+,Tundra,,5 miles,5TFJA5DB5NX014601,"$60,384","Powell Watson Motors, Inc.","6301 Arena Blvd<br>Laredo, TX 78041","$59,949","$59,949",Automatic
+,Tundra,,"4,359 miles",5TFMA5AB2NX006201,"$62,052",Gullo Toyota of Conroe,"500 I-45 South<br>Conroe, TX 77304","$62,052","$62,052",Automatic
+,Tundra,,---,5TFNA5ABXNX011988,"$62,325",Gullo Toyota of Conroe,"500 I-45 South<br>Conroe, TX 77304","$62,325","$62,325",Automatic
+,Tundra,,---,5TFLA5ABXNX011111,"$66,645",Don McGill Toyota of Houston,"11800 Katy Freeway<br>Houston, TX 77079","$66,645","$66,645",Automatic
+,Tundra,,---,5TFMA5DB1NX036740,"$67,771",Gullo Toyota of Conroe,"500 I-45 South<br>Conroe, TX 77304","$67,771","$67,771",Automatic
+,Tundra,,5 miles,5TFPC5DB5NX004915,"$68,600",Gullo Toyota of Conroe,"500 I-45 South<br>Conroe, TX 77304","$68,600","$68,600",Automatic
+,Tundra,,10 miles,5TFMA5DB6NX034823,"$68,748",Sterling McCall Toyota Fort Bend,"20465 Southwest Freeway<br>Richmond, TX 77469","$68,748","$67,253",Automatic
+,Tundra,,6 miles,5TFVC5DB5NX002511,"$78,001",Gullo Toyota of Conroe,"500 I-45 South<br>Conroe, TX 77304","$78,001","$78,001",Automatic
+,Tundra,,---,5TFVC5DB8NX002583,"$78,426",Mike Calvert Toyota,"2333 South Loop West<br>Houston, TX 77054","$78,426","$78,426",Automatic
+,Tundra,,248 miles,5TFLA5DB1NX019691,"$78,990",Mike Calvert Toyota,"2333 South Loop West<br>Houston, TX 77054","$78,990",Not Provided,Automatic
