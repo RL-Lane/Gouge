@@ -1,0 +1,17 @@
+DROP TABLE car_scrape
+CREATE TABLE car_scrape ()
+mrsp INT,
+price INT,
+make VARCHAR,
+model VARCHAR,
+year INT,
+transmission VARCHAR,
+mileage VARCHAR,
+dealer name VARCHAR,
+dealer address VARCHAR,
+lat FLOAT,
+lng FLOAT
+	
+);
+
+SELECT * FROM car_scrape 
