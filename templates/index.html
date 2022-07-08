@@ -32,7 +32,7 @@
             <ul class="sidebar-nav">
                 <li class="sidebar-brand"><a href="#home">Home</a></li>
                 <li class="sidebar-nav-item"><a href="#about">About</a></li>
-                <li class="sidebar-nav-item"><a href="#map">Map</a></li>
+                <li class="sidebar-nav-item"><a href="#dealerships_map">Map</a></li>
                 <li class="sidebar-nav-item"><a href="#visualizations">Visualizations</a></li>
                 <li class="sidebar-nav-item"><a href="#meet_the_team">Meet the Team!</a></li>
                 <li class="sidebar-nav-item"><a href="#contact">Contact</a></li>
@@ -49,11 +49,7 @@
             </div>
         </header>
 
-        <!--about.html-->
-        
-
-        
-
+    
 
         <section class="content-section2" id="about" >
             <br>
@@ -80,7 +76,6 @@
                             <!--end of about.html-->
 
 
-
                       </div>
                     </div>
                   </div>
@@ -98,8 +93,15 @@
                       <div class="accordion-body">
 
 
-                        <!-- insert here -->
-                        <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                        <!-- start of why.html -->
+                        <div id="why-placeholder">
+                        </div>
+                        <script>
+                            $(function(){
+                            $("#why-placeholder").load("why.html");
+                            });
+                            </script>
+                            <!--end of why.html-->
                       
                         
                         </div>
@@ -119,8 +121,16 @@
                       <div class="accordion-body">
 
 
-                        <!-- insert here -->
-                        <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                            <!-- start of where.html -->
+                            <div id="where-placeholder">
+                            </div>
+                            <script>
+                                $(function(){
+                                $("#where-placeholder").load("where.html");
+                                });
+                                </script>
+                                <!--end of where.html-->
+                        
                       
 
                         </div>
@@ -132,57 +142,52 @@
              <br>
              <br>
              <br>
-             <br>
-             <br>
             </div>
     
         </section>
 
-        <!-- Services-->
-        <section class="content-section bg-primary text-white text-center" id="services">
-            <div class="container px-4 px-lg-5">
-                <div class="content-section-heading">
-                    <h3 class="text-secondary mb-0">Services</h3>
-                    <h2 class="mb-5">What We Offer</h2>
-                </div>
-                <div class="row gx-4 gx-lg-5">
-                    <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
-                        <span class="service-icon rounded-circle mx-auto mb-3"><i class="icon-screen-smartphone"></i></span>
-                        <h4><strong>Responsive</strong></h4>
-                        <p class="text-faded mb-0">Looks great on any screen size!</p>
-                    </div>
-                    <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
-                        <span class="service-icon rounded-circle mx-auto mb-3"><i class="icon-pencil"></i></span>
-                        <h4><strong>Redesigned</strong></h4>
-                        <p class="text-faded mb-0">Freshly redesigned for Bootstrap 5.</p>
-                    </div>
-                    <div class="col-lg-3 col-md-6 mb-5 mb-md-0">
-                        <span class="service-icon rounded-circle mx-auto mb-3"><i class="icon-like"></i></span>
-                        <h4><strong>Favorited</strong></h4>
-                        <p class="text-faded mb-0">
-                            Millions of users
-                            <i class="fas fa-heart"></i>
-                            Start Bootstrap!
-                        </p>
-                    </div>
-                    <div class="col-lg-3 col-md-6">
-                        <span class="service-icon rounded-circle mx-auto mb-3"><i class="icon-mustache"></i></span>
-                        <h4><strong>Question</strong></h4>
-                        <p class="text-faded mb-0">I mustache you a question...</p>
-                    </div>
-                </div>
+        <!-- Leaflet Map-->
+        <section class="content-section bg-primary text-white text-center" id="map">
+            <h2> Distribution of Data by Texas Dealer</h2>
+
+            <!-- start of map.html -->
+            <div id="map-placeholder">
             </div>
+            <script>
+                $(function(){
+                $("#map-placeholder").load("map.html");
+                });
+                </script>
+                <!--end of map.html-->
+          
+
         </section>
+
+
+
         <!-- Callout-->
-        <section class="callout">
-            <div class="container px-4 px-lg-5 text-center">
-                <h2 class="mx-auto mb-5">
-                    Welcome to
-                    <em>your</em>
-                    next website!
-                </h2>
-                <a class="btn btn-primary btn-xl" href="https://startbootstrap.com/theme/stylish-portfolio/">Download Now!</a>
-            </div>
+        <section class="callout" id="visualizations">
+            <h1>CHARTS!</h1>
+            <!-- Individual html pages for each chart  still to be created -->
+            <div class="row">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            </div> 
         </section>
         <!-- Portfolio-->
         <section class="content-section" id="portfolio">
@@ -250,7 +255,7 @@
                     <div class="card-body">
                     <br>
                    <p class="card-text">
-                        <a class="name">Daniel Czornyj</a>
+                        <h8 class="name">Daniel Czornyj</h8>
                         <br>
                         <br>
                         <a id="hyperlinks" href="https://github.com/dczornyj" target="_blank" >Github</a>
@@ -270,7 +275,7 @@
                     <div class="card-body">
                         <br>
                         <p class="card-text">
-                          <a class="name">Robert Gonzalez</a>
+                          <h8 class="name">Robert Gonzalez</h8>
                           <br>
                           <br>
                           <a id="hyperlinks" href = "https://github.com/RSGDATA" target="_blank">Github</a>
@@ -285,7 +290,7 @@
                     <div class="card-body">
                         <br>    
                         <p class="card-text">
-                            <a class="name_rob">Robert Lane</a>
+                            <h8 class="name_rob">Robert Lane</h8>
                             <br>
                             <br>
                             <a id="hyperlinks" href="https://github.com/RL-Lane" target="_blank">Github</a>
@@ -301,7 +306,7 @@
                     <div class="card-body">
                         <br>
                         <p class="card-text">
-                            <a class="name">Krystal Lewis</a>
+                            <h8 class="name">Krystal Lewis</h8>
                             <br>
                             <br>
                             <a id="hyperlinks" href="https://github.com/klew1230" target="_blank">Github</a>
@@ -315,7 +320,7 @@
                     <div class="card-body">
                         <br>
                         <p class="card-text">
-                            <a class="name">Cody Sultenfuss</a>
+                            <h8 class="name">Cody Sultenfuss</h8>
                             <br>
                             <br>
                             <a id="hyperlinks" href="https://github.com/sultenfussc" target="_blank">Github</a>
@@ -329,16 +334,10 @@
             </div>
             
         </section>
-        <!-- Map-->
-        <div class="map" id="contact">
-            <iframe src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A&amp;output=embed"></iframe>
-            <br />
-            <small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A"></a></small>
-        </div>
         <!-- Footer-->
       
         <!-- Scroll to Top Button-->
-        <a class="scroll-to-top rounded" href="#page-top"><i class="fas fa-angle-up"></i></a>
+        <a class="scroll-to-top rounded" href="#home"><i class="fas fa-angle-up"></i></a>
         <!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->
