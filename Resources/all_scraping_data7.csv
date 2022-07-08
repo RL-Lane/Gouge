@@ -1,395 +1,395 @@
-MSRP,Dealer's Price,Price,Make,Model,Year,Transmission,Mileage,Dealer Name,Dealer Address,Lat,Lng
-"$67,935 ","$67,935 ","$68,218 ",Jeep,Wrangler,2022,8-Speed Automatic,15 miles,Premier CDJR of Lamesa,"1611 Lubbock Hwy Lamesa, TX 79331",32.7478766,-101.9508105
-"$69,920 ","$69,920 ","$69,920 ",Jeep,Wrangler,2022,8-Speed Automatic,---,Shottenkirk Prosper Chrysler Dodge Jeep Ram,"2550 W University Dr Prosper, TX 75078",33.2203892,-96.841397
-"$68,700 ","$68,700 ","$68,700 ",Jeep,Wrangler,2022,8-Speed Automatic,3 miles,Pegasus CDJR,"305 South Interstate Highway 45 Ennis, TX 75119",32.3312863,-96.6154653
-"$70,475 ","$70,475 ","$70,475 ",Jeep,Wrangler,2022,8-Speed Automatic,---,Classic Chrysler Dodge Jeep Ram Fiat,"1111 E Interstate 20 Arlington, TX 76018",32.6790785,-97.1147754
-"$70,870 ","$70,870 ","$70,870 ",Jeep,Wrangler,2022,8-Speed Automatic,---,Classic Chrysler Dodge Jeep Ram Fiat,"1111 E Interstate 20 Arlington, TX 76018",32.6790785,-97.1147754
-"$47,511 ","$47,511 ","$47,511 ",Toyota,Tundra,2022,Automatic,5 miles,Pat Lobb Toyota of McKinney,"3350 S Central Expy Mckinney, TX 75070",33.1675378,-96.643936
-"$47,892 ","$47,892 ","$47,892 ",Toyota,Tundra,2022,Automatic,6 miles,Shottenkirk Toyota Weatherford,"3131 Fort Worth Hwy Weatherford, TX 76087",32.7582312,-97.70076130000001
-"$48,957 ","$48,957 ","$48,957 ",Toyota,Tundra,2022,Automatic,1 miles,Family Toyota of Arlington,"1661 Wet N Wild Way Arlington, TX 76011",32.7612421,-97.08589909999999
-"$48,957 ","$50,073 ","$50,073 ",Toyota,Tundra,2022,Automatic,0 miles,Texas Toyota of Grapevine,"701 E State Highway 114 Grapevine, TX 76092",32.9528879,-97.1366186
-"$48,957 ","$50,073 ","$50,073 ",Toyota,Tundra,2022,Automatic,0 miles,Texas Toyota of Grapevine,"701 E State Highway 114 Grapevine, TX 76092",32.9528879,-97.1366186
-"$50,312 ","$50,312 ","$50,312 ",Toyota,Tundra,2022,Automatic,13 miles,Sport City Toyota,"12650 Lyndon B Johnson Fwy Dallas, TX 75228",32.8624234,-96.66189089999999
-"$51,376 ","$51,376 ","$51,376 ",Toyota,Tundra,2022,Automatic,5 miles,Pat Lobb Toyota of McKinney,"3350 S Central Expy Mckinney, TX 75070",33.1675378,-96.643936
-"$51,957 ","$51,957 ","$51,957 ",Toyota,Tundra,2022,Automatic,6 miles,Shottenkirk Toyota Granbury,"5100 East US Hwy 377 Granbury, TX 76049",32.4699904,-97.70467409999999
-"$51,957 ","$51,957 ","$51,957 ",Toyota,Tundra,2022,Automatic,6 miles,Shottenkirk Toyota Weatherford,"3131 Fort Worth Hwy Weatherford, TX 76087",32.7582312,-97.70076130000001
-"$51,957 ","$51,957 ","$51,957 ",Toyota,Tundra,2022,Automatic,6 miles,Shottenkirk Toyota Weatherford,"3131 Fort Worth Hwy Weatherford, TX 76087",32.7582312,-97.70076130000001
-"$51,965 ","$51,965 ","$51,965 ",Toyota,Tundra,2022,Automatic,6 miles,Shottenkirk Toyota Granbury,"5100 East US Hwy 377 Granbury, TX 76049",32.4699904,-97.70467409999999
-"$51,957 ","$53,073 ","$53,073 ",Toyota,Tundra,2022,Automatic,0 miles,Texas Toyota of Grapevine,"701 E State Highway 114 Grapevine, TX 76092",32.9528879,-97.1366186
-"$55,731 ","$56,847 ","$56,847 ",Toyota,Tundra,2022,Automatic,0 miles,Texas Toyota of Grapevine,"701 E State Highway 114 Grapevine, TX 76092",32.9528879,-97.1366186
-"$57,936 ","$57,936 ","$57,936 ",Toyota,Tundra,2022,Automatic,6 miles,Shottenkirk Toyota Granbury,"5100 East US Hwy 377 Granbury, TX 76049",32.4699904,-97.70467409999999
-"$60,281 ","$60,281 ","$60,281 ",Toyota,Tundra,2022,Automatic,6 miles,Shottenkirk Toyota Granbury,"5100 East US Hwy 377 Granbury, TX 76049",32.4699904,-97.70467409999999
-"$61,248 ","$61,248 ","$61,248 ",Toyota,Tundra,2022,Automatic,6 miles,Shottenkirk Toyota Weatherford,"3131 Fort Worth Hwy Weatherford, TX 76087",32.7582312,-97.70076130000001
-"$61,729 ","$62,845 ","$62,845 ",Toyota,Tundra,2022,Automatic,0 miles,Texas Toyota of Grapevine,"701 E State Highway 114 Grapevine, TX 76092",32.9528879,-97.1366186
-"$64,165 ","$65,281 ","$65,281 ",Toyota,Tundra,2022,Automatic,0 miles,Texas Toyota of Grapevine,"701 E State Highway 114 Grapevine, TX 76092",32.9528879,-97.1366186
-"$66,042 ","$66,042 ","$66,042 ",Toyota,Tundra,2022,Automatic,6 miles,Shottenkirk Toyota Weatherford,"3131 Fort Worth Hwy Weatherford, TX 76087",32.7582312,-97.70076130000001
-"$67,227 ","$68,343 ","$68,343 ",Toyota,Tundra,2022,Automatic,0 miles,Texas Toyota of Grapevine,"701 E State Highway 114 Grapevine, TX 76092",32.9528879,-97.1366186
-"$67,652 ","$68,768 ","$68,768 ",Toyota,Tundra,2022,Automatic,0 miles,Texas Toyota of Grapevine,"701 E State Highway 114 Grapevine, TX 76092",32.9528879,-97.1366186
-"$77,922 ","$77,922 ","$77,922 ",Toyota,Tundra,2022,Automatic,6 miles,Shottenkirk Toyota Weatherford,"3131 Fort Worth Hwy Weatherford, TX 76087",32.7582312,-97.70076130000001
-"$78,347 ","$78,347 ","$78,347 ",Toyota,Tundra,2022,Automatic,5 miles,Lone Star Toyota of Lewisville,"1547 S. Stemmons Frwy. Lewisville, TX 75067",33.0215012,-96.9871311
-Not Provided,"$32,020 ","$32,225 ",Ford,Bronco,2022,Automatic,0 miles,DeMontrond Ford,"3944 US 59 S Cleveland, TX 77328",30.2823488,-95.13021789999999
-Not Provided,"$40,470 ","$40,675 ",Ford,Bronco,2022,,0 miles,DeMontrond Ford,"3944 US 59 S Cleveland, TX 77328",30.2823488,-95.13021789999999
-Not Provided,"$42,015 ","$42,220 ",Ford,Bronco,2022,,0 miles,DeMontrond Ford,"3944 US 59 S Cleveland, TX 77328",30.2823488,-95.13021789999999
-Not Provided,"$44,495 ","$44,700 ",Ford,Bronco,2022,Automatic,0 miles,DeMontrond Ford,"3944 US 59 S Cleveland, TX 77328",30.2823488,-95.13021789999999
-"$46,520 ","$46,520 ","$46,520 ",Ford,Bronco,2022,,10 miles,Griffith Ford San Marcos,"2661 N Interstate 35 San Marcos, TX 78666",29.9003779,-97.9061361
-"$52,955 ","$62,955 ","$63,162 ",Ford,Bronco,2022,Automatic,10 miles,"J.O. Williams Motors, Inc.","419 E Broadway Ave. Gladewater, TX 75647",32.5356344,-94.94034719999999
-"$54,270 ","$54,270 ","$54,270 ",Ford,Bronco,2022,,10 miles,Griffith Ford San Marcos,"2661 N Interstate 35 San Marcos, TX 78666",29.9003779,-97.9061361
-"$54,920 ","$54,920 ","$54,920 ",Ford,Bronco,2022,,10 miles,Griffith Ford San Marcos,"2661 N Interstate 35 San Marcos, TX 78666",29.9003779,-97.9061361
-"$55,725 ","$55,725 ","$55,725 ",Ford,Bronco,2022,,10 miles,Griffith Ford San Marcos,"2661 N Interstate 35 San Marcos, TX 78666",29.9003779,-97.9061361
-Not Provided,"$56,590 ","$56,795 ",Ford,Bronco,2022,Automatic,3 miles,DeMontrond Ford,"3944 US 59 S Cleveland, TX 77328",30.2823488,-95.13021789999999
-"$57,235 ","$57,235 ","$57,235 ",Ford,Bronco,2022,Automatic,0 miles,Chaparral Ford Inc.,"102 County Road 773 Devine, TX 78016",29.1484967,-98.8758245
-Not Provided,"$57,590 ","$57,590 ",Ford,Bronco,2022,Automatic,269 miles,Carvana,"102 County Road 773 Devine, TX 78016",29.1484967,-98.8758245
-"$63,245 ","$63,245 ","$63,245 ",Ford,Bronco,2022,,10 miles,Griffith Ford San Marcos,"2661 N Interstate 35 San Marcos, TX 78666",29.9003779,-97.9061361
-"$64,185 ","$64,185 ","$64,185 ",Ford,Bronco,2022,,10 miles,Griffith Ford San Marcos,"2661 N Interstate 35 San Marcos, TX 78666",29.9003779,-97.9061361
-Not Provided,"$68,990 ","$68,990 ",Ford,Bronco,2022,Automatic,58 miles,Carvana,"2661 N Interstate 35 San Marcos, TX 78666",29.9003779,-97.9061361
-Not Provided,"$41,990 ","$41,990 ",Ford,Maverick,2022,8-Speed Automatic,193 miles,Carvana,"31480 IH 10 west Boerne, TX 78006",29.7552302,-98.7024799
-Not Provided,"$42,990 ","$42,990 ",Ford,Maverick,2022,8-Speed Automatic,229 miles,Carvana,"31480 IH 10 west Boerne, TX 78006",29.7552302,-98.7024799
-Not Provided,"$43,590 ","$43,590 ",Ford,Maverick,2022,8-Speed Automatic,58 miles,Carvana,"31480 IH 10 west Boerne, TX 78006",29.7552302,-98.7024799
-"$112,839 ","$112,839 ","$112,839 ",General Motors,Hummer,2022,Automatic,13 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D Houston, TX 77074",29.6681773,-95.55180879999999
-"$114,590 ","$114,590 ","$114,590 ",General Motors,Hummer,2022,Automatic,11 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D Houston, TX 77074",29.6681773,-95.55180879999999
-"$115,139 ","$115,139 ","$115,139 ",General Motors,Hummer,2022,1-Speed Automatic,0 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D Houston, TX 77074",29.6681773,-95.55180879999999
-Not Provided,"$115,139 ","$115,139 ",General Motors,Hummer,2022,1-Speed Automatic,3 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D Houston, TX 77074",29.6681773,-95.55180879999999
-"$115,139 ","$115,139 ","$115,139 ",General Motors,Hummer,2022,Automatic,11 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D Houston, TX 77074",29.6681773,-95.55180879999999
-"$115,139 ","$115,139 ","$115,139 ",General Motors,Hummer,2022,Automatic,11 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D Houston, TX 77074",29.6681773,-95.55180879999999
-"$115,139 ","$115,139 ","$115,139 ",General Motors,Hummer,2022,Automatic,13 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D Houston, TX 77074",29.6681773,-95.55180879999999
-"$115,439 ","$115,439 ","$115,439 ",General Motors,Hummer,2022,Automatic,5 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D Houston, TX 77074",29.6681773,-95.55180879999999
-"$46,015 ","$46,015 ","$46,015 ",General Motors,Blazer,2022,Automatic,5 miles,Cavender Chevrolet,"30700 Interstate 10 - West Boerne, TX 78006",29.7476019,-98.6952709
-"$37,855 ","$37,855 ","$37,855 ",General Motors,Blazer,2022,Automatic,5 miles,Cavender Chevrolet,"30700 Interstate 10 - West Boerne, TX 78006",29.7476019,-98.6952709
-"$46,370 ","$46,370 ","$46,370 ",General Motors,Blazer,2022,Automatic,10 miles,Cavender Chevrolet,"30700 Interstate 10 - West Boerne, TX 78006",29.7476019,-98.6952709
-"$35,350 ","$34,100 ","$34,100 ",General Motors,Blazer,2022,Automatic,0 miles,Neessen Chevrolet Buick GMC Truck,"2007 S US Highway 77 Byp Kingsville, TX 78363",27.4978243,-97.84460059999999
-"$37,950 ","$36,961 ","$37,281 ",General Motors,Blazer,2022,9-Speed Automatic Overdrive,2 miles,Freestone Autoplex,"1201 Hwy 84 West Fairfield, TX 75840",31.708962,-96.17925749999999
-"$37,855 ","$37,855 ","$37,855 ",General Motors,Blazer,2022,Automatic,5 miles,Cavender Chevrolet,"30700 Interstate 10 - West Boerne, TX 78006",29.7476019,-98.6952709
-"$43,040 ","$42,141 ","$42,386 ",General Motors,Blazer,2022,Automatic,2 miles,Westside Chevrolet,"23001 Katy Fwy Katy, TX 77450",29.7836894,-95.76890960000001
-"$44,980 ","$43,442 ","$43,706 ",General Motors,Blazer,2022,9-Speed Automatic Overdrive,2 miles,Classic Chevrolet of Houston,"7000 Southwest Fwy Houston, TX 77074",29.7102127,-95.5097388
-Not Provided,"$44,990 ","$44,990 ",General Motors,Blazer,2022,9-Speed Automatic Overdrive,271 miles,Carvana,"7000 Southwest Fwy Houston, TX 77074",29.7102127,-95.5097388
-"$46,885 ","$46,885 ","$46,885 ",General Motors,Blazer,2022,9-Speed Automatic Overdrive,5 miles,Four Stars Auto Ranch Chevrolet Buick,"262 US HWY 287 S Henrietta, TX 76365",33.7977697,-98.19443079999999
-"$46,015 ","$46,015 ","$46,015 ",General Motors,Blazer,2022,Automatic,5 miles,Cavender Chevrolet,"30700 Interstate 10 - West Boerne, TX 78006",29.7476019,-98.6952709
-"$46,370 ","$46,370 ","$46,370 ",General Motors,Blazer,2022,Automatic,10 miles,Cavender Chevrolet,"30700 Interstate 10 - West Boerne, TX 78006",29.7476019,-98.6952709
-"$47,670 ","$47,670 ","$47,670 ",General Motors,Blazer,2022,9-Speed Automatic Overdrive,2 miles,El Dorado Chevrolet,"2300 North Central Expressway Mckinney, TX 75070",33.2265094,-96.6314957
-"$45,975 ","$46,725 ","$46,725 ",General Motors,Blazer,2022,Automatic,10 miles,"Gunn Chevrolet, Ltd.","16550 Interstate 35 N Selma, TX 78154",29.5897305,-98.2974632
-"$46,525 ","$47,275 ","$47,275 ",General Motors,Blazer,2022,Automatic,10 miles,"Gunn Chevrolet, Ltd.","16550 Interstate 35 N Selma, TX 78154",29.5897305,-98.2974632
-"$47,520 ","$47,850 ","$47,850 ",General Motors,Blazer,2022,Automatic,10 miles,"Gunn Chevrolet, Ltd.","16550 Interstate 35 N Selma, TX 78154",29.5897305,-98.2974632
-"$37,275 ","$34,175 ","$34,175 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
-"$38,560 ","$38,560 ","$38,560 ",Jeep,Wrangler,2022,8-Speed Automatic,11 miles,San Marcos Chrysler Dodge,"2990 I-35 S San Marcos, TX 78666",29.8413264,-97.9724411
-"$38,660 ","$38,660 ","$38,968 ",Jeep,Wrangler,2022,8-Speed Automatic,15 miles,Premier CDJR of Lamesa,"1611 Lubbock Hwy Lamesa, TX 79331",32.7478766,-101.9508105
-"$39,370 ","$39,370 ","$39,370 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,San Marcos Chrysler Dodge,"2990 I-35 S San Marcos, TX 78666",29.8413264,-97.9724411
-Not Provided,"$39,590 ","$39,590 ",Jeep,Wrangler,2022,6-Speed Manual,273 miles,Carvana,"2990 I-35 S San Marcos, TX 78666",29.8413264,-97.9724411
-"$39,575 ","$39,575 ","$39,719 ",Jeep,Wrangler,2022,Automatic,0 miles,Neessen Chrysler Dodge Jeep Ram,"2151 N US Highway 77 Byp Kingsville, TX 78363",27.5371885,-97.835223
-"$41,330 ","$40,561 ","$40,561 ",Jeep,Wrangler,2022,8-Speed Automatic,11 miles,Nyle Maxwell CDJR of Castroville,"1950 US Highway 90 E Castroville, TX 78009",29.35455619999999,-98.8454975
-"$41,330 ","$40,716 ","$40,716 ",Jeep,Wrangler,2022,8-Speed Automatic,29 miles,Nyle Maxwell CDJR of Castroville,"1950 US Highway 90 E Castroville, TX 78009",29.35455619999999,-98.8454975
-"$39,910 ","$40,910 ","$41,230 ",Jeep,Wrangler,2022,8-Speed Automatic,2 miles,Freestone Autoplex,"1201 Hwy 84 West Fairfield, TX 75840",31.708962,-96.17925749999999
-"$40,305 ","$41,305 ","$41,625 ",Jeep,Wrangler,2022,8-Speed Automatic,2 miles,Freestone Autoplex,"1201 Hwy 84 West Fairfield, TX 75840",31.708962,-96.17925749999999
-"$40,305 ","$41,305 ","$41,625 ",Jeep,Wrangler,2022,8-Speed Automatic,2 miles,Freestone Autoplex,"1201 Hwy 84 West Fairfield, TX 75840",31.708962,-96.17925749999999
-"$43,250 ","$43,250 ","$43,250 ",Jeep,Wrangler,2022,Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
-"$43,160 ","$44,160 ","$44,480 ",Jeep,Wrangler,2022,8-Speed Automatic,2 miles,Freestone Autoplex,"1201 Hwy 84 West Fairfield, TX 75840",31.708962,-96.17925749999999
-"$43,265 ","$44,265 ","$44,585 ",Jeep,Wrangler,2022,8-Speed Automatic,2 miles,Freestone Autoplex,"1201 Hwy 84 West Fairfield, TX 75840",31.708962,-96.17925749999999
-"$45,945 ","$45,945 ","$46,344 ",Jeep,Wrangler,2022,Manual,6 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
-"$50,535 ","$50,535 ","$50,934 ",Jeep,Wrangler,2022,Automatic,0 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
-"$50,990 ","$50,990 ","$51,298 ",Jeep,Wrangler,2022,8-Speed Automatic,15 miles,Premier CDJR of Lamesa,"1611 Lubbock Hwy Lamesa, TX 79331",32.7478766,-101.9508105
-"$50,220 ","$49,771 ","$49,771 ",Jeep,Wrangler,2022,8-Speed Automatic,10 miles,Atascosa Chrysler Dodge Jeep,"110128 I-37 Pleasanton, TX 78064",28.9984087,-98.4294747
-"$39,565 ","$36,465 ","$36,465 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
-"$39,565 ","$36,465 ","$36,465 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
-"$42,370 ","$39,270 ","$39,270 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
-"$42,715 ","$39,615 ","$39,615 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
-"$42,765 ","$39,665 ","$39,665 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
-"$42,765 ","$41,609 ","$41,609 ",Jeep,Wrangler,2022,8-Speed Automatic,1 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
-"$42,985 ","$39,885 ","$39,885 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
-"$43,065 ","$39,965 ","$39,965 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
-"$40,060 ","$40,060 ","$40,060 ",Jeep,Wrangler,2022,Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
-"$40,060 ","$40,060 ","$40,060 ",Jeep,Wrangler,2022,Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
-"$40,160 ","$40,160 ","$40,160 ",Jeep,Wrangler,2022,Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
-"$45,225 ","$42,125 ","$42,125 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
-"$42,980 ","$42,980 ","$43,379 ",Jeep,Wrangler,2022,Automatic,0 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
-"$43,480 ","$43,480 ","$43,879 ",Jeep,Wrangler,2022,Automatic,0 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
-"$43,920 ","$43,920 ","$43,920 ",Jeep,Wrangler,2022,8-Speed Automatic,---,Boerne Dodge Chrysler Jeep Ram,"30300 I-10 West Boerne, TX 78006",29.744395,-98.69106339999999
-"$44,880 ","$44,880 ","$45,279 ",Jeep,Wrangler,2022,Automatic,0 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
-"$46,150 ","$45,650 ","$45,650 ",Jeep,Wrangler,2022,8-Speed Automatic,11 miles,Nyle Maxwell CDJR of Castroville,"1950 US Highway 90 E Castroville, TX 78009",29.35455619999999,-98.8454975
-Not Provided,"$45,835 ","$45,835 ",Jeep,Wrangler,2022,Automatic,8 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
-"$46,545 ","$46,045 ","$46,045 ",Jeep,Wrangler,2022,8-Speed Automatic,11 miles,Nyle Maxwell CDJR of Castroville,"1950 US Highway 90 E Castroville, TX 78009",29.35455619999999,-98.8454975
-"$45,820 ","$45,820 ","$46,219 ",Jeep,Wrangler,2022,Automatic,0 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
-"$49,875 ","$46,775 ","$46,775 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
-"$47,045 ","$47,045 ","$47,045 ",Jeep,Wrangler,2022,8-Speed Automatic,11 miles,Nyle Maxwell CDJR of Castroville,"1950 US Highway 90 E Castroville, TX 78009",29.35455619999999,-98.8454975
-"$47,045 ","$47,045 ","$47,045 ",Jeep,Wrangler,2022,8-Speed Automatic,11 miles,Nyle Maxwell CDJR of Castroville,"1950 US Highway 90 E Castroville, TX 78009",29.35455619999999,-98.8454975
-"$50,670 ","$47,570 ","$47,570 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
-"$46,365 ","$47,365 ","$47,685 ",Jeep,Wrangler,2022,8-Speed Automatic,2 miles,Freestone Autoplex,"1201 Hwy 84 West Fairfield, TX 75840",31.708962,-96.17925749999999
-"$51,065 ","$47,965 ","$47,965 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
-"$51,370 ","$48,270 ","$48,270 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
-"$47,010 ","$48,010 ","$48,330 ",Jeep,Wrangler,2022,8-Speed Automatic,2 miles,Freestone Autoplex,"1201 Hwy 84 West Fairfield, TX 75840",31.708962,-96.17925749999999
-"$48,130 ","$48,130 ","$48,529 ",Jeep,Wrangler,2022,Automatic,6 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
-"$51,765 ","$48,665 ","$48,665 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
-"$48,685 ","$48,685 ","$48,829 ",Jeep,Wrangler,2022,Automatic,0 miles,Neessen Chrysler Dodge Jeep Ram,"2151 N US Highway 77 Byp Kingsville, TX 78363",27.5371885,-97.835223
-"$52,210 ","$49,110 ","$49,110 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
-"$52,560 ","$49,460 ","$49,460 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
-"$52,560 ","$49,460 ","$49,460 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
-"$52,560 ","$49,460 ","$49,460 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
-"$50,220 ","$49,771 ","$49,771 ",Jeep,Wrangler,2022,8-Speed Automatic,10 miles,Atascosa Chrysler Dodge Jeep,"110128 I-37 Pleasanton, TX 78064",28.9984087,-98.4294747
-"$50,395 ","$50,395 ","$50,395 ",Jeep,Wrangler,2022,Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
-"$50,790 ","$50,790 ","$50,790 ",Jeep,Wrangler,2022,Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
-"$50,790 ","$50,790 ","$50,790 ",Jeep,Wrangler,2022,Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
-"$51,035 ","$51,035 ","$51,035 ",Jeep,Wrangler,2022,Automatic,15 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
-"$51,165 ","$51,088 ","$51,088 ",Jeep,Wrangler,2022,Automatic,65 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
-"$51,215 ","$51,138 ","$51,138 ",Jeep,Wrangler,2022,Automatic,8 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
-"$50,860 ","$50,860 ","$51,259 ",Jeep,Wrangler,2022,Automatic,0 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
-"$52,230 ","$52,152 ","$52,152 ",Jeep,Wrangler,2022,Automatic,12 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
-"$53,505 ","$53,425 ","$53,425 ",Jeep,Wrangler,2022,Automatic,9 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
-"$53,045 ","$53,045 ","$53,444 ",Jeep,Wrangler,2022,Automatic,4 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
-"$53,805 ","$53,724 ","$53,724 ",Jeep,Wrangler,2022,Automatic,20 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
-"$56,940 ","$53,616 ","$53,616 ",Jeep,Wrangler,2022,8-Speed Automatic,1 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
-"$54,250 ","$54,250 ","$54,649 ",Jeep,Wrangler,2022,Automatic,10 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
-"$54,510 ","$54,510 ","$54,909 ",Jeep,Wrangler,2022,Automatic,0 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
-"$55,665 ","$55,665 ","$55,665 ",Jeep,Wrangler,2022,8-Speed Automatic,---,Boerne Dodge Chrysler Jeep Ram,"30300 I-10 West Boerne, TX 78006",29.744395,-98.69106339999999
-"$55,365 ","$55,365 ","$55,764 ",Jeep,Wrangler,2022,Automatic,0 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
-"$55,760 ","$55,760 ","$56,159 ",Jeep,Wrangler,2022,Automatic,0 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
-"$56,575 ","$56,575 ","$56,974 ",Jeep,Wrangler,2022,Automatic,4 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
-"$59,700 ","$57,056 ","$57,056 ",Jeep,Wrangler,2022,8-Speed Automatic,11 miles,Ingram Park Auto Center Chrysler Jeep,"7000 NW Loop 410 San Antonio, TX 78238",29.4554705,-98.62512989999999
-"$57,725 ","$57,725 ","$58,124 ",Jeep,Wrangler,2022,Automatic,0 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
-"$58,170 ","$58,170 ","$58,170 ",Jeep,Wrangler,2022,Automatic,13 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
-"$59,765 ","$59,765 ","$60,073 ",Jeep,Wrangler,2022,8-Speed Automatic,15 miles,Premier CDJR of Lamesa,"1611 Lubbock Hwy Lamesa, TX 79331",32.7478766,-101.9508105
-"$60,765 ","$60,765 ","$61,164 ",Jeep,Wrangler,2022,Automatic,0 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
-"$62,265 ","$62,172 ","$62,172 ",Jeep,Wrangler,2022,Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
-"$67,525 ","$67,424 ","$67,424 ",Jeep,Wrangler,2022,Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
-"$80,995 ","$80,995 ","$80,995 ",Jeep,Wrangler,2022,Automatic,10 miles,Price Chrysler Dodge Jeep Ram,"1541 US Highway 181 N Floresville, TX 78114",29.204226,-98.2139732
-"$60,695 ","$60,695 ","$60,695 ",Jeep,Wrangler,2022,Automatic,0 miles,Yaklin Chrysler Dodge Jeep Ram,"1550 W Kingsbury St Seguin, TX 78155",29.5757331,-97.99096700000001
-"$58,280 ","$54,880 ","$54,880 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
-"$58,885 ","$55,485 ","$55,485 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
-"$59,280 ","$55,880 ","$55,880 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
-"$58,280 ","$58,280 ","$58,280 ",Jeep,Wrangler,2022,Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
-"$58,280 ","$58,280 ","$58,280 ",Jeep,Wrangler,2022,Automatic,13 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
-"$58,550 ","$58,550 ","$58,550 ",Jeep,Wrangler,2022,Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
-"$58,580 ","$58,580 ","$58,888 ",Jeep,Wrangler,2022,8-Speed Automatic,25 miles,Premier CDJR of Lamesa,"1611 Lubbock Hwy Lamesa, TX 79331",32.7478766,-101.9508105
-"$58,945 ","$58,945 ","$58,945 ",Jeep,Wrangler,2022,Automatic,14 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
-"$59,770 ","$59,770 ","$60,169 ",Jeep,Wrangler,2022,Automatic,0 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
-"$60,695 ","$60,695 ","$60,695 ",Jeep,Wrangler,2022,Automatic,0 miles,Yaklin Chrysler Dodge Jeep Ram,"1550 W Kingsbury St Seguin, TX 78155",29.5757331,-97.99096700000001
-"$60,375 ","$60,375 ","$60,774 ",Jeep,Wrangler,2022,Automatic,0 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
-"$61,075 ","$61,075 ","$61,075 ",Jeep,Wrangler,2022,Automatic,12 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
-"$61,470 ","$61,470 ","$61,470 ",Jeep,Wrangler,2022,Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
-"$61,470 ","$61,470 ","$61,470 ",Jeep,Wrangler,2022,Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
-"$61,570 ","$61,570 ","$61,570 ",Jeep,Wrangler,2022,Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
-"$61,770 ","$61,770 ","$61,770 ",Jeep,Wrangler,2022,8-Speed Automatic,11 miles,San Marcos Chrysler Dodge,"2990 I-35 S San Marcos, TX 78666",29.8413264,-97.9724411
-"$61,570 ","$61,570 ","$61,969 ",Jeep,Wrangler,2022,Automatic,0 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
-"$61,935 ","$61,935 ","$62,243 ",Jeep,Wrangler,2022,8-Speed Automatic,15 miles,Premier CDJR of Lamesa,"1611 Lubbock Hwy Lamesa, TX 79331",32.7478766,-101.9508105
-"$65,725 ","$62,325 ","$62,325 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
-"$62,525 ","$62,525 ","$62,525 ",Jeep,Wrangler,2022,Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
-"$62,220 ","$62,220 ","$62,619 ",Jeep,Wrangler,2022,Automatic,13 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
-"$62,220 ","$62,220 ","$62,619 ",Jeep,Wrangler,2022,Automatic,13 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
-"$62,920 ","$62,920 ","$62,920 ",Jeep,Wrangler,2022,Automatic,9 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
-"$62,920 ","$62,920 ","$62,920 ",Jeep,Wrangler,2022,Automatic,14 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
-"$64,190 ","$64,190 ","$64,190 ",Jeep,Wrangler,2022,Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
-"$67,935 ","$67,935 ","$68,243 ",Jeep,Wrangler,2022,8-Speed Automatic,15 miles,Premier CDJR of Lamesa,"1611 Lubbock Hwy Lamesa, TX 79331",32.7478766,-101.9508105
-"$69,685 ","$69,685 ","$69,685 ",Jeep,Wrangler,2022,Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
-Not Provided,"$47,723 ","$47,723 ",Toyota,Tundra,2022,Automatic,---,Toyota of Boerne,"31205 I-10 W Boerne, TX 78006",29.7506876,-98.7026131
-Not Provided,"$49,039 ","$49,039 ",Toyota,Tundra,2022,Automatic,---,Toyota of Boerne,"31205 I-10 W Boerne, TX 78006",29.7506876,-98.7026131
-"$48,957 ","$48,957 ","$49,198 ",Toyota,Tundra,2022,Automatic,1 miles,Family Toyota of Arlington,"1661 Wet N Wild Way Arlington, TX 76011",32.7612421,-97.08589909999999
-"$49,970 ","$49,970 ","$49,970 ",Toyota,Tundra,2022,Automatic,10 miles,North Park Toyota of San Antonio,"10703 S.W. Loop 410 San Antonio, TX 78211",29.3156659,-98.61221309999999
-Not Provided,"$50,453 ","$50,453 ",Toyota,Tundra,2022,Automatic,---,Toyota of Boerne,"31205 I-10 W, Boerne, TX 78006",29.7506876,-98.7026131
-"$54,796 ","$54,796 ","$54,796 ",Toyota,Tundra,2022,Automatic,0 miles,Alamo Toyota,"18019 US 281 North, San Antonio, TX 78232",29.2450108,-98.4740466
-"$55,317 ","$55,317 ","$55,317 ",Toyota,Tundra,2022,Automatic,10 miles,North Park Toyota of San Antonio,"10703 S.W. Loop 410, San Antonio, TX 78211",29.3156659,-98.61221309999999
-"$58,469 ","$58,469 ","$58,469 ",Toyota,Tundra,2022,Automatic,0 miles,Alamo Toyota,"18019 US 281 North, San Antonio, TX 78232",29.2450108,-98.4740466
-"$58,640 ","$58,640 ","$58,859 ",Toyota,Tundra,2022,Automatic,0 miles,Toyota of Laredo,"6324 Bob Bullock Loop, Laredo, TX 78041",27.5561385,-99.4501652
-"$59,949 ","$59,949 ","$60,168 ",Toyota,Tundra,2022,Automatic,5 miles,"Powell Watson Motors, Inc.","6301 Arena Blvd, Laredo, TX 78041",27.5570758,-99.4491939
-"$65,187 ","$65,187 ","$65,187 ",Toyota,Tundra,2022,Automatic,0 miles,Alamo Toyota,"18019 US 281 North, San Antonio, TX 78232",29.2450108,-98.4740466
-"$70,377 ","$70,377 ","$70,377 ",Toyota,Tundra,2022,Automatic,0 miles,Alamo Toyota,"18019 US 281 North, San Antonio, TX 78232",29.2450108,-98.4740466
-Not Provided,"$32,020 ","$32,174 ",Ford,Bronco,2022,Automatic,0 miles,DeMontrond Ford,"3944 US 59 S, Cleveland, TX 77328",30.2823488,-95.13021789999999
-Not Provided,"$40,470 ","$40,624 ",Ford,Bronco,2022,,0 miles,DeMontrond Ford,"3944 US 59 S, Cleveland, TX 77328",30.2823488,-95.13021789999999
-Not Provided,"$42,015 ","$42,169 ",Ford,Bronco,2022,,0 miles,DeMontrond Ford,"3944 US 59 S, Cleveland, TX 77328",30.2823488,-95.13021789999999
-Not Provided,"$44,495 ","$44,649 ",Ford,Bronco,2022,Automatic,0 miles,DeMontrond Ford,"3944 US 59 S, Cleveland, TX 77328",30.2823488,-95.13021789999999
-"$45,465 ","$45,465 ","$45,465 ",Ford,Bronco,2022,Automatic,8 miles,Maxwell Ford,"5000 South IH-35, Austin, TX 78745",30.2053831,-97.7607699
-"$46,520 ","$46,520 ","$46,520 ",Ford,Bronco,2022,,10 miles,Griffith Ford San Marcos,"2661 N Interstate 35, San Marcos, TX 78666",29.9003779,-97.9061361
-"$46,775 ","$46,775 ","$46,775 ",Ford,Bronco,2022,Automatic,8 miles,Maxwell Ford,"5000 South IH-35, Austin, TX 78745",30.2053831,-97.7607699
-"$49,115 ","$49,115 ","$49,115 ",Ford,Bronco,2022,Automatic,11 miles,Maxwell Ford,"5000 South IH-35, Austin, TX 78745",30.2053831,-97.7607699
-"$49,115 ","$49,115 ","$49,115 ",Ford,Bronco,2022,Automatic,11 miles,Maxwell Ford,"5000 South IH-35, Austin, TX 78745",30.2053831,-97.7607699
-"$52,955 ","$62,955 ","$63,115 ",Ford,Bronco,2022,Automatic,10 miles,"J.O. Williams Motors, Inc.","419 E Broadway Ave., Gladewater, TX 75647",32.5356344,-94.94034719999999
-"$51,760 ","$51,760 ","$51,760 ",Ford,Bronco,2022,Automatic,8 miles,Maxwell Ford,"5000 South IH-35, Austin, TX 78745",30.2053831,-97.7607699
-"$54,270 ","$54,270 ","$54,270 ",Ford,Bronco,2022,,10 miles,Griffith Ford San Marcos,"2661 N Interstate 35, San Marcos, TX 78666",29.9003779,-97.9061361
-"$54,920 ","$54,920 ","$54,920 ",Ford,Bronco,2022,,10 miles,Griffith Ford San Marcos,"2661 N Interstate 35, San Marcos, TX 78666",29.9003779,-97.9061361
-"$55,725 ","$55,725 ","$55,725 ",Ford,Bronco,2022,,10 miles,Griffith Ford San Marcos,"2661 N Interstate 35, San Marcos, TX 78666",29.9003779,-97.9061361
-Not Provided,"$56,590 ","$56,744 ",Ford,Bronco,2022,Automatic,3 miles,DeMontrond Ford,"3944 US 59 S, Cleveland, TX 77328",30.2823488,-95.13021789999999
-Not Provided,"$57,590 ","$57,590 ",Ford,Bronco,2022,Automatic,269 miles,Carvana,"3944 US 59 S, Cleveland, TX 77328",30.2823488,-95.13021789999999
-"$63,245 ","$63,245 ","$63,245 ",Ford,Bronco,2022,,10 miles,Griffith Ford San Marcos,"2661 N Interstate 35, San Marcos, TX 78666",29.9003779,-97.9061361
-"$64,185 ","$64,185 ","$64,185 ",Ford,Bronco,2022,,10 miles,Griffith Ford San Marcos,"2661 N Interstate 35, San Marcos, TX 78666",29.9003779,-97.9061361
-Not Provided,"$68,990 ","$68,990 ",Ford,Bronco,2022,Automatic,58 miles,Carvana,"2661 N Interstate 35, San Marcos, TX 78666",29.9003779,-97.9061361
-Not Provided,"$58,674 ","$58,674 ",Ford,Bronco,2022,Automatic,"7,707 miles",Maxwell Ford,"5000 South IH-35, Austin, TX 78745",30.2053831,-97.7607699
-"$31,855 ","$31,855 ","$31,855 ",Ford,Maverick,2022,Automatic,10 miles,Maxwell Ford,"5000 South IH-35, Austin, TX 78745",30.2053831,-97.7607699
-"$31,855 ","$31,855 ","$32,284 ",Ford,Maverick,2022,Automatic,0 miles,Vernon Ford,"2803 Wilbarger St, Vernon, TX 76384",34.1520803,-99.2956248
-Not Provided,"$41,990 ","$41,990 ",Ford,Maverick,2022,8-Speed Automatic,193 miles,Carvana,"2803 Wilbarger St, Vernon, TX 76384",34.1520803,-99.2956248
-Not Provided,"$42,990 ","$42,990 ",Ford,Maverick,2022,8-Speed Automatic,229 miles,Carvana,"2803 Wilbarger St, Vernon, TX 76384",34.1520803,-99.2956248
-Not Provided,"$43,590 ","$43,590 ",Ford,Maverick,2022,8-Speed Automatic,58 miles,Carvana,"2803 Wilbarger St, Vernon, TX 76384",34.1520803,-99.2956248
-"$112,839 ","$112,839 ","$112,839 ",General Motors,Hummer,2022,Automatic,13 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D, Houston, TX 77074",29.6681773,-95.55180879999999
-"$114,590 ","$114,590 ","$114,590 ",General Motors,Hummer,2022,Automatic,11 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D, Houston, TX 77074",29.6681773,-95.55180879999999
-"$115,139 ","$115,139 ","$115,139 ",General Motors,Hummer,2022,1-Speed Automatic,0 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D, Houston, TX 77074",29.6681773,-95.55180879999999
-Not Provided,"$115,139 ","$115,139 ",General Motors,Hummer,2022,1-Speed Automatic,3 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D, Houston, TX 77074",29.6681773,-95.55180879999999
-"$115,139 ","$115,139 ","$115,139 ",General Motors,Hummer,2022,Automatic,11 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D, Houston, TX 77074",29.6681773,-95.55180879999999
-"$115,139 ","$115,139 ","$115,139 ",General Motors,Hummer,2022,Automatic,11 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D, Houston, TX 77074",29.6681773,-95.55180879999999
-"$115,139 ","$115,139 ","$115,139 ",General Motors,Hummer,2022,Automatic,13 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D, Houston, TX 77074",29.6681773,-95.55180879999999
-"$115,439 ","$115,439 ","$115,439 ",General Motors,Hummer,2022,Automatic,5 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D, Houston, TX 77074",29.6681773,-95.55180879999999
-"$35,350 ","$34,100 ","$34,100 ",General Motors,Blazer,2022,Automatic,0 miles,Neessen Chevrolet Buick GMC Truck,"2007 S US Highway 77 Byp, Kingsville, TX 78363",27.4978243,-97.84460059999999
-"$37,950 ","$36,961 ","$37,179 ",General Motors,Blazer,2022,9-Speed Automatic Overdrive,2 miles,Freestone Autoplex,"1201 Hwy 84 West, Fairfield, TX 75840",31.708962,-96.17925749999999
-"$40,220 ","$43,219 ","$43,515 ",General Motors,Blazer,2022,9-Speed Automatic Overdrive,13 miles,Coleman Chevrolet,"510 Addison St, New Boston, TX 75570",33.4760884,-94.4113771
-"$43,040 ","$42,141 ","$42,330 ",General Motors,Blazer,2022,Automatic,2 miles,Westside Chevrolet,"23001 Katy Fwy, Katy, TX 77450",29.7836894,-95.76890960000001
-"$44,980 ","$43,442 ","$43,652 ",General Motors,Blazer,2022,9-Speed Automatic Overdrive,2 miles,Classic Chevrolet of Houston,"7000 Southwest Fwy, Houston, TX 77074",29.7102127,-95.5097388
-"$45,605 ","$44,355 ","$44,355 ",General Motors,Blazer,2022,Automatic,0 miles,Capitol Chevrolet,"6200 S I H 35, Austin, TX 78745",30.1941831,-97.7690481
-Not Provided,"$44,990 ","$44,990 ",General Motors,Blazer,2022,9-Speed Automatic Overdrive,271 miles,Carvana,"6200 S I H 35, Austin, TX 78745",30.1941831,-97.7690481
-"$46,885 ","$46,885 ","$46,885 ",General Motors,Blazer,2022,9-Speed Automatic Overdrive,5 miles,Four Stars Auto Ranch Chevrolet Buick,"262 US HWY 287 S, Henrietta, TX 76365",33.7977697,-98.19443079999999
-"$44,870 ","$47,169 ","$47,465 ",General Motors,Blazer,2022,9-Speed Automatic Overdrive,7 miles,Coleman Chevrolet,"510 Addison St, New Boston, TX 75570",33.4760884,-94.4113771
-"$47,670 ","$47,670 ","$47,670 ",General Motors,Blazer,2022,9-Speed Automatic Overdrive,2 miles,El Dorado Chevrolet,"2300 North Central Expressway, Mckinney, TX 75070",33.2265094,-96.6314957
-"$45,975 ","$46,725 ","$46,725 ",General Motors,Blazer,2022,Automatic,10 miles,"Gunn Chevrolet, Ltd.","16550 Interstate 35 N, Selma, TX 78154",29.5897305,-98.2974632
-"$46,525 ","$47,275 ","$47,275 ",General Motors,Blazer,2022,Automatic,10 miles,"Gunn Chevrolet, Ltd.","16550 Interstate 35 N, Selma, TX 78154",29.5897305,-98.2974632
-"$47,520 ","$47,850 ","$47,850 ",General Motors,Blazer,2022,Automatic,10 miles,"Gunn Chevrolet, Ltd.","16550 Interstate 35 N, Selma, TX 78154",29.5897305,-98.2974632
-"$50,190 ","$50,190 ","$50,190 ",Jeep,Wrangler,2022,Automatic,7 miles,Covert Chrysler Dodge Jeep Ram-Austin,"8107 Research Blvd, Austin, TX 78758",30.35262049999999,-97.713285
-"$47,945 ","$47,945 ","$47,945 ",Jeep,Wrangler,2022,Automatic,7 miles,Covert Chrysler Dodge Jeep Ram-Austin,"8107 Research Blvd, Austin, TX 78758",30.35262049999999,-97.713285
-"$37,275 ","$34,175 ","$34,175 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy, Houston, TX 77079",29.78321,-95.5993955
-"$37,940 ","$37,940 ","$37,940 ",Jeep,Wrangler,2022,8-Speed Automatic,10 miles,Nyle Maxwell CDJR Austin,"13817 U.S. 183, Austin, TX 78750",30.4654634,-97.7943555
-"$38,560 ","$38,560 ","$38,560 ",Jeep,Wrangler,2022,8-Speed Automatic,11 miles,San Marcos Chrysler Dodge,"2990 I-35 S, San Marcos, TX 78666",29.8413264,-97.9724411
-"$38,660 ","$38,660 ","$38,962 ",Jeep,Wrangler,2022,8-Speed Automatic,15 miles,Premier CDJR of Lamesa,"1611 Lubbock Hwy, Lamesa, TX 79331",32.7478766,-101.9508105
-"$39,200 ","$39,200 ","$39,200 ",Jeep,Wrangler,2022,8-Speed Automatic,10 miles,Nyle Maxwell CDJR Austin,"13817 U.S. 183, Austin, TX 78750",30.4654634,-97.7943555
-"$39,370 ","$39,370 ","$39,370 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,San Marcos Chrysler Dodge,"2990 I-35 S, San Marcos, TX 78666",29.8413264,-97.9724411
-Not Provided,"$39,590 ","$39,590 ",Jeep,Wrangler,2022,6-Speed Manual,273 miles,Carvana,"2990 I-35 S, San Marcos, TX 78666",29.8413264,-97.9724411
-"$39,685 ","$39,685 ","$39,685 ",Jeep,Wrangler,2022,6-Speed Manual,10 miles,Nyle Maxwell CDJR Austin,"13817 U.S. 183, Austin, TX 78750",30.4654634,-97.7943555
-"$39,575 ","$39,575 ","$39,768 ",Jeep,Wrangler,2022,Automatic,0 miles,Neessen Chrysler Dodge Jeep Ram,"2151 N US Highway 77 Byp, Kingsville, TX 78363",27.5371885,-97.835223
-"$40,620 ","$40,620 ","$40,620 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,Sames Bastrop CDJ,"1586 Hwy 71 West, Cedar Creek, TX 78612",30.1258939,-97.4366989
-"$39,910 ","$40,910 ","$41,128 ",Jeep,Wrangler,2022,8-Speed Automatic,2 miles,Freestone Autoplex,"1201 Hwy 84 West, Fairfield, TX 75840",31.708962,-96.17925749999999
-"$41,175 ","$41,175 ","$41,175 ",Jeep,Wrangler,2022,8-Speed Automatic,11 miles,Nyle Maxwell CDJR Austin,"13817 U.S. 183, Austin, TX 78750",30.4654634,-97.7943555
-"$41,180 ","$41,180 ","$41,180 ",Jeep,Wrangler,2022,Automatic,15 miles,"Steele CJDR Lockhart, LLC","2000 S Colorado St, Lockhart, TX 78644",29.8549337,-97.66714619999999
-"$40,305 ","$41,305 ","$41,523 ",Jeep,Wrangler,2022,8-Speed Automatic,2 miles,Freestone Autoplex,"1201 Hwy 84 West, Fairfield, TX 75840",31.708962,-96.17925749999999
-"$40,305 ","$41,305 ","$41,523 ",Jeep,Wrangler,2022,8-Speed Automatic,2 miles,Freestone Autoplex,"1201 Hwy 84 West, Fairfield, TX 75840",31.708962,-96.17925749999999
-"$42,270 ","$42,270 ","$42,270 ",Jeep,Wrangler,2022,8-Speed Automatic,24 miles,Nyle Maxwell CDJR Austin,"13817 U.S. 183, Austin, TX 78750",30.4654634,-97.7943555
-"$42,740 ","$42,740 ","$42,740 ",Jeep,Wrangler,2022,Automatic,7 miles,Covert Chrysler Dodge Jeep Ram-Austin,"8107 Research Blvd, Austin, TX 78758",30.35262049999999,-97.713285
-"$42,740 ","$42,740 ","$42,740 ",Jeep,Wrangler,2022,Automatic,7 miles,Covert Chrysler Dodge Jeep Ram-Austin,"8107 Research Blvd, Austin, TX 78758",30.35262049999999,-97.713285
-"$43,250 ","$43,250 ","$43,449 ",Jeep,Wrangler,2022,Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35, San Antonio, TX 78233",29.5474868,-98.3631077
-"$44,300 ","$44,300 ","$44,300 ",Jeep,Wrangler,2022,8-Speed Automatic,10 miles,Nyle Maxwell CDJR Austin,"13817 U.S. 183, Austin, TX 78750",30.4654634,-97.7943555
-"$40,220 ","$43,955 ","$44,336 ",Jeep,Wrangler,2022,Automatic,12 miles,Foundation Chrysler Dodge Jeep Ram - Wichita Falls,"2900 Old Jacksboro Hwy, Wichita Falls, TX 76302",33.8845771,-98.4908493
-"$43,160 ","$44,160 ","$44,378 ",Jeep,Wrangler,2022,8-Speed Automatic,2 miles,Freestone Autoplex,"1201 Hwy 84 West, Fairfield, TX 75840",31.708962,-96.17925749999999
-"$43,265 ","$44,265 ","$44,483 ",Jeep,Wrangler,2022,8-Speed Automatic,2 miles,Freestone Autoplex,"1201 Hwy 84 West, Fairfield, TX 75840",31.708962,-96.17925749999999
-"$45,780 ","$45,780 ","$45,780 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,Sames Bastrop CDJ,"1586 Hwy 71 West, Cedar Creek, TX 78612",30.1258939,-97.4366989
-"$45,780 ","$45,780 ","$45,780 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,Sames Bastrop CDJ,"1586 Hwy 71 West, Cedar Creek, TX 78612",30.1258939,-97.4366989
-"$45,780 ","$45,780 ","$45,780 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,Sames Bastrop CDJ,"1586 Hwy 71 West, Cedar Creek, TX 78612",30.1258939,-97.4366989
-"$45,945 ","$45,945 ","$46,344 ",Jeep,Wrangler,2022,Manual,6 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121, Frisco, TX 75035",33.1009626,-96.7998519
-"$47,550 ","$47,550 ","$47,550 ",Jeep,Wrangler,2022,Automatic,7 miles,Covert Chrysler Dodge Jeep Ram-Austin,"8107 Research Blvd, Austin, TX 78758",30.35262049999999,-97.713285
-"$47,945 ","$47,945 ","$47,945 ",Jeep,Wrangler,2022,Automatic,7 miles,Covert Chrysler Dodge Jeep Ram-Austin,"8107 Research Blvd, Austin, TX 78758",30.35262049999999,-97.713285
-"$50,190 ","$50,190 ","$50,190 ",Jeep,Wrangler,2022,Automatic,7 miles,Covert Chrysler Dodge Jeep Ram-Austin,"8107 Research Blvd, Austin, TX 78758",30.35262049999999,-97.713285
-"$50,525 ","$50,525 ","$50,525 ",Jeep,Wrangler,2022,8-Speed Automatic,---,South Point Dodge Chrysler Jeep,"5210 IH-35 South, Austin, TX 78745",30.2039191,-97.7612793
-"$50,535 ","$50,535 ","$50,934 ",Jeep,Wrangler,2022,Automatic,0 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121, Frisco, TX 75035",33.1009626,-96.7998519
-"$50,990 ","$50,990 ","$51,292 ",Jeep,Wrangler,2022,8-Speed Automatic,15 miles,Premier CDJR of Lamesa,"1611 Lubbock Hwy, Lamesa, TX 79331",32.7478766,-101.9508105
-"$58,305 ","$58,305 ","$58,305 ",Jeep,Wrangler,2022,8-Speed Automatic,---,South Point Dodge Chrysler Jeep,"5210 IH-35 South, Austin, TX 78745",30.2039191,-97.7612793
-"$51,870 ","$51,870 ","$51,870 ",Jeep,Wrangler,2022,Automatic,7 miles,Covert Chrysler Dodge Jeep Ram-Austin,"8107 Research Blvd, Austin, TX 78758",30.35262049999999,-97.713285
-"$39,565 ","$36,465 ","$36,465 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy, Houston, TX 77079",29.78321,-95.5993955
-"$39,565 ","$36,465 ","$36,465 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy, Houston, TX 77079",29.78321,-95.5993955
-"$42,370 ","$39,270 ","$39,270 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy, Houston, TX 77079",29.78321,-95.5993955
-"$42,715 ","$39,615 ","$39,615 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy, Houston, TX 77079",29.78321,-95.5993955
-"$42,765 ","$39,665 ","$39,665 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy, Houston, TX 77079",29.78321,-95.5993955
-"$42,765 ","$41,609 ","$41,609 ",Jeep,Wrangler,2022,8-Speed Automatic,1 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy, Houston, TX 77079",29.78321,-95.5993955
-"$42,985 ","$39,885 ","$39,885 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy, Houston, TX 77079",29.78321,-95.5993955
-"$43,065 ","$39,965 ","$39,965 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy, Houston, TX 77079",29.78321,-95.5993955
-"$40,060 ","$40,060 ","$40,259 ",Jeep,Wrangler,2022,Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35, San Antonio, TX 78233",29.5474868,-98.3631077
-"$40,060 ","$40,060 ","$40,259 ",Jeep,Wrangler,2022,Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35, San Antonio, TX 78233",29.5474868,-98.3631077
-"$58,280 ","$54,880 ","$54,880 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy, Houston, TX 77079",29.78321,-95.5993955
-"$58,280 ","$54,880 ","$54,880 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy, Houston, TX 77079",29.78321,-95.5993955
-"$58,885 ","$55,485 ","$55,485 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy, Houston, TX 77079",29.78321,-95.5993955
-"$59,280 ","$55,880 ","$55,880 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy, Houston, TX 77079",29.78321,-95.5993955
-"$57,085 ","$57,085 ","$57,085 ",Jeep,Wrangler,2022,Automatic,2 miles,Northwest Chrysler Jeep Dodge,"19616 Northwest Fwy, Houston, TX 77065",29.9121305,-95.61210419999999
-"$58,975 ","$57,475 ","$57,475 ",Jeep,Wrangler,2022,Automatic,0 miles,Texan Chrysler Dodge Jeep Ram,"18555 Highway 59 North, Humble, TX 77338",29.986783,-95.2771782
-"$59,380 ","$57,880 ","$57,880 ",Jeep,Wrangler,2022,Automatic,0 miles,Texan Chrysler Dodge Jeep Ram,"18555 Highway 59 North, Humble, TX 77338",29.986783,-95.2771782
-"$59,475 ","$57,975 ","$57,975 ",Jeep,Wrangler,2022,Automatic,0 miles,Texan Chrysler Dodge Jeep Ram,"18555 Highway 59 North, Humble, TX 77338",29.986783,-95.2771782
-"$59,475 ","$57,975 ","$57,975 ",Jeep,Wrangler,2022,Automatic,0 miles,Texan Chrysler Dodge Jeep Ram,"18555 Highway 59 North, Humble, TX 77338",29.986783,-95.2771782
-Not Provided,"$58,230 ","$58,230 ",Jeep,Wrangler,2022,8-Speed Automatic,10 miles,Ron Carter Chrysler Jeep Dodge of League City,"3535 Gulf Freeway South, Dickinson, TX 77539",29.44930969999999,-95.07659079999999
-"$59,775 ","$58,275 ","$58,275 ",Jeep,Wrangler,2022,Automatic,0 miles,Texan Chrysler Dodge Jeep Ram,"18555 Highway 59 North, Humble, TX 77338",29.986783,-95.2771782
-Not Provided,"$58,380 ","$58,380 ",Jeep,Wrangler,2022,8-Speed Automatic,11 miles,Ron Carter Chrysler Jeep Dodge of League City,"3535 Gulf Freeway South, Dickinson, TX 77539",29.44930969999999,-95.07659079999999
-Not Provided,"$58,625 ","$58,625 ",Jeep,Wrangler,2022,8-Speed Automatic,10 miles,Ron Carter Chrysler Jeep Dodge of League City,"3535 Gulf Freeway South, Dickinson, TX 77539",29.44930969999999,-95.07659079999999
-"$60,385 ","$58,885 ","$58,885 ",Jeep,Wrangler,2022,Automatic,0 miles,Texan Chrysler Dodge Jeep Ram,"18555 Highway 59 North, Humble, TX 77338",29.986783,-95.2771782
-"$60,470 ","$58,970 ","$58,970 ",Jeep,Wrangler,2022,Automatic,0 miles,Texan Chrysler Dodge Jeep Ram,"18555 Highway 59 North, Humble, TX 77338",29.986783,-95.2771782
-"$58,580 ","$58,580 ","$59,026 ",Jeep,Wrangler,2022,8-Speed Automatic,25 miles,Premier CDJR of Lamesa,"1611 Lubbock Hwy, Lamesa, TX 79331",32.7478766,-101.9508105
-"$59,070 ","$59,070 ","$59,070 ",Jeep,Wrangler,2022,Automatic,1 miles,Big Star Chrysler Jeep Dodge RAM Fiat Clear Lake,"15711 Gulf Fwy, Webster, TX 77598",29.5833016,-95.1792983
-"$59,070 ","$59,070 ","$59,070 ",Jeep,Wrangler,2022,Automatic,1 miles,Big Star Chrysler Jeep Dodge RAM Fiat Clear Lake,"15711 Gulf Fwy, Webster, TX 77598",29.5833016,-95.1792983
-"$60,730 ","$59,230 ","$59,230 ",Jeep,Wrangler,2022,Automatic,0 miles,Texan Chrysler Dodge Jeep Ram,"18555 Highway 59 North, Humble, TX 77338",29.986783,-95.2771782
-"$59,350 ","$59,350 ","$59,350 ",Jeep,Wrangler,2022,8-Speed Automatic,---,Tomball Dodge Chrysler Jeep,"23777 Highway 249, Tomball, TX 77375",30.0273083,-95.60116049999999
-"$57,480 ","$59,480 ","$59,480 ",Jeep,Wrangler,2022,8-Speed Automatic,10 miles,Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy, Manvel, TX 77578",29.5382955,-95.38534059999999
-"$59,675 ","$59,675 ","$59,675 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,River Oaks Chrysler Jeep Dodge Ram,"4807 Kirby Drive, Houston, TX 77098",29.7288798,-95.4179281
-"$59,770 ","$59,770 ","$59,770 ",Jeep,Wrangler,2022,Automatic,2 miles,Northwest Chrysler Jeep Dodge,"19616 Northwest Fwy, Houston, TX 77065",29.9121305,-95.61210419999999
-"$59,870 ","$59,870 ","$59,870 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,River Oaks Chrysler Jeep Dodge Ram,"4807 Kirby Drive, Houston, TX 77098",29.7288798,-95.4179281
-"$60,070 ","$60,070 ","$60,070 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Bayway Chrysler Dodge Jeep Ram,"4000 Pasadena Fwy, Pasadena, TX 77503",29.7103761,-95.14833809999999
-"$60,070 ","$60,070 ","$60,070 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,River Oaks Chrysler Jeep Dodge Ram,"4807 Kirby Drive, Houston, TX 77098",29.7288798,-95.4179281
-"$60,070 ","$60,070 ","$60,070 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,River Oaks Chrysler Jeep Dodge Ram,"4807 Kirby Drive, Houston, TX 77098",29.7288798,-95.4179281
-"$60,070 ","$60,070 ","$60,070 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,River Oaks Chrysler Jeep Dodge Ram,"4807 Kirby Drive, Houston, TX 77098",29.7288798,-95.4179281
-"$60,070 ","$60,070 ","$60,070 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,River Oaks Chrysler Jeep Dodge Ram,"4807 Kirby Drive, Houston, TX 77098",29.7288798,-95.4179281
-"$60,070 ","$60,070 ","$60,070 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,River Oaks Chrysler Jeep Dodge Ram,"4807 Kirby Drive, Houston, TX 77098",29.7288798,-95.4179281
-"$60,070 ","$60,070 ","$60,070 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,River Oaks Chrysler Jeep Dodge Ram,"4807 Kirby Drive, Houston, TX 77098",29.7288798,-95.4179281
-"$60,080 ","$60,080 ","$60,080 ",Jeep,Wrangler,2022,Automatic,11 miles,Momentum Chrysler Dodge Jeep Ram,"3704 NE I 10 Frontage Rd, Sealy, TX 77474",29.7762388,-96.1274347
-"$60,250 ","$60,250 ","$60,250 ",Jeep,Wrangler,2022,8-Speed Automatic,10 miles,Bayway Chrysler Dodge Jeep Ram,"4000 Pasadena Fwy, Pasadena, TX 77503",29.7103761,-95.14833809999999
-"$58,280 ","$60,280 ","$60,280 ",Jeep,Wrangler,2022,8-Speed Automatic,5 miles,Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy, Manvel, TX 77578",29.5382955,-95.38534059999999
-"$58,280 ","$60,280 ","$60,280 ",Jeep,Wrangler,2022,8-Speed Automatic,10 miles,Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy, Manvel, TX 77578",29.5382955,-95.38534059999999
-"$58,280 ","$60,280 ","$60,280 ",Jeep,Wrangler,2022,8-Speed Automatic,10 miles,Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy, Manvel, TX 77578",29.5382955,-95.38534059999999
-"$58,280 ","$60,280 ","$60,280 ",Jeep,Wrangler,2022,8-Speed Automatic,5 miles,Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy, Manvel, TX 77578",29.5382955,-95.38534059999999
-"$58,280 ","$60,280 ","$60,280 ",Jeep,Wrangler,2022,8-Speed Automatic,5 miles,Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy, Manvel, TX 77578",29.5382955,-95.38534059999999
-"$61,855 ","$60,355 ","$60,355 ",Jeep,Wrangler,2022,Automatic,0 miles,Texan Chrysler Dodge Jeep Ram,"18555 Highway 59 North, Humble, TX 77338",29.986783,-95.2771782
-"$60,645 ","$60,645 ","$60,645 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,River Oaks Chrysler Jeep Dodge Ram,"4807 Kirby Drive, Houston, TX 77098",29.7288798,-95.4179281
-"$60,645 ","$60,645 ","$60,645 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,River Oaks Chrysler Jeep Dodge Ram,"4807 Kirby Drive, Houston, TX 77098",29.7288798,-95.4179281
-"$60,730 ","$60,730 ","$60,730 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,River Oaks Chrysler Jeep Dodge Ram,"4807 Kirby Drive, Houston, TX 77098",29.7288798,-95.4179281
-"$60,770 ","$60,770 ","$60,770 ",Jeep,Wrangler,2022,Automatic,1 miles,Big Star Chrysler Jeep Dodge RAM Fiat Clear Lake,"15711 Gulf Fwy, Webster, TX 77598",29.5833016,-95.1792983
-"$60,940 ","$60,940 ","$60,940 ",Jeep,Wrangler,2022,Automatic,0 miles,Gillman Jeep,"10575 W Sam Houston Pkwy S, Houston, TX 77099",29.6666254,-95.55856949999999
-"$61,860 ","$61,860 ","$61,860 ",Jeep,Wrangler,2022,8-Speed Automatic,---,Tomball Dodge Chrysler Jeep,"23777 Highway 249, Tomball, TX 77375",30.0273083,-95.60116049999999
-"$59,965 ","$61,965 ","$61,965 ",Jeep,Wrangler,2022,8-Speed Automatic,5 miles,Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy, Manvel, TX 77578",29.5382955,-95.38534059999999
-"$59,965 ","$61,965 ","$61,965 ",Jeep,Wrangler,2022,8-Speed Automatic,10 miles,Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy, Manvel, TX 77578",29.5382955,-95.38534059999999
-"$65,725 ","$62,325 ","$62,325 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy, Houston, TX 77079",29.78321,-95.5993955
-"$61,935 ","$61,935 ","$62,381 ",Jeep,Wrangler,2022,8-Speed Automatic,15 miles,Premier CDJR of Lamesa,"1611 Lubbock Hwy, Lamesa, TX 79331",32.7478766,-101.9508105
-"$57,480 ","$62,480 ","$62,480 ",Jeep,Wrangler,2022,8-Speed Automatic,5 miles,Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy, Manvel, TX 77578",29.5382955,-95.38534059999999
-"$62,860 ","$62,860 ","$62,860 ",Jeep,Wrangler,2022,8-Speed Automatic,---,Tomball Dodge Chrysler Jeep,"23777 Highway 249, Tomball, TX 77375",30.0273083,-95.60116049999999
-"$61,075 ","$63,075 ","$63,075 ",Jeep,Wrangler,2022,8-Speed Automatic,10 miles,Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy, Manvel, TX 77578",29.5382955,-95.38534059999999
-"$63,075 ","$63,075 ","$63,075 ",Jeep,Wrangler,2022,8-Speed Automatic,---,Yaklin Chrysler Dodge Jeep Ram of Angleton,"1212 S Velasco St, Angleton, TX 77515",29.1479516,-95.4307369
-"$63,170 ","$63,170 ","$63,170 ",Jeep,Wrangler,2022,Automatic,0 miles,Gillman Jeep,"10575 W Sam Houston Pkwy S, Houston, TX 77099",29.6666254,-95.55856949999999
-"$61,925 ","$63,925 ","$63,925 ",Jeep,Wrangler,2022,8-Speed Automatic,5 miles,Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy, Manvel, TX 77578",29.5382955,-95.38534059999999
-"$62,550 ","$64,550 ","$64,550 ",Jeep,Wrangler,2022,8-Speed Automatic,5 miles,Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy, Manvel, TX 77578",29.5382955,-95.38534059999999
-"$60,425 ","$64,900 ","$64,900 ",Jeep,Wrangler,2022,Automatic,4 miles,Crossroads Dodge Chrysler Jeep Ram,"320 Highway 146 Byp, Liberty, TX 77575",30.0588201,-94.77025069999999
-"$61,165 ","$65,888 ","$65,888 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,Helfman Dodge Chrysler Jeep Ram,"7720 Katy Freeway, Houston, TX 77024",29.7856569,-95.46958959999999
-"$66,560 ","$66,560 ","$66,560 ",Jeep,Wrangler,2022,8-Speed Automatic,---,Tomball Dodge Chrysler Jeep,"23777 Highway 249, Tomball, TX 77375",30.0273083,-95.60116049999999
-"$67,105 ","$67,105 ","$67,105 ",Jeep,Wrangler,2022,Automatic,2 miles,Northwest Chrysler Jeep Dodge,"19616 Northwest Fwy, Houston, TX 77065",29.9121305,-95.61210419999999
-"$67,560 ","$67,560 ","$67,560 ",Jeep,Wrangler,2022,8-Speed Automatic,---,Tomball Dodge Chrysler Jeep,"23777 Highway 249, Tomball, TX 77375",30.0273083,-95.60116049999999
-"$67,935 ","$67,935 ","$68,381 ",Jeep,Wrangler,2022,8-Speed Automatic,15 miles,Premier CDJR of Lamesa,"1611 Lubbock Hwy, Lamesa, TX 79331",32.7478766,-101.9508105
-"$68,885 ","$68,885 ","$68,885 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,River Oaks Chrysler Jeep Dodge Ram,"4807 Kirby Drive, Houston, TX 77098",29.7288798,-95.4179281
-"$64,480 ","$69,888 ","$69,888 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,Helfman Dodge Chrysler Jeep Ram,"7720 Katy Freeway, Houston, TX 77024",29.7856569,-95.46958959999999
-"$70,030 ","$70,030 ","$70,030 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,River Oaks Chrysler Jeep Dodge Ram,"4807 Kirby Drive, Houston, TX 77098",29.7288798,-95.4179281
-"$71,195 ","$71,195 ","$71,195 ",Jeep,Wrangler,2022,Automatic,2 miles,Northwest Chrysler Jeep Dodge,"19616 Northwest Fwy, Houston, TX 77065",29.9121305,-95.61210419999999
-"$70,935 ","$72,935 ","$72,935 ",Jeep,Wrangler,2022,8-Speed Automatic,5 miles,Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy, Manvel, TX 77578",29.5382955,-95.38534059999999
-"$70,970 ","$74,888 ","$74,888 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,Helfman Dodge Chrysler Jeep Ram,"7720 Katy Freeway, Houston, TX 77024",29.7856569,-95.46958959999999
-"$70,055 ","$75,888 ","$75,888 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,Helfman Dodge Chrysler Jeep Ram,"7720 Katy Freeway, Houston, TX 77024",29.7856569,-95.46958959999999
-"$73,055 ","$77,888 ","$77,888 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,Helfman Dodge Chrysler Jeep Ram,"7720 Katy Freeway, Houston, TX 77024",29.7856569,-95.46958959999999
-"$38,878 ","$38,878 ","$38,878 ",Toyota,Tundra,2022,Automatic,5 miles,Fred Haas Toyota World,"20400 Interstate 45, Spring, TX 77373",30.0605658,-95.4310959
-"$38,878 ","$38,878 ","$38,878 ",Toyota,Tundra,2022,Automatic,5 miles,Fred Haas Toyota World,"20400 Interstate 45, Spring, TX 77373",30.0605658,-95.4310959
-"$42,220 ","$42,220 ","$42,220 ",Toyota,Tundra,2022,Automatic,---,Toyota of Katy,"21555 Katy Freeway, Katy, TX 77450",29.7835556,-95.74204789999999
-"$45,101 ","$45,101 ","$45,101 ",Toyota,Tundra,2022,Automatic,---,Mike Calvert Toyota,"2333 South Loop West, Houston, TX 77054",29.6761391,-95.4140206
-"$46,719 ","$46,719 ","$46,719 ",Toyota,Tundra,2022,Automatic,7 miles,Fred Haas Toyota Country,"22435 State Highway 249, Houston, TX 77070",30.0067283,-95.5887247
-"$47,381 ","$47,381 ","$47,381 ",Toyota,Tundra,2022,Automatic,5 miles,Fred Haas Toyota World,"20400 Interstate 45, Spring, TX 77373",30.0605658,-95.4310959
-"$47,976 ","$47,976 ","$47,976 ",Toyota,Tundra,2022,Automatic,5 miles,Fred Haas Toyota World,"20400 Interstate 45, Spring, TX 77373",30.0605658,-95.4310959
-"$48,905 ","$48,905 ","$48,905 ",Toyota,Tundra,2022,Automatic,---,Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.46864769999999
-"$48,906 ","$50,401 ","$50,401 ",Toyota,Tundra,2022,Automatic,5 miles,Sterling McCall Toyota Fort Bend,"20465 Southwest Freeway, Richmond, TX 77469",29.5586332,-95.69469780000001
-"$48,957 ","$48,957 ","$48,957 ",Toyota,Tundra,2022,Automatic,---,Toyota of Katy,"21555 Katy Freeway, Katy, TX 77450",29.7835556,-95.74204789999999
-"$48,984 ","$48,984 ","$48,984 ",Toyota,Tundra,2022,Automatic,5 miles,Fred Haas Toyota World,"20400 Interstate 45, Spring, TX 77373",30.0605658,-95.4310959
-"$49,036 ","$49,036 ","$49,036 ",Toyota,Tundra,2022,Automatic,5 miles,Fred Haas Toyota World,"20400 Interstate 45, Spring, TX 77373",30.0605658,-95.4310959
-"$48,957 ","$48,957 ","$49,194 ",Toyota,Tundra,2022,Automatic,1 miles,Family Toyota of Arlington,"1661 Wet N Wild Way, Arlington, TX 76011",32.7612421,-97.08589909999999
-"$49,409 ","$49,409 ","$49,409 ",Toyota,Tundra,2022,Automatic,5 miles,Fred Haas Toyota World,"20400 Interstate 45, Spring, TX 77373",30.0605658,-95.4310959
-"$51,566 ","$53,061 ","$53,061 ",Toyota,Tundra,2022,Automatic,5 miles,Sterling McCall Toyota Fort Bend,"20465 Southwest Freeway, Richmond, TX 77469",29.5586332,-95.69469780000001
-"$51,910 ","$51,910 ","$51,910 ",Toyota,Tundra,2022,Automatic,---,Toyota of Katy,"21555 Katy Freeway, Katy, TX 77450",29.7835556,-95.74204789999999
-"$50,451 ","$51,946 ","$51,946 ",Toyota,Tundra,2022,,5 miles,Sterling Mccall Toyota,"9400 Southwest Freeway, Houston, TX 77074",29.6787228,-95.5395719
-"$52,044 ","$52,044 ","$52,044 ",Toyota,Tundra,2022,Automatic,5 miles,Fred Haas Toyota World,"20400 Interstate 45, Spring, TX 77373",30.0605658,-95.4310959
-"$52,044 ","$52,044 ","$52,044 ",Toyota,Tundra,2022,Automatic,19 miles,Fred Haas Toyota World,"20400 Interstate 45, Spring, TX 77373",30.0605658,-95.4310959
-"$52,471 ","$52,471 ","$52,471 ",Toyota,Tundra,2022,Automatic,5 miles,Fred Haas Toyota World,"20400 Interstate 45, Spring, TX 77373",30.0605658,-95.4310959
-"$55,733 ","$55,733 ","$55,733 ",Toyota,Tundra,2022,Automatic,---,Don McGill Toyota of Houston,"11800 Katy Freeway, Houston, TX 77079",29.78710439999999,-95.59471649999999
-"$56,014 ","$56,014 ","$56,014 ",Toyota,Tundra,2022,Automatic,---,Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.46864769999999
-"$56,114 ","$56,114 ","$56,114 ",Toyota,Tundra,2022,Automatic,---,Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.46864769999999
-"$56,114 ","$56,114 ","$56,114 ",Toyota,Tundra,2022,Automatic,---,Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.46864769999999
-"$57,556 ","$57,556 ","$57,556 ",Toyota,Tundra,2022,Automatic,7 miles,Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.46864769999999
-"$65,378 ","$65,378 ","$65,378 ",Toyota,Tundra,2022,Automatic,---,Toyota of Katy,"21555 Katy Freeway, Katy, TX 77450",29.7835556,-95.74204789999999
-"$58,970 ","$58,970 ","$58,970 ",Toyota,Tundra,2022,Automatic,---,Don McGill Toyota of Houston,"11800 Katy Freeway, Houston, TX 77079",29.78710439999999,-95.59471649999999
-"$58,640 ","$58,640 ","$59,075 ",Toyota,Tundra,2022,Automatic,0 miles,Toyota of Laredo,"6324 Bob Bullock Loop, Laredo, TX 78041",27.5561385,-99.4501652
-"$59,218 ","$60,713 ","$60,713 ",Toyota,Tundra,2022,Automatic,5 miles,Sterling McCall Toyota Fort Bend,"20465 Southwest Freeway, Richmond, TX 77469",29.5586332,-95.69469780000001
-"$59,233 ","$59,233 ","$59,233 ",Toyota,Tundra,2022,Automatic,---,Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.46864769999999
-"$60,242 ","$60,242 ","$60,242 ",Toyota,Tundra,2022,Automatic,---,Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.46864769999999
-"$59,949 ","$59,949 ","$60,384 ",Toyota,Tundra,2022,Automatic,5 miles,"Powell Watson Motors, Inc.","6301 Arena Blvd, Laredo, TX 78041",27.5570758,-99.4491939
-"$62,052 ","$62,052 ","$62,052 ",Toyota,Tundra,2022,Automatic,"4,359 miles",Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.46864769999999
-"$62,325 ","$62,325 ","$62,325 ",Toyota,Tundra,2022,Automatic,---,Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.46864769999999
-"$66,645 ","$66,645 ","$66,645 ",Toyota,Tundra,2022,Automatic,---,Don McGill Toyota of Houston,"11800 Katy Freeway, Houston, TX 77079",29.78710439999999,-95.59471649999999
-"$67,771 ","$67,771 ","$67,771 ",Toyota,Tundra,2022,Automatic,---,Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.46864769999999
-"$68,600 ","$68,600 ","$68,600 ",Toyota,Tundra,2022,Automatic,5 miles,Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.46864769999999
-"$67,253 ","$68,748 ","$68,748 ",Toyota,Tundra,2022,Automatic,10 miles,Sterling McCall Toyota Fort Bend,"20465 Southwest Freeway, Richmond, TX 77469",29.5586332,-95.69469780000001
-"$78,001 ","$78,001 ","$78,001 ",Toyota,Tundra,2022,Automatic,6 miles,Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.46864769999999
-"$78,426 ","$78,426 ","$78,426 ",Toyota,Tundra,2022,Automatic,---,Mike Calvert Toyota,"2333 South Loop West, Houston, TX 77054",29.6761391,-95.4140206
-Not Provided,"$78,990 ","$78,990 ",Toyota,Tundra,2022,Automatic,248 miles,Mike Calvert Toyota,"2333 South Loop West, Houston, TX 77054",29.6761391,-95.4140206
+vin,msrp,dealer's price,price,make,model,year,transmission,mileage,dealer name,dealer address,lat,lng
+1C4JJXR61NW152861,"$67,935 ","$67,935 ","$68,218 ",Jeep,Wrangler,2022,8-Speed Automatic,15 miles,Premier CDJR of Lamesa,"1611 Lubbock Hwy Lamesa, TX 79331",32.7478766,-101.9508105
+1C4JJXR64NW108322,"$69,920 ","$69,920 ","$69,920 ",Jeep,Wrangler,2022,8-Speed Automatic,---,Shottenkirk Prosper Chrysler Dodge Jeep Ram,"2550 W University Dr Prosper, TX 75078",33.2203892,-96.841397
+1C4JJXR6XNW108101,"$68,700 ","$68,700 ","$68,700 ",Jeep,Wrangler,2022,8-Speed Automatic,3 miles,Pegasus CDJR,"305 South Interstate Highway 45 Ennis, TX 75119",32.3312863,-96.6154653
+1C4JJXR62NW270773,"$70,475 ","$70,475 ","$70,475 ",Jeep,Wrangler,2022,8-Speed Automatic,---,Classic Chrysler Dodge Jeep Ram Fiat,"1111 E Interstate 20 Arlington, TX 76018",32.6790785,-97.1147754
+1C4JJXR61NW274197,"$70,870 ","$70,870 ","$70,870 ",Jeep,Wrangler,2022,8-Speed Automatic,---,Classic Chrysler Dodge Jeep Ram Fiat,"1111 E Interstate 20 Arlington, TX 76018",32.6790785,-97.1147754
+5TFLA5AB9NX008331,"$47,511 ","$47,511 ","$47,511 ",Toyota,Tundra,2022,Automatic,5 miles,Pat Lobb Toyota of McKinney,"3350 S Central Expy Mckinney, TX 75070",33.1675378,-96.643936
+5TFLA5BC2NX001986,"$47,892 ","$47,892 ","$47,892 ",Toyota,Tundra,2022,Automatic,6 miles,Shottenkirk Toyota Weatherford,"3131 Fort Worth Hwy Weatherford, TX 76087",32.7582312,-97.7007613
+5TFLA5AB3NX111468,"$48,957 ","$48,957 ","$48,957 ",Toyota,Tundra,2022,Automatic,1 miles,Family Toyota of Arlington,"1661 Wet N Wild Way Arlington, TX 76011",32.7612421,-97.0858991
+5TFLA5AB3NX012214,"$48,957 ","$50,073 ","$50,073 ",Toyota,Tundra,2022,Automatic,0 miles,Texas Toyota of Grapevine,"701 E State Highway 114 Grapevine, TX 76092",32.9528879,-97.1366186
+5TFLA5AB3NX012830,"$48,957 ","$50,073 ","$50,073 ",Toyota,Tundra,2022,Automatic,0 miles,Texas Toyota of Grapevine,"701 E State Highway 114 Grapevine, TX 76092",32.9528879,-97.1366186
+5TFLA5EC0NX007782,"$50,312 ","$50,312 ","$50,312 ",Toyota,Tundra,2022,Automatic,13 miles,Sport City Toyota,"12650 Lyndon B Johnson Fwy Dallas, TX 75228",32.8624234,-96.6618909
+5TFLA5AB3NX009930,"$51,376 ","$51,376 ","$51,376 ",Toyota,Tundra,2022,Automatic,5 miles,Pat Lobb Toyota of McKinney,"3350 S Central Expy Mckinney, TX 75070",33.1675378,-96.643936
+5TFLA5DB4NX040258,"$51,957 ","$51,957 ","$51,957 ",Toyota,Tundra,2022,Automatic,6 miles,Shottenkirk Toyota Granbury,"5100 East US Hwy 377 Granbury, TX 76049",32.4699904,-97.7046741
+5TFLA5DB0NX039494,"$51,957 ","$51,957 ","$51,957 ",Toyota,Tundra,2022,Automatic,6 miles,Shottenkirk Toyota Weatherford,"3131 Fort Worth Hwy Weatherford, TX 76087",32.7582312,-97.7007613
+5TFLA5DB7NX039427,"$51,957 ","$51,957 ","$51,957 ",Toyota,Tundra,2022,Automatic,6 miles,Shottenkirk Toyota Weatherford,"3131 Fort Worth Hwy Weatherford, TX 76087",32.7582312,-97.7007613
+5TFLA5AB5NX012196,"$51,965 ","$51,965 ","$51,965 ",Toyota,Tundra,2022,Automatic,6 miles,Shottenkirk Toyota Granbury,"5100 East US Hwy 377 Granbury, TX 76049",32.4699904,-97.7046741
+5TFLA5DB7NX035412,"$51,957 ","$53,073 ","$53,073 ",Toyota,Tundra,2022,Automatic,0 miles,Texas Toyota of Grapevine,"701 E State Highway 114 Grapevine, TX 76092",32.9528879,-97.1366186
+5TFLA5DB6NX038463,"$55,731 ","$56,847 ","$56,847 ",Toyota,Tundra,2022,Automatic,0 miles,Texas Toyota of Grapevine,"701 E State Highway 114 Grapevine, TX 76092",32.9528879,-97.1366186
+5TFJA5DB2NX039049,"$57,936 ","$57,936 ","$57,936 ",Toyota,Tundra,2022,Automatic,6 miles,Shottenkirk Toyota Granbury,"5100 East US Hwy 377 Granbury, TX 76049",32.4699904,-97.7046741
+5TFJA5DB9NX038318,"$60,281 ","$60,281 ","$60,281 ",Toyota,Tundra,2022,Automatic,6 miles,Shottenkirk Toyota Granbury,"5100 East US Hwy 377 Granbury, TX 76049",32.4699904,-97.7046741
+5TFJA5DB6NX040415,"$61,248 ","$61,248 ","$61,248 ",Toyota,Tundra,2022,Automatic,6 miles,Shottenkirk Toyota Weatherford,"3131 Fort Worth Hwy Weatherford, TX 76087",32.7582312,-97.7007613
+5TFMA5AB2NX011222,"$61,729 ","$62,845 ","$62,845 ",Toyota,Tundra,2022,Automatic,0 miles,Texas Toyota of Grapevine,"701 E State Highway 114 Grapevine, TX 76092",32.9528879,-97.1366186
+5TFMA5EC8NX21A301,"$64,165 ","$65,281 ","$65,281 ",Toyota,Tundra,2022,Automatic,0 miles,Texas Toyota of Grapevine,"701 E State Highway 114 Grapevine, TX 76092",32.9528879,-97.1366186
+5TFMA5EC4NX007336,"$66,042 ","$66,042 ","$66,042 ",Toyota,Tundra,2022,Automatic,6 miles,Shottenkirk Toyota Weatherford,"3131 Fort Worth Hwy Weatherford, TX 76087",32.7582312,-97.7007613
+5TFMA5DB0NX039001,"$67,227 ","$68,343 ","$68,343 ",Toyota,Tundra,2022,Automatic,0 miles,Texas Toyota of Grapevine,"701 E State Highway 114 Grapevine, TX 76092",32.9528879,-97.1366186
+5TFMA5DB1NX040884,"$67,652 ","$68,768 ","$68,768 ",Toyota,Tundra,2022,Automatic,0 miles,Texas Toyota of Grapevine,"701 E State Highway 114 Grapevine, TX 76092",32.9528879,-97.1366186
+5TFVC5DB1NX003705,"$77,922 ","$77,922 ","$77,922 ",Toyota,Tundra,2022,Automatic,6 miles,Shottenkirk Toyota Weatherford,"3131 Fort Worth Hwy Weatherford, TX 76087",32.7582312,-97.7007613
+5TFVC5DB7NX003594,"$78,347 ","$78,347 ","$78,347 ",Toyota,Tundra,2022,Automatic,5 miles,Lone Star Toyota of Lewisville,"1547 S. Stemmons Frwy. Lewisville, TX 75067",33.0215012,-96.9871311
+1FMEE5DP8NLB35076,Not Provided,"$32,020 ","$32,225 ",Ford,Bronco,2022,Automatic,0 miles,DeMontrond Ford,"3944 US 59 S Cleveland, TX 77328",30.2823488,-95.1302179
+1FMDE5BH9NLB12171,Not Provided,"$40,470 ","$40,675 ",Ford,Bronco,2022,,0 miles,DeMontrond Ford,"3944 US 59 S Cleveland, TX 77328",30.2823488,-95.1302179
+1FMDE5BH9NLB13062,Not Provided,"$42,015 ","$42,220 ",Ford,Bronco,2022,,0 miles,DeMontrond Ford,"3944 US 59 S Cleveland, TX 77328",30.2823488,-95.1302179
+1FMDE5CP1NLB31612,Not Provided,"$44,495 ","$44,700 ",Ford,Bronco,2022,Automatic,0 miles,DeMontrond Ford,"3944 US 59 S Cleveland, TX 77328",30.2823488,-95.1302179
+1FMDE5BH2NLB33377,"$46,520 ","$46,520 ","$46,520 ",Ford,Bronco,2022,,10 miles,Griffith Ford San Marcos,"2661 N Interstate 35 San Marcos, TX 78666",29.9003779,-97.9061361
+1FMDE5BH4NLA82318,"$52,955 ","$62,955 ","$63,162 ",Ford,Bronco,2022,Automatic,10 miles,"J.O. Williams Motors, Inc.","419 E Broadway Ave. Gladewater, TX 75647",32.5356344,-94.9403472
+1FMEE5DP6NLB31740,"$54,270 ","$54,270 ","$54,270 ",Ford,Bronco,2022,,10 miles,Griffith Ford San Marcos,"2661 N Interstate 35 San Marcos, TX 78666",29.9003779,-97.9061361
+1FMEE5DP4NLB25337,"$54,920 ","$54,920 ","$54,920 ",Ford,Bronco,2022,,10 miles,Griffith Ford San Marcos,"2661 N Interstate 35 San Marcos, TX 78666",29.9003779,-97.9061361
+1FMEE5DP3NLB09887,"$55,725 ","$55,725 ","$55,725 ",Ford,Bronco,2022,,10 miles,Griffith Ford San Marcos,"2661 N Interstate 35 San Marcos, TX 78666",29.9003779,-97.9061361
+1FMEE5DP4NLB30943,Not Provided,"$56,590 ","$56,795 ",Ford,Bronco,2022,Automatic,3 miles,DeMontrond Ford,"3944 US 59 S Cleveland, TX 77328",30.2823488,-95.1302179
+1FMEE5DP0NLA73236,"$57,235 ","$57,235 ","$57,235 ",Ford,Bronco,2022,Automatic,0 miles,Chaparral Ford Inc.,"102 County Road 773 Devine, TX 78016",29.1484967,-98.8758245
+1FMDE5BH2NLA83712,Not Provided,"$57,590 ","$57,590 ",Ford,Bronco,2022,Automatic,269 miles,Carvana,"102 County Road 773 Devine, TX 78016",29.1484967,-98.8758245
+1FMEE5DP1NLB31435,"$63,245 ","$63,245 ","$63,245 ",Ford,Bronco,2022,,10 miles,Griffith Ford San Marcos,"2661 N Interstate 35 San Marcos, TX 78666",29.9003779,-97.9061361
+1FMEE5DP3NLB32912,"$64,185 ","$64,185 ","$64,185 ",Ford,Bronco,2022,,10 miles,Griffith Ford San Marcos,"2661 N Interstate 35 San Marcos, TX 78666",29.9003779,-97.9061361
+1FMEE5DP0NLA79277,Not Provided,"$68,990 ","$68,990 ",Ford,Bronco,2022,Automatic,58 miles,Carvana,"2661 N Interstate 35 San Marcos, TX 78666",29.9003779,-97.9061361
+3FTTW8F98NRA45047,Not Provided,"$41,990 ","$41,990 ",Ford,Maverick,2022,8-Speed Automatic,193 miles,Carvana,"31480 IH 10 west Boerne, TX 78006",29.7552302,-98.7024799
+3FTTW8F99NRA41511,Not Provided,"$42,990 ","$42,990 ",Ford,Maverick,2022,8-Speed Automatic,229 miles,Carvana,"31480 IH 10 west Boerne, TX 78006",29.7552302,-98.7024799
+3FTTW8F98NRA53665,Not Provided,"$43,590 ","$43,590 ",Ford,Maverick,2022,8-Speed Automatic,58 miles,Carvana,"31480 IH 10 west Boerne, TX 78006",29.7552302,-98.7024799
+1GT40FDA3NU100794,"$112,839 ","$112,839 ","$112,839 ",General Motors,Hummer,2022,Automatic,13 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D Houston, TX 77074",29.6681773,-95.5518088
+1GT40FDA6NU100305,"$114,590 ","$114,590 ","$114,590 ",General Motors,Hummer,2022,Automatic,11 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D Houston, TX 77074",29.6681773,-95.5518088
+1GT40FDAXNU100517,"$115,139 ","$115,139 ","$115,139 ",General Motors,Hummer,2022,1-Speed Automatic,0 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D Houston, TX 77074",29.6681773,-95.5518088
+1GT40FDA3NU100729,Not Provided,"$115,139 ","$115,139 ",General Motors,Hummer,2022,1-Speed Automatic,3 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D Houston, TX 77074",29.6681773,-95.5518088
+1GT40FDA1NU100552,"$115,139 ","$115,139 ","$115,139 ",General Motors,Hummer,2022,Automatic,11 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D Houston, TX 77074",29.6681773,-95.5518088
+1GT40FDA4NU100674,"$115,139 ","$115,139 ","$115,139 ",General Motors,Hummer,2022,Automatic,11 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D Houston, TX 77074",29.6681773,-95.5518088
+1GT40FDA4NU100688,"$115,139 ","$115,139 ","$115,139 ",General Motors,Hummer,2022,Automatic,13 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D Houston, TX 77074",29.6681773,-95.5518088
+1GT40FDA3NU100407,"$115,439 ","$115,439 ","$115,439 ",General Motors,Hummer,2022,Automatic,5 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D Houston, TX 77074",29.6681773,-95.5518088
+3GNKBERS8NS195163,"$46,015 ","$46,015 ","$46,015 ",General Motors,Blazer,2022,Automatic,5 miles,Cavender Chevrolet,"30700 Interstate 10 - West Boerne, TX 78006",29.7476019,-98.6952709
+3GNKBCR47NS203520,"$37,855 ","$37,855 ","$37,855 ",General Motors,Blazer,2022,Automatic,5 miles,Cavender Chevrolet,"30700 Interstate 10 - West Boerne, TX 78006",29.7476019,-98.6952709
+3GNKBERSXNS195987,"$46,370 ","$46,370 ","$46,370 ",General Motors,Blazer,2022,Automatic,10 miles,Cavender Chevrolet,"30700 Interstate 10 - West Boerne, TX 78006",29.7476019,-98.6952709
+3GNKBCR40NS202323,"$35,350 ","$34,100 ","$34,100 ",General Motors,Blazer,2022,Automatic,0 miles,Neessen Chevrolet Buick GMC Truck,"2007 S US Highway 77 Byp Kingsville, TX 78363",27.4978243,-97.8446006
+3GNKBCR43NS200923,"$37,950 ","$36,961 ","$37,281 ",General Motors,Blazer,2022,9-Speed Automatic Overdrive,2 miles,Freestone Autoplex,"1201 Hwy 84 West Fairfield, TX 75840",31.708962,-96.1792575
+3GNKBCR47NS203520,"$37,855 ","$37,855 ","$37,855 ",General Motors,Blazer,2022,Automatic,5 miles,Cavender Chevrolet,"30700 Interstate 10 - West Boerne, TX 78006",29.7476019,-98.6952709
+3GNKBFRS5NS189150,"$43,040 ","$42,141 ","$42,386 ",General Motors,Blazer,2022,Automatic,2 miles,Westside Chevrolet,"23001 Katy Fwy Katy, TX 77450",29.7836894,-95.7689096
+3GNKBERS4NS145909,"$44,980 ","$43,442 ","$43,706 ",General Motors,Blazer,2022,9-Speed Automatic Overdrive,2 miles,Classic Chevrolet of Houston,"7000 Southwest Fwy Houston, TX 77074",29.7102127,-95.5097388
+3GNKBJRS1NS124962,Not Provided,"$44,990 ","$44,990 ",General Motors,Blazer,2022,9-Speed Automatic Overdrive,271 miles,Carvana,"7000 Southwest Fwy Houston, TX 77074",29.7102127,-95.5097388
+3GNKBERS2NS200339,"$46,885 ","$46,885 ","$46,885 ",General Motors,Blazer,2022,9-Speed Automatic Overdrive,5 miles,Four Stars Auto Ranch Chevrolet Buick,"262 US HWY 287 S Henrietta, TX 76365",33.7977697,-98.1944308
+3GNKBERS8NS195163,"$46,015 ","$46,015 ","$46,015 ",General Motors,Blazer,2022,Automatic,5 miles,Cavender Chevrolet,"30700 Interstate 10 - West Boerne, TX 78006",29.7476019,-98.6952709
+3GNKBERSXNS195987,"$46,370 ","$46,370 ","$46,370 ",General Motors,Blazer,2022,Automatic,10 miles,Cavender Chevrolet,"30700 Interstate 10 - West Boerne, TX 78006",29.7476019,-98.6952709
+3GNKBERS2NS203029,"$47,670 ","$47,670 ","$47,670 ",General Motors,Blazer,2022,9-Speed Automatic Overdrive,2 miles,El Dorado Chevrolet,"2300 North Central Expressway Mckinney, TX 75070",33.2265094,-96.6314957
+3GNKBERS8NS196409,"$45,975 ","$46,725 ","$46,725 ",General Motors,Blazer,2022,Automatic,10 miles,"Gunn Chevrolet, Ltd.","16550 Interstate 35 N Selma, TX 78154",29.5897305,-98.2974632
+3GNKBERS7NS196885,"$46,525 ","$47,275 ","$47,275 ",General Motors,Blazer,2022,Automatic,10 miles,"Gunn Chevrolet, Ltd.","16550 Interstate 35 N Selma, TX 78154",29.5897305,-98.2974632
+3GNKBERS2NS196860,"$47,520 ","$47,850 ","$47,850 ",General Motors,Blazer,2022,Automatic,10 miles,"Gunn Chevrolet, Ltd.","16550 Interstate 35 N Selma, TX 78154",29.5897305,-98.2974632
+1C4GJXAN0NW257291,"$37,275 ","$34,175 ","$34,175 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
+1C4HJXAG9NW180572,"$38,560 ","$38,560 ","$38,560 ",Jeep,Wrangler,2022,8-Speed Automatic,11 miles,San Marcos Chrysler Dodge,"2990 I-35 S San Marcos, TX 78666",29.8413264,-97.9724411
+1C4HJXAG3NW194869,"$38,660 ","$38,660 ","$38,968 ",Jeep,Wrangler,2022,8-Speed Automatic,15 miles,Premier CDJR of Lamesa,"1611 Lubbock Hwy Lamesa, TX 79331",32.7478766,-101.9508105
+1C4HJXAG9NW272555,"$39,370 ","$39,370 ","$39,370 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,San Marcos Chrysler Dodge,"2990 I-35 S San Marcos, TX 78666",29.8413264,-97.9724411
+1C4GJXAG4MW759639,Not Provided,"$39,590 ","$39,590 ",Jeep,Wrangler,2022,6-Speed Manual,273 miles,Carvana,"2990 I-35 S San Marcos, TX 78666",29.8413264,-97.9724411
+1C4HJXAG7NW262882,"$39,575 ","$39,575 ","$39,719 ",Jeep,Wrangler,2022,Automatic,0 miles,Neessen Chrysler Dodge Jeep Ram,"2151 N US Highway 77 Byp Kingsville, TX 78363",27.5371885,-97.835223
+1C4GJXAN4NW175564,"$41,330 ","$40,561 ","$40,561 ",Jeep,Wrangler,2022,8-Speed Automatic,11 miles,Nyle Maxwell CDJR of Castroville,"1950 US Highway 90 E Castroville, TX 78009",29.3545562,-98.8454975
+1C4GJXANXNW175567,"$41,330 ","$40,716 ","$40,716 ",Jeep,Wrangler,2022,8-Speed Automatic,29 miles,Nyle Maxwell CDJR of Castroville,"1950 US Highway 90 E Castroville, TX 78009",29.3545562,-98.8454975
+1C4GJXANXNW223827,"$39,910 ","$40,910 ","$41,230 ",Jeep,Wrangler,2022,8-Speed Automatic,2 miles,Freestone Autoplex,"1201 Hwy 84 West Fairfield, TX 75840",31.708962,-96.1792575
+1C4GJXAN8NW223826,"$40,305 ","$41,305 ","$41,625 ",Jeep,Wrangler,2022,8-Speed Automatic,2 miles,Freestone Autoplex,"1201 Hwy 84 West Fairfield, TX 75840",31.708962,-96.1792575
+1C4GJXAN1NW223828,"$40,305 ","$41,305 ","$41,625 ",Jeep,Wrangler,2022,8-Speed Automatic,2 miles,Freestone Autoplex,"1201 Hwy 84 West Fairfield, TX 75840",31.708962,-96.1792575
+1C4HJXAG1NW242112,"$43,250 ","$43,250 ","$43,250 ",Jeep,Wrangler,2022,Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
+1C4GJXANXNW223830,"$43,160 ","$44,160 ","$44,480 ",Jeep,Wrangler,2022,8-Speed Automatic,2 miles,Freestone Autoplex,"1201 Hwy 84 West Fairfield, TX 75840",31.708962,-96.1792575
+1C4GJXAG1NW223829,"$43,265 ","$44,265 ","$44,585 ",Jeep,Wrangler,2022,8-Speed Automatic,2 miles,Freestone Autoplex,"1201 Hwy 84 West Fairfield, TX 75840",31.708962,-96.1792575
+1C4HJXCG2NW201906,"$45,945 ","$45,945 ","$46,344 ",Jeep,Wrangler,2022,Manual,6 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
+1C4HJXCN0NW196137,"$50,535 ","$50,535 ","$50,934 ",Jeep,Wrangler,2022,Automatic,0 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
+1C4HJXCG4NW180850,"$50,990 ","$50,990 ","$51,298 ",Jeep,Wrangler,2022,8-Speed Automatic,15 miles,Premier CDJR of Lamesa,"1611 Lubbock Hwy Lamesa, TX 79331",32.7478766,-101.9508105
+1C4HJXDG9NW194970,"$50,220 ","$49,771 ","$49,771 ",Jeep,Wrangler,2022,8-Speed Automatic,10 miles,Atascosa Chrysler Dodge Jeep,"110128 I-37 Pleasanton, TX 78064",28.9984087,-98.4294747
+1C4HJXDN2NW231419,"$39,565 ","$36,465 ","$36,465 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
+1C4HJXDN9NW231417,"$39,565 ","$36,465 ","$36,465 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
+1C4HJXDNXNW252230,"$42,370 ","$39,270 ","$39,270 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
+1C4HJXDN1NW243593,"$42,715 ","$39,615 ","$39,615 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
+1C4HJXDNXNW252227,"$42,765 ","$39,665 ","$39,665 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
+1C4HJXDN3NW252232,"$42,765 ","$41,609 ","$41,609 ",Jeep,Wrangler,2022,8-Speed Automatic,1 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
+1C4HJXDG1NW240629,"$42,985 ","$39,885 ","$39,885 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
+1C4HJXDN5NW243595,"$43,065 ","$39,965 ","$39,965 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
+1C4HJXDN1NW253881,"$40,060 ","$40,060 ","$40,060 ",Jeep,Wrangler,2022,Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
+1C4HJXDN3NW253882,"$40,060 ","$40,060 ","$40,060 ",Jeep,Wrangler,2022,Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
+1C4HJXDN6NW243959,"$40,160 ","$40,160 ","$40,160 ",Jeep,Wrangler,2022,Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
+1C4HJXDNXNW253569,"$45,225 ","$42,125 ","$42,125 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
+1C4HJXDN8NW242280,"$42,980 ","$42,980 ","$43,379 ",Jeep,Wrangler,2022,Automatic,0 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
+1C4HJXDG9NW226056,"$43,480 ","$43,480 ","$43,879 ",Jeep,Wrangler,2022,Automatic,0 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
+1C4HJXDG1NW225029,"$43,920 ","$43,920 ","$43,920 ",Jeep,Wrangler,2022,8-Speed Automatic,---,Boerne Dodge Chrysler Jeep Ram,"30300 I-10 West Boerne, TX 78006",29.744395,-98.6910634
+1C4HJXDG6NW224829,"$44,880 ","$44,880 ","$45,279 ",Jeep,Wrangler,2022,Automatic,0 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
+1C4HJXDG9NW181815,"$46,150 ","$45,650 ","$45,650 ",Jeep,Wrangler,2022,8-Speed Automatic,11 miles,Nyle Maxwell CDJR of Castroville,"1950 US Highway 90 E Castroville, TX 78009",29.3545562,-98.8454975
+1C4HJXDNXMW815680,Not Provided,"$45,835 ","$45,835 ",Jeep,Wrangler,2022,Automatic,8 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
+1C4HJXDG2NW181817,"$46,545 ","$46,045 ","$46,045 ",Jeep,Wrangler,2022,8-Speed Automatic,11 miles,Nyle Maxwell CDJR of Castroville,"1950 US Highway 90 E Castroville, TX 78009",29.3545562,-98.8454975
+1C4HJXDNXNW201424,"$45,820 ","$45,820 ","$46,219 ",Jeep,Wrangler,2022,Automatic,0 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
+1C4HJXDM8NW231982,"$49,875 ","$46,775 ","$46,775 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
+1C4HJXDG7NW181814,"$47,045 ","$47,045 ","$47,045 ",Jeep,Wrangler,2022,8-Speed Automatic,11 miles,Nyle Maxwell CDJR of Castroville,"1950 US Highway 90 E Castroville, TX 78009",29.3545562,-98.8454975
+1C4HJXDG5NW181813,"$47,045 ","$47,045 ","$47,045 ",Jeep,Wrangler,2022,8-Speed Automatic,11 miles,Nyle Maxwell CDJR of Castroville,"1950 US Highway 90 E Castroville, TX 78009",29.3545562,-98.8454975
+1C4HJXDGXNW231427,"$50,670 ","$47,570 ","$47,570 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
+1C4HJXDN1NW223831,"$46,365 ","$47,365 ","$47,685 ",Jeep,Wrangler,2022,8-Speed Automatic,2 miles,Freestone Autoplex,"1201 Hwy 84 West Fairfield, TX 75840",31.708962,-96.1792575
+1C4HJXDG3NW231429,"$51,065 ","$47,965 ","$47,965 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
+1C4HJXDG2NW227579,"$51,370 ","$48,270 ","$48,270 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
+1C4HJXDN3NW223832,"$47,010 ","$48,010 ","$48,330 ",Jeep,Wrangler,2022,8-Speed Automatic,2 miles,Freestone Autoplex,"1201 Hwy 84 West Fairfield, TX 75840",31.708962,-96.1792575
+1C4HJXEN2NW118228,"$48,130 ","$48,130 ","$48,529 ",Jeep,Wrangler,2022,Automatic,6 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
+1C4HJXDG8NW231426,"$51,765 ","$48,665 ","$48,665 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
+1C4HJXDN7NW222313,"$48,685 ","$48,685 ","$48,829 ",Jeep,Wrangler,2022,Automatic,0 miles,Neessen Chrysler Dodge Jeep Ram,"2151 N US Highway 77 Byp Kingsville, TX 78363",27.5371885,-97.835223
+1C4HJXDG6NW231425,"$52,210 ","$49,110 ","$49,110 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
+1C4HJXDG0NW227581,"$52,560 ","$49,460 ","$49,460 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
+1C4HJXDG0NW227578,"$52,560 ","$49,460 ","$49,460 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
+1C4HJXDG9NW227577,"$52,560 ","$49,460 ","$49,460 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
+1C4HJXDG9NW194970,"$50,220 ","$49,771 ","$49,771 ",Jeep,Wrangler,2022,8-Speed Automatic,10 miles,Atascosa Chrysler Dodge Jeep,"110128 I-37 Pleasanton, TX 78064",28.9984087,-98.4294747
+1C4HJXEN3NW253136,"$50,395 ","$50,395 ","$50,395 ",Jeep,Wrangler,2022,Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
+1C4HJXEN5NW253137,"$50,790 ","$50,790 ","$50,790 ",Jeep,Wrangler,2022,Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
+1C4HJXEN1NW253135,"$50,790 ","$50,790 ","$50,790 ",Jeep,Wrangler,2022,Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
+1C4HJXEG7NW260091,"$51,035 ","$51,035 ","$51,035 ",Jeep,Wrangler,2022,Automatic,15 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
+1C4HJXDG7NW200846,"$51,165 ","$51,088 ","$51,088 ",Jeep,Wrangler,2022,Automatic,65 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
+1C4HJXDM6NW255603,"$51,215 ","$51,138 ","$51,138 ",Jeep,Wrangler,2022,Automatic,8 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
+1C4HJXDG3NW224349,"$50,860 ","$50,860 ","$51,259 ",Jeep,Wrangler,2022,Automatic,0 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
+1C4HJXDG2NW115655,"$52,230 ","$52,152 ","$52,152 ",Jeep,Wrangler,2022,Automatic,12 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
+1C4HJXDMXNW247522,"$53,505 ","$53,425 ","$53,425 ",Jeep,Wrangler,2022,Automatic,9 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
+1C4HJXDG9NW249661,"$53,045 ","$53,045 ","$53,444 ",Jeep,Wrangler,2022,Automatic,4 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
+1C4HJXDM1NW247523,"$53,805 ","$53,724 ","$53,724 ",Jeep,Wrangler,2022,Automatic,20 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
+1C4HJXFN2NW248234,"$56,940 ","$53,616 ","$53,616 ",Jeep,Wrangler,2022,8-Speed Automatic,1 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
+1C4HJXDG8NW204095,"$54,250 ","$54,250 ","$54,649 ",Jeep,Wrangler,2022,Automatic,10 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
+1C4HJXEN8NW252760,"$54,510 ","$54,510 ","$54,909 ",Jeep,Wrangler,2022,Automatic,0 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
+1C4HJXFN6NW252125,"$55,665 ","$55,665 ","$55,665 ",Jeep,Wrangler,2022,8-Speed Automatic,---,Boerne Dodge Chrysler Jeep Ram,"30300 I-10 West Boerne, TX 78006",29.744395,-98.6910634
+1C4HJXDGXNW203658,"$55,365 ","$55,365 ","$55,764 ",Jeep,Wrangler,2022,Automatic,0 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
+1C4HJXDG8NW203657,"$55,760 ","$55,760 ","$56,159 ",Jeep,Wrangler,2022,Automatic,0 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
+1C4HJXEN0NW208154,"$56,575 ","$56,575 ","$56,974 ",Jeep,Wrangler,2022,Automatic,4 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
+1C4HJXDG7NW272095,"$59,700 ","$57,056 ","$57,056 ",Jeep,Wrangler,2022,8-Speed Automatic,11 miles,Ingram Park Auto Center Chrysler Jeep,"7000 NW Loop 410 San Antonio, TX 78238",29.4554705,-98.6251299
+1C4HJXFN2NW246452,"$57,725 ","$57,725 ","$58,124 ",Jeep,Wrangler,2022,Automatic,0 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
+1C4HJXEM8NW248862,"$58,170 ","$58,170 ","$58,170 ",Jeep,Wrangler,2022,Automatic,13 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
+1C4HJXFG2NW266864,"$59,765 ","$59,765 ","$60,073 ",Jeep,Wrangler,2022,8-Speed Automatic,15 miles,Premier CDJR of Lamesa,"1611 Lubbock Hwy Lamesa, TX 79331",32.7478766,-101.9508105
+1C4HJXFN4NW246453,"$60,765 ","$60,765 ","$61,164 ",Jeep,Wrangler,2022,Automatic,0 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
+1C4HJXFN0NW253884,"$62,265 ","$62,172 ","$62,172 ",Jeep,Wrangler,2022,Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
+1C4HJXFG6NW260324,"$67,525 ","$67,424 ","$67,424 ",Jeep,Wrangler,2022,Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
+1C4JJXSJ2MW789433,"$80,995 ","$80,995 ","$80,995 ",Jeep,Wrangler,2022,Automatic,10 miles,Price Chrysler Dodge Jeep Ram,"1541 US Highway 181 N Floresville, TX 78114",29.204226,-98.2139732
+1C4JJXP64NW214417,"$60,695 ","$60,695 ","$60,695 ",Jeep,Wrangler,2022,Automatic,0 miles,Yaklin Chrysler Dodge Jeep Ram,"1550 W Kingsbury St Seguin, TX 78155",29.5757331,-97.990967
+1C4JJXP64NW275797,"$58,280 ","$54,880 ","$54,880 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
+1C4JJXP60NW275795,"$58,885 ","$55,485 ","$55,485 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
+1C4JJXP69NW275794,"$59,280 ","$55,880 ","$55,880 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
+1C4JJXP69NW205292,"$58,280 ","$58,280 ","$58,280 ",Jeep,Wrangler,2022,Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
+1C4JJXP67NW136926,"$58,280 ","$58,280 ","$58,280 ",Jeep,Wrangler,2022,Automatic,13 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
+1C4JJXP68NW229521,"$58,550 ","$58,550 ","$58,550 ",Jeep,Wrangler,2022,Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
+1C4JJXP60NW177883,"$58,580 ","$58,580 ","$58,888 ",Jeep,Wrangler,2022,8-Speed Automatic,25 miles,Premier CDJR of Lamesa,"1611 Lubbock Hwy Lamesa, TX 79331",32.7478766,-101.9508105
+1C4JJXP66NW229520,"$58,945 ","$58,945 ","$58,945 ",Jeep,Wrangler,2022,Automatic,14 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
+1C4JJXP67NW274367,"$59,770 ","$59,770 ","$60,169 ",Jeep,Wrangler,2022,Automatic,0 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
+1C4JJXP64NW214417,"$60,695 ","$60,695 ","$60,695 ",Jeep,Wrangler,2022,Automatic,0 miles,Yaklin Chrysler Dodge Jeep Ram,"1550 W Kingsbury St Seguin, TX 78155",29.5757331,-97.990967
+1C4JJXP62NW198671,"$60,375 ","$60,375 ","$60,774 ",Jeep,Wrangler,2022,Automatic,0 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
+1C4JJXP69NW228121,"$61,075 ","$61,075 ","$61,075 ",Jeep,Wrangler,2022,Automatic,12 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
+1C4JJXP60NW228122,"$61,470 ","$61,470 ","$61,470 ",Jeep,Wrangler,2022,Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
+1C4JJXP67NW228120,"$61,470 ","$61,470 ","$61,470 ",Jeep,Wrangler,2022,Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
+1C4JJXP61NW264952,"$61,570 ","$61,570 ","$61,570 ",Jeep,Wrangler,2022,Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
+1C4JJXP65NW232294,"$61,770 ","$61,770 ","$61,770 ",Jeep,Wrangler,2022,8-Speed Automatic,11 miles,San Marcos Chrysler Dodge,"2990 I-35 S San Marcos, TX 78666",29.8413264,-97.9724411
+1C4JJXP69NW228569,"$61,570 ","$61,570 ","$61,969 ",Jeep,Wrangler,2022,Automatic,0 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
+1C4JJXP65NW153563,"$61,935 ","$61,935 ","$62,243 ",Jeep,Wrangler,2022,8-Speed Automatic,15 miles,Premier CDJR of Lamesa,"1611 Lubbock Hwy Lamesa, TX 79331",32.7478766,-101.9508105
+1C4JJXR68NW198655,"$65,725 ","$62,325 ","$62,325 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
+1C4JJXP61NW198211,"$62,525 ","$62,525 ","$62,525 ",Jeep,Wrangler,2022,Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
+1C4JJXP67NW228571,"$62,220 ","$62,220 ","$62,619 ",Jeep,Wrangler,2022,Automatic,13 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
+1C4JJXP69NW228572,"$62,220 ","$62,220 ","$62,619 ",Jeep,Wrangler,2022,Automatic,13 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
+1C4JJXP6XNW198210,"$62,920 ","$62,920 ","$62,920 ",Jeep,Wrangler,2022,Automatic,9 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
+1C4JJXP67NW198214,"$62,920 ","$62,920 ","$62,920 ",Jeep,Wrangler,2022,Automatic,14 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
+1C4JJXP63NW264533,"$64,190 ","$64,190 ","$64,190 ",Jeep,Wrangler,2022,Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
+1C4JJXR61NW152861,"$67,935 ","$67,935 ","$68,243 ",Jeep,Wrangler,2022,8-Speed Automatic,15 miles,Premier CDJR of Lamesa,"1611 Lubbock Hwy Lamesa, TX 79331",32.7478766,-101.9508105
+1C4JJXR62NW222268,"$69,685 ","$69,685 ","$69,685 ",Jeep,Wrangler,2022,Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
+5TFLA5AB4NX012657,Not Provided,"$47,723 ","$47,723 ",Toyota,Tundra,2022,Automatic,---,Toyota of Boerne,"31205 I-10 W Boerne, TX 78006",29.7506876,-98.7026131
+5TFLA5AB8NX011303,Not Provided,"$49,039 ","$49,039 ",Toyota,Tundra,2022,Automatic,---,Toyota of Boerne,"31205 I-10 W Boerne, TX 78006",29.7506876,-98.7026131
+5TFLA5AB3NX111468,"$48,957 ","$48,957 ","$49,198 ",Toyota,Tundra,2022,Automatic,1 miles,Family Toyota of Arlington,"1661 Wet N Wild Way Arlington, TX 76011",32.7612421,-97.0858991
+5TFLA5AB1NX012499,"$49,970 ","$49,970 ","$49,970 ",Toyota,Tundra,2022,Automatic,10 miles,North Park Toyota of San Antonio,"10703 S.W. Loop 410 San Antonio, TX 78211",29.3156659,-98.6122131
+5TFLA5DB5NX038535,Not Provided,"$50,453 ","$50,453 ",Toyota,Tundra,2022,Automatic,---,Toyota of Boerne,"31205 I-10 W, Boerne, TX 78006",29.7506876,-98.7026131
+5TFJA5AB4NX010771,"$54,796 ","$54,796 ","$54,796 ",Toyota,Tundra,2022,Automatic,0 miles,Alamo Toyota,"18019 US 281 North, San Antonio, TX 78232",29.2450108,-98.4740466
+5TFLA5DB3NX040445,"$55,317 ","$55,317 ","$55,317 ",Toyota,Tundra,2022,Automatic,10 miles,North Park Toyota of San Antonio,"10703 S.W. Loop 410, San Antonio, TX 78211",29.3156659,-98.6122131
+5TFJC5BC7NX001029,"$58,469 ","$58,469 ","$58,469 ",Toyota,Tundra,2022,Automatic,0 miles,Alamo Toyota,"18019 US 281 North, San Antonio, TX 78232",29.2450108,-98.4740466
+5TFJC5AB0NX001141,"$58,640 ","$58,640 ","$58,859 ",Toyota,Tundra,2022,Automatic,0 miles,Toyota of Laredo,"6324 Bob Bullock Loop, Laredo, TX 78041",27.5561385,-99.4501652
+5TFJA5DB5NX014601,"$59,949 ","$59,949 ","$60,168 ",Toyota,Tundra,2022,Automatic,5 miles,"Powell Watson Motors, Inc.","6301 Arena Blvd, Laredo, TX 78041",27.5570758,-99.4491939
+5TFNA5DB3NX039174,"$65,187 ","$65,187 ","$65,187 ",Toyota,Tundra,2022,Automatic,0 miles,Alamo Toyota,"18019 US 281 North, San Antonio, TX 78232",29.2450108,-98.4740466
+5TFPC5DB4NX004081,"$70,377 ","$70,377 ","$70,377 ",Toyota,Tundra,2022,Automatic,0 miles,Alamo Toyota,"18019 US 281 North, San Antonio, TX 78232",29.2450108,-98.4740466
+1FMEE5DP8NLB35076,Not Provided,"$32,020 ","$32,174 ",Ford,Bronco,2022,Automatic,0 miles,DeMontrond Ford,"3944 US 59 S, Cleveland, TX 77328",30.2823488,-95.1302179
+1FMDE5BH9NLB12171,Not Provided,"$40,470 ","$40,624 ",Ford,Bronco,2022,,0 miles,DeMontrond Ford,"3944 US 59 S, Cleveland, TX 77328",30.2823488,-95.1302179
+1FMDE5BH9NLB13062,Not Provided,"$42,015 ","$42,169 ",Ford,Bronco,2022,,0 miles,DeMontrond Ford,"3944 US 59 S, Cleveland, TX 77328",30.2823488,-95.1302179
+1FMDE5CP1NLB31612,Not Provided,"$44,495 ","$44,649 ",Ford,Bronco,2022,Automatic,0 miles,DeMontrond Ford,"3944 US 59 S, Cleveland, TX 77328",30.2823488,-95.1302179
+1FMDE5BH6NLB45077,"$45,465 ","$45,465 ","$45,465 ",Ford,Bronco,2022,Automatic,8 miles,Maxwell Ford,"5000 South IH-35, Austin, TX 78745",30.2053831,-97.7607699
+1FMDE5BH2NLB33377,"$46,520 ","$46,520 ","$46,520 ",Ford,Bronco,2022,,10 miles,Griffith Ford San Marcos,"2661 N Interstate 35, San Marcos, TX 78666",29.9003779,-97.9061361
+1FMDE5BH8NLB45095,"$46,775 ","$46,775 ","$46,775 ",Ford,Bronco,2022,Automatic,8 miles,Maxwell Ford,"5000 South IH-35, Austin, TX 78745",30.2053831,-97.7607699
+1FMEE5BP1NLB44446,"$49,115 ","$49,115 ","$49,115 ",Ford,Bronco,2022,Automatic,11 miles,Maxwell Ford,"5000 South IH-35, Austin, TX 78745",30.2053831,-97.7607699
+1FMEE5BP4NLB43551,"$49,115 ","$49,115 ","$49,115 ",Ford,Bronco,2022,Automatic,11 miles,Maxwell Ford,"5000 South IH-35, Austin, TX 78745",30.2053831,-97.7607699
+1FMDE5BH4NLA82318,"$52,955 ","$62,955 ","$63,115 ",Ford,Bronco,2022,Automatic,10 miles,"J.O. Williams Motors, Inc.","419 E Broadway Ave., Gladewater, TX 75647",32.5356344,-94.9403472
+1FMEE5BPXNLB44588,"$51,760 ","$51,760 ","$51,760 ",Ford,Bronco,2022,Automatic,8 miles,Maxwell Ford,"5000 South IH-35, Austin, TX 78745",30.2053831,-97.7607699
+1FMEE5DP6NLB31740,"$54,270 ","$54,270 ","$54,270 ",Ford,Bronco,2022,,10 miles,Griffith Ford San Marcos,"2661 N Interstate 35, San Marcos, TX 78666",29.9003779,-97.9061361
+1FMEE5DP4NLB25337,"$54,920 ","$54,920 ","$54,920 ",Ford,Bronco,2022,,10 miles,Griffith Ford San Marcos,"2661 N Interstate 35, San Marcos, TX 78666",29.9003779,-97.9061361
+1FMEE5DP3NLB09887,"$55,725 ","$55,725 ","$55,725 ",Ford,Bronco,2022,,10 miles,Griffith Ford San Marcos,"2661 N Interstate 35, San Marcos, TX 78666",29.9003779,-97.9061361
+1FMEE5DP4NLB30943,Not Provided,"$56,590 ","$56,744 ",Ford,Bronco,2022,Automatic,3 miles,DeMontrond Ford,"3944 US 59 S, Cleveland, TX 77328",30.2823488,-95.1302179
+1FMDE5BH2NLA83712,Not Provided,"$57,590 ","$57,590 ",Ford,Bronco,2022,Automatic,269 miles,Carvana,"3944 US 59 S, Cleveland, TX 77328",30.2823488,-95.1302179
+1FMEE5DP1NLB31435,"$63,245 ","$63,245 ","$63,245 ",Ford,Bronco,2022,,10 miles,Griffith Ford San Marcos,"2661 N Interstate 35, San Marcos, TX 78666",29.9003779,-97.9061361
+1FMEE5DP3NLB32912,"$64,185 ","$64,185 ","$64,185 ",Ford,Bronco,2022,,10 miles,Griffith Ford San Marcos,"2661 N Interstate 35, San Marcos, TX 78666",29.9003779,-97.9061361
+1FMEE5DP0NLA79277,Not Provided,"$68,990 ","$68,990 ",Ford,Bronco,2022,Automatic,58 miles,Carvana,"2661 N Interstate 35, San Marcos, TX 78666",29.9003779,-97.9061361
+1FMEE5DP2MLA90053,Not Provided,"$58,674 ","$58,674 ",Ford,Bronco,2022,Automatic,"7,707 miles",Maxwell Ford,"5000 South IH-35, Austin, TX 78745",30.2053831,-97.7607699
+3FTTW8F96NRA66348,"$31,855 ","$31,855 ","$31,855 ",Ford,Maverick,2022,Automatic,10 miles,Maxwell Ford,"5000 South IH-35, Austin, TX 78745",30.2053831,-97.7607699
+3FTTW8F96NRA78323,"$31,855 ","$31,855 ","$32,284 ",Ford,Maverick,2022,Automatic,0 miles,Vernon Ford,"2803 Wilbarger St, Vernon, TX 76384",34.1520803,-99.2956248
+3FTTW8F98NRA45047,Not Provided,"$41,990 ","$41,990 ",Ford,Maverick,2022,8-Speed Automatic,193 miles,Carvana,"2803 Wilbarger St, Vernon, TX 76384",34.1520803,-99.2956248
+3FTTW8F99NRA41511,Not Provided,"$42,990 ","$42,990 ",Ford,Maverick,2022,8-Speed Automatic,229 miles,Carvana,"2803 Wilbarger St, Vernon, TX 76384",34.1520803,-99.2956248
+3FTTW8F98NRA53665,Not Provided,"$43,590 ","$43,590 ",Ford,Maverick,2022,8-Speed Automatic,58 miles,Carvana,"2803 Wilbarger St, Vernon, TX 76384",34.1520803,-99.2956248
+1GT40FDA3NU100794,"$112,839 ","$112,839 ","$112,839 ",General Motors,Hummer,2022,Automatic,13 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D, Houston, TX 77074",29.6681773,-95.5518088
+1GT40FDA6NU100305,"$114,590 ","$114,590 ","$114,590 ",General Motors,Hummer,2022,Automatic,11 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D, Houston, TX 77074",29.6681773,-95.5518088
+1GT40FDAXNU100517,"$115,139 ","$115,139 ","$115,139 ",General Motors,Hummer,2022,1-Speed Automatic,0 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D, Houston, TX 77074",29.6681773,-95.5518088
+1GT40FDA3NU100729,Not Provided,"$115,139 ","$115,139 ",General Motors,Hummer,2022,1-Speed Automatic,3 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D, Houston, TX 77074",29.6681773,-95.5518088
+1GT40FDA1NU100552,"$115,139 ","$115,139 ","$115,139 ",General Motors,Hummer,2022,Automatic,11 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D, Houston, TX 77074",29.6681773,-95.5518088
+1GT40FDA4NU100674,"$115,139 ","$115,139 ","$115,139 ",General Motors,Hummer,2022,Automatic,11 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D, Houston, TX 77074",29.6681773,-95.5518088
+1GT40FDA4NU100688,"$115,139 ","$115,139 ","$115,139 ",General Motors,Hummer,2022,Automatic,13 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D, Houston, TX 77074",29.6681773,-95.5518088
+1GT40FDA3NU100407,"$115,439 ","$115,439 ","$115,439 ",General Motors,Hummer,2022,Automatic,5 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D, Houston, TX 77074",29.6681773,-95.5518088
+3GNKBCR40NS202323,"$35,350 ","$34,100 ","$34,100 ",General Motors,Blazer,2022,Automatic,0 miles,Neessen Chevrolet Buick GMC Truck,"2007 S US Highway 77 Byp, Kingsville, TX 78363",27.4978243,-97.8446006
+3GNKBCR43NS200923,"$37,950 ","$36,961 ","$37,179 ",General Motors,Blazer,2022,9-Speed Automatic Overdrive,2 miles,Freestone Autoplex,"1201 Hwy 84 West, Fairfield, TX 75840",31.708962,-96.1792575
+3GNKBDRS0NS175435,"$40,220 ","$43,219 ","$43,515 ",General Motors,Blazer,2022,9-Speed Automatic Overdrive,13 miles,Coleman Chevrolet,"510 Addison St, New Boston, TX 75570",33.4760884,-94.4113771
+3GNKBFRS5NS189150,"$43,040 ","$42,141 ","$42,330 ",General Motors,Blazer,2022,Automatic,2 miles,Westside Chevrolet,"23001 Katy Fwy, Katy, TX 77450",29.7836894,-95.7689096
+3GNKBERS4NS145909,"$44,980 ","$43,442 ","$43,652 ",General Motors,Blazer,2022,9-Speed Automatic Overdrive,2 miles,Classic Chevrolet of Houston,"7000 Southwest Fwy, Houston, TX 77074",29.7102127,-95.5097388
+3GNKBERSXNS185184,"$45,605 ","$44,355 ","$44,355 ",General Motors,Blazer,2022,Automatic,0 miles,Capitol Chevrolet,"6200 S I H 35, Austin, TX 78745",30.1941831,-97.7690481
+3GNKBJRS1NS124962,Not Provided,"$44,990 ","$44,990 ",General Motors,Blazer,2022,9-Speed Automatic Overdrive,271 miles,Carvana,"6200 S I H 35, Austin, TX 78745",30.1941831,-97.7690481
+3GNKBERS2NS200339,"$46,885 ","$46,885 ","$46,885 ",General Motors,Blazer,2022,9-Speed Automatic Overdrive,5 miles,Four Stars Auto Ranch Chevrolet Buick,"262 US HWY 287 S, Henrietta, TX 76365",33.7977697,-98.1944308
+3GNKBERS4NS143769,"$44,870 ","$47,169 ","$47,465 ",General Motors,Blazer,2022,9-Speed Automatic Overdrive,7 miles,Coleman Chevrolet,"510 Addison St, New Boston, TX 75570",33.4760884,-94.4113771
+3GNKBERS2NS203029,"$47,670 ","$47,670 ","$47,670 ",General Motors,Blazer,2022,9-Speed Automatic Overdrive,2 miles,El Dorado Chevrolet,"2300 North Central Expressway, Mckinney, TX 75070",33.2265094,-96.6314957
+3GNKBERS8NS196409,"$45,975 ","$46,725 ","$46,725 ",General Motors,Blazer,2022,Automatic,10 miles,"Gunn Chevrolet, Ltd.","16550 Interstate 35 N, Selma, TX 78154",29.5897305,-98.2974632
+3GNKBERS7NS196885,"$46,525 ","$47,275 ","$47,275 ",General Motors,Blazer,2022,Automatic,10 miles,"Gunn Chevrolet, Ltd.","16550 Interstate 35 N, Selma, TX 78154",29.5897305,-98.2974632
+3GNKBERS2NS196860,"$47,520 ","$47,850 ","$47,850 ",General Motors,Blazer,2022,Automatic,10 miles,"Gunn Chevrolet, Ltd.","16550 Interstate 35 N, Selma, TX 78154",29.5897305,-98.2974632
+1C4HJXCG7NW225733,"$50,190 ","$50,190 ","$50,190 ",Jeep,Wrangler,2022,Automatic,7 miles,Covert Chrysler Dodge Jeep Ram-Austin,"8107 Research Blvd, Austin, TX 78758",30.3522474,-97.7135395
+1C4HJXCN5NW225728,"$47,945 ","$47,945 ","$47,945 ",Jeep,Wrangler,2022,Automatic,7 miles,Covert Chrysler Dodge Jeep Ram-Austin,"8107 Research Blvd, Austin, TX 78758",30.3522474,-97.7135395
+1C4GJXAN0NW257291,"$37,275 ","$34,175 ","$34,175 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy, Houston, TX 77079",29.78321,-95.5993955
+1C4GJXAG4NW237157,"$37,940 ","$37,940 ","$37,940 ",Jeep,Wrangler,2022,8-Speed Automatic,10 miles,Nyle Maxwell CDJR Austin,"13817 U.S. 183, Austin, TX 78750",30.4654634,-97.7943555
+1C4HJXAG9NW180572,"$38,560 ","$38,560 ","$38,560 ",Jeep,Wrangler,2022,8-Speed Automatic,11 miles,San Marcos Chrysler Dodge,"2990 I-35 S, San Marcos, TX 78666",29.8413264,-97.9724411
+1C4HJXAG3NW194869,"$38,660 ","$38,660 ","$38,962 ",Jeep,Wrangler,2022,8-Speed Automatic,15 miles,Premier CDJR of Lamesa,"1611 Lubbock Hwy, Lamesa, TX 79331",32.7478766,-101.9508105
+1C4HJXAG1NW235113,"$39,200 ","$39,200 ","$39,200 ",Jeep,Wrangler,2022,8-Speed Automatic,10 miles,Nyle Maxwell CDJR Austin,"13817 U.S. 183, Austin, TX 78750",30.4654634,-97.7943555
+1C4HJXAG9NW272555,"$39,370 ","$39,370 ","$39,370 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,San Marcos Chrysler Dodge,"2990 I-35 S, San Marcos, TX 78666",29.8413264,-97.9724411
+1C4GJXAG4MW759639,Not Provided,"$39,590 ","$39,590 ",Jeep,Wrangler,2022,6-Speed Manual,273 miles,Carvana,"2990 I-35 S, San Marcos, TX 78666",29.8413264,-97.9724411
+1C4GJXAG7NW211622,"$39,685 ","$39,685 ","$39,685 ",Jeep,Wrangler,2022,6-Speed Manual,10 miles,Nyle Maxwell CDJR Austin,"13817 U.S. 183, Austin, TX 78750",30.4654634,-97.7943555
+1C4HJXAG7NW262882,"$39,575 ","$39,575 ","$39,768 ",Jeep,Wrangler,2022,Automatic,0 miles,Neessen Chrysler Dodge Jeep Ram,"2151 N US Highway 77 Byp, Kingsville, TX 78363",27.5371885,-97.835223
+1C4HJXAG1NW196006,"$40,620 ","$40,620 ","$40,620 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,Sames Bastrop CDJ,"1586 Hwy 71 West, Cedar Creek, TX 78612",30.1258939,-97.4366989
+1C4GJXANXNW223827,"$39,910 ","$40,910 ","$41,128 ",Jeep,Wrangler,2022,8-Speed Automatic,2 miles,Freestone Autoplex,"1201 Hwy 84 West, Fairfield, TX 75840",31.708962,-96.1792575
+1C4GJXAG2NW175094,"$41,175 ","$41,175 ","$41,175 ",Jeep,Wrangler,2022,8-Speed Automatic,11 miles,Nyle Maxwell CDJR Austin,"13817 U.S. 183, Austin, TX 78750",30.4654634,-97.7943555
+1C4HJXAG2NW181210,"$41,180 ","$41,180 ","$41,180 ",Jeep,Wrangler,2022,Automatic,15 miles,"Steele CJDR Lockhart, LLC","2000 S Colorado St, Lockhart, TX 78644",29.8549337,-97.6671462
+1C4GJXAN8NW223826,"$40,305 ","$41,305 ","$41,523 ",Jeep,Wrangler,2022,8-Speed Automatic,2 miles,Freestone Autoplex,"1201 Hwy 84 West, Fairfield, TX 75840",31.708962,-96.1792575
+1C4GJXAN1NW223828,"$40,305 ","$41,305 ","$41,523 ",Jeep,Wrangler,2022,8-Speed Automatic,2 miles,Freestone Autoplex,"1201 Hwy 84 West, Fairfield, TX 75840",31.708962,-96.1792575
+1C4GJXAN6NW195850,"$42,270 ","$42,270 ","$42,270 ",Jeep,Wrangler,2022,8-Speed Automatic,24 miles,Nyle Maxwell CDJR Austin,"13817 U.S. 183, Austin, TX 78750",30.4654634,-97.7943555
+1C4GJXAG3NW175069,"$42,740 ","$42,740 ","$42,740 ",Jeep,Wrangler,2022,Automatic,7 miles,Covert Chrysler Dodge Jeep Ram-Austin,"8107 Research Blvd, Austin, TX 78758",30.3522474,-97.7135395
+1C4GJXAG1NW175071,"$42,740 ","$42,740 ","$42,740 ",Jeep,Wrangler,2022,Automatic,7 miles,Covert Chrysler Dodge Jeep Ram-Austin,"8107 Research Blvd, Austin, TX 78758",30.3522474,-97.7135395
+1C4HJXAG1NW242112,"$43,250 ","$43,250 ","$43,449 ",Jeep,Wrangler,2022,Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35, San Antonio, TX 78233",29.5474868,-98.3631077
+1C4GJXAN3NW233101,"$44,300 ","$44,300 ","$44,300 ",Jeep,Wrangler,2022,8-Speed Automatic,10 miles,Nyle Maxwell CDJR Austin,"13817 U.S. 183, Austin, TX 78750",30.4654634,-97.7943555
+1C4HJXAG8NW235481,"$40,220 ","$43,955 ","$44,336 ",Jeep,Wrangler,2022,Automatic,12 miles,Foundation Chrysler Dodge Jeep Ram - Wichita Falls,"2900 Old Jacksboro Hwy, Wichita Falls, TX 76302",33.8845771,-98.4908493
+1C4GJXANXNW223830,"$43,160 ","$44,160 ","$44,378 ",Jeep,Wrangler,2022,8-Speed Automatic,2 miles,Freestone Autoplex,"1201 Hwy 84 West, Fairfield, TX 75840",31.708962,-96.1792575
+1C4GJXAG1NW223829,"$43,265 ","$44,265 ","$44,483 ",Jeep,Wrangler,2022,8-Speed Automatic,2 miles,Freestone Autoplex,"1201 Hwy 84 West, Fairfield, TX 75840",31.708962,-96.1792575
+1C4HJXAG2NW180879,"$45,780 ","$45,780 ","$45,780 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,Sames Bastrop CDJ,"1586 Hwy 71 West, Cedar Creek, TX 78612",30.1258939,-97.4366989
+1C4HJXAG0NW180878,"$45,780 ","$45,780 ","$45,780 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,Sames Bastrop CDJ,"1586 Hwy 71 West, Cedar Creek, TX 78612",30.1258939,-97.4366989
+1C4HJXAG9NW180877,"$45,780 ","$45,780 ","$45,780 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,Sames Bastrop CDJ,"1586 Hwy 71 West, Cedar Creek, TX 78612",30.1258939,-97.4366989
+1C4HJXCG2NW201906,"$45,945 ","$45,945 ","$46,344 ",Jeep,Wrangler,2022,Manual,6 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121, Frisco, TX 75035",33.1009626,-96.7998519
+1C4HJXCN7NW225729,"$47,550 ","$47,550 ","$47,550 ",Jeep,Wrangler,2022,Automatic,7 miles,Covert Chrysler Dodge Jeep Ram-Austin,"8107 Research Blvd, Austin, TX 78758",30.3522474,-97.7135395
+1C4HJXCN5NW225728,"$47,945 ","$47,945 ","$47,945 ",Jeep,Wrangler,2022,Automatic,7 miles,Covert Chrysler Dodge Jeep Ram-Austin,"8107 Research Blvd, Austin, TX 78758",30.3522474,-97.7135395
+1C4HJXCG7NW225733,"$50,190 ","$50,190 ","$50,190 ",Jeep,Wrangler,2022,Automatic,7 miles,Covert Chrysler Dodge Jeep Ram-Austin,"8107 Research Blvd, Austin, TX 78758",30.3522474,-97.7135395
+1C4GJXAG5NW259605,"$50,525 ","$50,525 ","$50,525 ",Jeep,Wrangler,2022,8-Speed Automatic,---,South Point Dodge Chrysler Jeep,"5210 IH-35 South, Austin, TX 78745",30.2039191,-97.7612793
+1C4HJXCN0NW196137,"$50,535 ","$50,535 ","$50,934 ",Jeep,Wrangler,2022,Automatic,0 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121, Frisco, TX 75035",33.1009626,-96.7998519
+1C4HJXCG4NW180850,"$50,990 ","$50,990 ","$51,292 ",Jeep,Wrangler,2022,8-Speed Automatic,15 miles,Premier CDJR of Lamesa,"1611 Lubbock Hwy, Lamesa, TX 79331",32.7478766,-101.9508105
+1C4HJXCN0NW196011,"$58,305 ","$58,305 ","$58,305 ",Jeep,Wrangler,2022,8-Speed Automatic,---,South Point Dodge Chrysler Jeep,"5210 IH-35 South, Austin, TX 78745",30.2039191,-97.7612793
+1C4HJXDG9NW120514,"$51,870 ","$51,870 ","$51,870 ",Jeep,Wrangler,2022,Automatic,7 miles,Covert Chrysler Dodge Jeep Ram-Austin,"8107 Research Blvd, Austin, TX 78758",30.3522474,-97.7135395
+1C4HJXDN2NW231419,"$39,565 ","$36,465 ","$36,465 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy, Houston, TX 77079",29.78321,-95.5993955
+1C4HJXDN9NW231417,"$39,565 ","$36,465 ","$36,465 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy, Houston, TX 77079",29.78321,-95.5993955
+1C4HJXDNXNW252230,"$42,370 ","$39,270 ","$39,270 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy, Houston, TX 77079",29.78321,-95.5993955
+1C4HJXDN1NW243593,"$42,715 ","$39,615 ","$39,615 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy, Houston, TX 77079",29.78321,-95.5993955
+1C4HJXDNXNW252227,"$42,765 ","$39,665 ","$39,665 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy, Houston, TX 77079",29.78321,-95.5993955
+1C4HJXDN3NW252232,"$42,765 ","$41,609 ","$41,609 ",Jeep,Wrangler,2022,8-Speed Automatic,1 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy, Houston, TX 77079",29.78321,-95.5993955
+1C4HJXDG1NW240629,"$42,985 ","$39,885 ","$39,885 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy, Houston, TX 77079",29.78321,-95.5993955
+1C4HJXDN5NW243595,"$43,065 ","$39,965 ","$39,965 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy, Houston, TX 77079",29.78321,-95.5993955
+1C4HJXDN1NW253881,"$40,060 ","$40,060 ","$40,259 ",Jeep,Wrangler,2022,Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35, San Antonio, TX 78233",29.5474868,-98.3631077
+1C4HJXDN3NW253882,"$40,060 ","$40,060 ","$40,259 ",Jeep,Wrangler,2022,Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35, San Antonio, TX 78233",29.5474868,-98.3631077
+1C4JJXP64NW275797,"$58,280 ","$54,880 ","$54,880 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy, Houston, TX 77079",29.78321,-95.5993955
+1C4JJXP64NW275797,"$58,280 ","$54,880 ","$54,880 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy, Houston, TX 77079",29.78321,-95.5993955
+1C4JJXP60NW275795,"$58,885 ","$55,485 ","$55,485 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy, Houston, TX 77079",29.78321,-95.5993955
+1C4JJXP69NW275794,"$59,280 ","$55,880 ","$55,880 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy, Houston, TX 77079",29.78321,-95.5993955
+1C4JJXP62NW177898,"$57,085 ","$57,085 ","$57,085 ",Jeep,Wrangler,2022,Automatic,2 miles,Northwest Chrysler Jeep Dodge,"19616 Northwest Fwy, Houston, TX 77065",29.9121305,-95.6121042
+1C4JJXP64NW205281,"$58,975 ","$57,475 ","$57,475 ",Jeep,Wrangler,2022,Automatic,0 miles,Texan Chrysler Dodge Jeep Ram,"18555 Highway 59 North, Humble, TX 77338",29.986783,-95.2771782
+1C4JJXP65NW197997,"$59,380 ","$57,880 ","$57,880 ",Jeep,Wrangler,2022,Automatic,0 miles,Texan Chrysler Dodge Jeep Ram,"18555 Highway 59 North, Humble, TX 77338",29.986783,-95.2771782
+1C4JJXP66NW227976,"$59,475 ","$57,975 ","$57,975 ",Jeep,Wrangler,2022,Automatic,0 miles,Texan Chrysler Dodge Jeep Ram,"18555 Highway 59 North, Humble, TX 77338",29.986783,-95.2771782
+1C4JJXP62NW227974,"$59,475 ","$57,975 ","$57,975 ",Jeep,Wrangler,2022,Automatic,0 miles,Texan Chrysler Dodge Jeep Ram,"18555 Highway 59 North, Humble, TX 77338",29.986783,-95.2771782
+1C4JJXP65NW114696,Not Provided,"$58,230 ","$58,230 ",Jeep,Wrangler,2022,8-Speed Automatic,10 miles,Ron Carter Chrysler Jeep Dodge of League City,"3535 Gulf Freeway South, Dickinson, TX 77539",29.4493097,-95.0765908
+1C4JJXP67NW197998,"$59,775 ","$58,275 ","$58,275 ",Jeep,Wrangler,2022,Automatic,0 miles,Texan Chrysler Dodge Jeep Ram,"18555 Highway 59 North, Humble, TX 77338",29.986783,-95.2771782
+1C4JJXP66NW227931,Not Provided,"$58,380 ","$58,380 ",Jeep,Wrangler,2022,8-Speed Automatic,11 miles,Ron Carter Chrysler Jeep Dodge of League City,"3535 Gulf Freeway South, Dickinson, TX 77539",29.4493097,-95.0765908
+1C4JJXP63NW114695,Not Provided,"$58,625 ","$58,625 ",Jeep,Wrangler,2022,8-Speed Automatic,10 miles,Ron Carter Chrysler Jeep Dodge of League City,"3535 Gulf Freeway South, Dickinson, TX 77539",29.4493097,-95.0765908
+1C4JJXP64NW278232,"$60,385 ","$58,885 ","$58,885 ",Jeep,Wrangler,2022,Automatic,0 miles,Texan Chrysler Dodge Jeep Ram,"18555 Highway 59 North, Humble, TX 77338",29.986783,-95.2771782
+1C4JJXP60NW279829,"$60,470 ","$58,970 ","$58,970 ",Jeep,Wrangler,2022,Automatic,0 miles,Texan Chrysler Dodge Jeep Ram,"18555 Highway 59 North, Humble, TX 77338",29.986783,-95.2771782
+1C4JJXP60NW177883,"$58,580 ","$58,580 ","$59,026 ",Jeep,Wrangler,2022,8-Speed Automatic,25 miles,Premier CDJR of Lamesa,"1611 Lubbock Hwy, Lamesa, TX 79331",32.7478766,-101.9508105
+1C4JJXP6XNW198191,"$59,070 ","$59,070 ","$59,070 ",Jeep,Wrangler,2022,Automatic,1 miles,Big Star Chrysler Jeep Dodge RAM Fiat Clear Lake,"15711 Gulf Fwy, Webster, TX 77598",29.5833016,-95.1792983
+1C4JJXP61NW198189,"$59,070 ","$59,070 ","$59,070 ",Jeep,Wrangler,2022,Automatic,1 miles,Big Star Chrysler Jeep Dodge RAM Fiat Clear Lake,"15711 Gulf Fwy, Webster, TX 77598",29.5833016,-95.1792983
+1C4JJXP66NW218825,"$60,730 ","$59,230 ","$59,230 ",Jeep,Wrangler,2022,Automatic,0 miles,Texan Chrysler Dodge Jeep Ram,"18555 Highway 59 North, Humble, TX 77338",29.986783,-95.2771782
+1C4JJXP63NW198467,"$59,350 ","$59,350 ","$59,350 ",Jeep,Wrangler,2022,8-Speed Automatic,---,Tomball Dodge Chrysler Jeep,"23777 Highway 249, Tomball, TX 77375",30.0273083,-95.6011605
+1C4JJXP69NW229317,"$57,480 ","$59,480 ","$59,480 ",Jeep,Wrangler,2022,8-Speed Automatic,10 miles,Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy, Manvel, TX 77578",29.5382955,-95.3853406
+1C4JJXP61NW179058,"$59,675 ","$59,675 ","$59,675 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,River Oaks Chrysler Jeep Dodge Ram,"4807 Kirby Drive, Houston, TX 77098",29.7288798,-95.4179281
+1C4JJXP63NW136907,"$59,770 ","$59,770 ","$59,770 ",Jeep,Wrangler,2022,Automatic,2 miles,Northwest Chrysler Jeep Dodge,"19616 Northwest Fwy, Houston, TX 77065",29.9121305,-95.6121042
+1C4JJXP69NW276427,"$59,870 ","$59,870 ","$59,870 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,River Oaks Chrysler Jeep Dodge Ram,"4807 Kirby Drive, Houston, TX 77098",29.7288798,-95.4179281
+1C4JJXP66NW198186,"$60,070 ","$60,070 ","$60,070 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Bayway Chrysler Dodge Jeep Ram,"4000 Pasadena Fwy, Pasadena, TX 77503",29.7103761,-95.1483381
+1C4JJXP6XNW179060,"$60,070 ","$60,070 ","$60,070 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,River Oaks Chrysler Jeep Dodge Ram,"4807 Kirby Drive, Houston, TX 77098",29.7288798,-95.4179281
+1C4JJXP63NW179059,"$60,070 ","$60,070 ","$60,070 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,River Oaks Chrysler Jeep Dodge Ram,"4807 Kirby Drive, Houston, TX 77098",29.7288798,-95.4179281
+1C4JJXP66NW179055,"$60,070 ","$60,070 ","$60,070 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,River Oaks Chrysler Jeep Dodge Ram,"4807 Kirby Drive, Houston, TX 77098",29.7288798,-95.4179281
+1C4JJXP6XNW179057,"$60,070 ","$60,070 ","$60,070 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,River Oaks Chrysler Jeep Dodge Ram,"4807 Kirby Drive, Houston, TX 77098",29.7288798,-95.4179281
+1C4JJXP64NW179054,"$60,070 ","$60,070 ","$60,070 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,River Oaks Chrysler Jeep Dodge Ram,"4807 Kirby Drive, Houston, TX 77098",29.7288798,-95.4179281
+1C4JJXP68NW179056,"$60,070 ","$60,070 ","$60,070 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,River Oaks Chrysler Jeep Dodge Ram,"4807 Kirby Drive, Houston, TX 77098",29.7288798,-95.4179281
+1C4JJXP64NW198395,"$60,080 ","$60,080 ","$60,080 ",Jeep,Wrangler,2022,Automatic,11 miles,Momentum Chrysler Dodge Jeep Ram,"3704 NE I 10 Frontage Rd, Sealy, TX 77474",29.7762388,-96.1274347
+1C4JJXP67NW229509,"$60,250 ","$60,250 ","$60,250 ",Jeep,Wrangler,2022,8-Speed Automatic,10 miles,Bayway Chrysler Dodge Jeep Ram,"4000 Pasadena Fwy, Pasadena, TX 77503",29.7103761,-95.1483381
+1C4JJXP63NW229314,"$58,280 ","$60,280 ","$60,280 ",Jeep,Wrangler,2022,8-Speed Automatic,5 miles,Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy, Manvel, TX 77578",29.5382955,-95.3853406
+1C4JJXP60NW229321,"$58,280 ","$60,280 ","$60,280 ",Jeep,Wrangler,2022,8-Speed Automatic,10 miles,Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy, Manvel, TX 77578",29.5382955,-95.3853406
+1C4JJXP61NW229313,"$58,280 ","$60,280 ","$60,280 ",Jeep,Wrangler,2022,8-Speed Automatic,10 miles,Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy, Manvel, TX 77578",29.5382955,-95.3853406
+1C4JJXP60NW229318,"$58,280 ","$60,280 ","$60,280 ",Jeep,Wrangler,2022,8-Speed Automatic,5 miles,Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy, Manvel, TX 77578",29.5382955,-95.3853406
+1C4JJXP69NW229320,"$58,280 ","$60,280 ","$60,280 ",Jeep,Wrangler,2022,8-Speed Automatic,5 miles,Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy, Manvel, TX 77578",29.5382955,-95.3853406
+1C4JJXP67NW268021,"$61,855 ","$60,355 ","$60,355 ",Jeep,Wrangler,2022,Automatic,0 miles,Texan Chrysler Dodge Jeep Ram,"18555 Highway 59 North, Humble, TX 77338",29.986783,-95.2771782
+1C4JJXP6XNW229956,"$60,645 ","$60,645 ","$60,645 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,River Oaks Chrysler Jeep Dodge Ram,"4807 Kirby Drive, Houston, TX 77098",29.7288798,-95.4179281
+1C4JJXP68NW229955,"$60,645 ","$60,645 ","$60,645 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,River Oaks Chrysler Jeep Dodge Ram,"4807 Kirby Drive, Houston, TX 77098",29.7288798,-95.4179281
+1C4JJXP69NW272149,"$60,730 ","$60,730 ","$60,730 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,River Oaks Chrysler Jeep Dodge Ram,"4807 Kirby Drive, Houston, TX 77098",29.7288798,-95.4179281
+1C4JJXP6XNW205396,"$60,770 ","$60,770 ","$60,770 ",Jeep,Wrangler,2022,Automatic,1 miles,Big Star Chrysler Jeep Dodge RAM Fiat Clear Lake,"15711 Gulf Fwy, Webster, TX 77598",29.5833016,-95.1792983
+1C4JJXP62NW229255,"$60,940 ","$60,940 ","$60,940 ",Jeep,Wrangler,2022,Automatic,0 miles,Gillman Jeep,"10575 W Sam Houston Pkwy S, Houston, TX 77099",29.6666254,-95.5585695
+1C4JJXP69NW278551,"$61,860 ","$61,860 ","$61,860 ",Jeep,Wrangler,2022,8-Speed Automatic,---,Tomball Dodge Chrysler Jeep,"23777 Highway 249, Tomball, TX 77375",30.0273083,-95.6011605
+1C4JJXP60NW213734,"$59,965 ","$61,965 ","$61,965 ",Jeep,Wrangler,2022,8-Speed Automatic,5 miles,Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy, Manvel, TX 77578",29.5382955,-95.3853406
+1C4JJXP69NW213733,"$59,965 ","$61,965 ","$61,965 ",Jeep,Wrangler,2022,8-Speed Automatic,10 miles,Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy, Manvel, TX 77578",29.5382955,-95.3853406
+1C4JJXR68NW198655,"$65,725 ","$62,325 ","$62,325 ",Jeep,Wrangler,2022,8-Speed Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy, Houston, TX 77079",29.78321,-95.5993955
+1C4JJXP65NW153563,"$61,935 ","$61,935 ","$62,381 ",Jeep,Wrangler,2022,8-Speed Automatic,15 miles,Premier CDJR of Lamesa,"1611 Lubbock Hwy, Lamesa, TX 79331",32.7478766,-101.9508105
+1C4JJXP62NW229319,"$57,480 ","$62,480 ","$62,480 ",Jeep,Wrangler,2022,8-Speed Automatic,5 miles,Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy, Manvel, TX 77578",29.5382955,-95.3853406
+1C4JJXP62NW279752,"$62,860 ","$62,860 ","$62,860 ",Jeep,Wrangler,2022,8-Speed Automatic,---,Tomball Dodge Chrysler Jeep,"23777 Highway 249, Tomball, TX 77375",30.0273083,-95.6011605
+1C4JJXP61NW213709,"$61,075 ","$63,075 ","$63,075 ",Jeep,Wrangler,2022,8-Speed Automatic,10 miles,Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy, Manvel, TX 77578",29.5382955,-95.3853406
+1C4JJXP63NW206339,"$63,075 ","$63,075 ","$63,075 ",Jeep,Wrangler,2022,8-Speed Automatic,---,Yaklin Chrysler Dodge Jeep Ram of Angleton,"1212 S Velasco St, Angleton, TX 77515",29.1479516,-95.4307369
+1C4JJXR69NW107831,"$63,170 ","$63,170 ","$63,170 ",Jeep,Wrangler,2022,Automatic,0 miles,Gillman Jeep,"10575 W Sam Houston Pkwy S, Houston, TX 77099",29.6666254,-95.5585695
+1C4JJXP68NW213707,"$61,925 ","$63,925 ","$63,925 ",Jeep,Wrangler,2022,8-Speed Automatic,5 miles,Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy, Manvel, TX 77578",29.5382955,-95.3853406
+1C4JJXP6XNW269759,"$62,550 ","$64,550 ","$64,550 ",Jeep,Wrangler,2022,8-Speed Automatic,5 miles,Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy, Manvel, TX 77578",29.5382955,-95.3853406
+1C4JJXP65NW179192,"$60,425 ","$64,900 ","$64,900 ",Jeep,Wrangler,2022,Automatic,4 miles,Crossroads Dodge Chrysler Jeep Ram,"320 Highway 146 Byp, Liberty, TX 77575",30.0588201,-94.7702507
+1C4JJXP64NW274973,"$61,165 ","$65,888 ","$65,888 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,Helfman Dodge Chrysler Jeep Ram,"7720 Katy Freeway, Houston, TX 77024",29.7856569,-95.4695896
+1C4JJXR63NW228340,"$66,560 ","$66,560 ","$66,560 ",Jeep,Wrangler,2022,8-Speed Automatic,---,Tomball Dodge Chrysler Jeep,"23777 Highway 249, Tomball, TX 77375",30.0273083,-95.6011605
+1C4JJXR66NW229451,"$67,105 ","$67,105 ","$67,105 ",Jeep,Wrangler,2022,Automatic,2 miles,Northwest Chrysler Jeep Dodge,"19616 Northwest Fwy, Houston, TX 77065",29.9121305,-95.6121042
+1C4JJXR65NW205559,"$67,560 ","$67,560 ","$67,560 ",Jeep,Wrangler,2022,8-Speed Automatic,---,Tomball Dodge Chrysler Jeep,"23777 Highway 249, Tomball, TX 77375",30.0273083,-95.6011605
+1C4JJXR61NW152861,"$67,935 ","$67,935 ","$68,381 ",Jeep,Wrangler,2022,8-Speed Automatic,15 miles,Premier CDJR of Lamesa,"1611 Lubbock Hwy, Lamesa, TX 79331",32.7478766,-101.9508105
+1C4JJXR67NW233797,"$68,885 ","$68,885 ","$68,885 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,River Oaks Chrysler Jeep Dodge Ram,"4807 Kirby Drive, Houston, TX 77098",29.7288798,-95.4179281
+1C4JJXP6XNW271396,"$64,480 ","$69,888 ","$69,888 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,Helfman Dodge Chrysler Jeep Ram,"7720 Katy Freeway, Houston, TX 77024",29.7856569,-95.4695896
+1C4JJXR63NW236132,"$70,030 ","$70,030 ","$70,030 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,River Oaks Chrysler Jeep Dodge Ram,"4807 Kirby Drive, Houston, TX 77098",29.7288798,-95.4179281
+1C4JJXR6XNW229453,"$71,195 ","$71,195 ","$71,195 ",Jeep,Wrangler,2022,Automatic,2 miles,Northwest Chrysler Jeep Dodge,"19616 Northwest Fwy, Houston, TX 77065",29.9121305,-95.6121042
+1C4JJXR68NW267084,"$70,935 ","$72,935 ","$72,935 ",Jeep,Wrangler,2022,8-Speed Automatic,5 miles,Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy, Manvel, TX 77578",29.5382955,-95.3853406
+1C4JJXR64NW250458,"$70,970 ","$74,888 ","$74,888 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,Helfman Dodge Chrysler Jeep Ram,"7720 Katy Freeway, Houston, TX 77024",29.7856569,-95.4695896
+1C4JJXR68NW107870,"$70,055 ","$75,888 ","$75,888 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,Helfman Dodge Chrysler Jeep Ram,"7720 Katy Freeway, Houston, TX 77024",29.7856569,-95.4695896
+1C4JJXR65NW158825,"$73,055 ","$77,888 ","$77,888 ",Jeep,Wrangler,2022,8-Speed Automatic Overdrive,0 miles,Helfman Dodge Chrysler Jeep Ram,"7720 Katy Freeway, Houston, TX 77024",29.7856569,-95.4695896
+5TFKB5AA2NX012284,"$38,878 ","$38,878 ","$38,878 ",Toyota,Tundra,2022,Automatic,5 miles,Fred Haas Toyota World,"20400 Interstate 45, Spring, TX 77373",30.0605658,-95.4310959
+5TFKB5AA4NX012271,"$38,878 ","$38,878 ","$38,878 ",Toyota,Tundra,2022,Automatic,5 miles,Fred Haas Toyota World,"20400 Interstate 45, Spring, TX 77373",30.0605658,-95.4310959
+5TFKB5AB8NX011732,"$42,220 ","$42,220 ","$42,220 ",Toyota,Tundra,2022,Automatic,---,Toyota of Katy,"21555 Katy Freeway, Katy, TX 77450",29.7835556,-95.7420479
+5TFKB5DB1NX038833,"$45,101 ","$45,101 ","$45,101 ",Toyota,Tundra,2022,Automatic,---,Mike Calvert Toyota,"2333 South Loop West, Houston, TX 77054",29.6761391,-95.4140206
+5TFKB5DB8NX039381,"$46,719 ","$46,719 ","$46,719 ",Toyota,Tundra,2022,Automatic,7 miles,Fred Haas Toyota Country,"22435 State Highway 249, Houston, TX 77070",30.0067283,-95.5887247
+5TFLA5AA6NX012876,"$47,381 ","$47,381 ","$47,381 ",Toyota,Tundra,2022,Automatic,5 miles,Fred Haas Toyota World,"20400 Interstate 45, Spring, TX 77373",30.0605658,-95.4310959
+5TFLA5AB8NX007963,"$47,976 ","$47,976 ","$47,976 ",Toyota,Tundra,2022,Automatic,5 miles,Fred Haas Toyota World,"20400 Interstate 45, Spring, TX 77373",30.0605658,-95.4310959
+5TFLA5BC3NX001849,"$48,905 ","$48,905 ","$48,905 ",Toyota,Tundra,2022,Automatic,---,Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.4686477
+5TFLA5AB5NX013171,"$48,906 ","$50,401 ","$50,401 ",Toyota,Tundra,2022,Automatic,5 miles,Sterling McCall Toyota Fort Bend,"20465 Southwest Freeway, Richmond, TX 77469",29.5586332,-95.6946978
+5TFLA5AB1NX012082,"$48,957 ","$48,957 ","$48,957 ",Toyota,Tundra,2022,Automatic,---,Toyota of Katy,"21555 Katy Freeway, Katy, TX 77450",29.7835556,-95.7420479
+5TFLA5BC7NX001966,"$48,984 ","$48,984 ","$48,984 ",Toyota,Tundra,2022,Automatic,5 miles,Fred Haas Toyota World,"20400 Interstate 45, Spring, TX 77373",30.0605658,-95.4310959
+5TFLA5AB2NX012852,"$49,036 ","$49,036 ","$49,036 ",Toyota,Tundra,2022,Automatic,5 miles,Fred Haas Toyota World,"20400 Interstate 45, Spring, TX 77373",30.0605658,-95.4310959
+5TFLA5AB3NX111468,"$48,957 ","$48,957 ","$49,194 ",Toyota,Tundra,2022,Automatic,1 miles,Family Toyota of Arlington,"1661 Wet N Wild Way, Arlington, TX 76011",32.7612421,-97.0858991
+5TFLA5BC2NX001972,"$49,409 ","$49,409 ","$49,409 ",Toyota,Tundra,2022,Automatic,5 miles,Fred Haas Toyota World,"20400 Interstate 45, Spring, TX 77373",30.0605658,-95.4310959
+5TFLA5AB0NX011859,"$51,566 ","$53,061 ","$53,061 ",Toyota,Tundra,2022,Automatic,5 miles,Sterling McCall Toyota Fort Bend,"20465 Southwest Freeway, Richmond, TX 77469",29.5586332,-95.6946978
+5TFLA5EC3NX007307,"$51,910 ","$51,910 ","$51,910 ",Toyota,Tundra,2022,Automatic,---,Toyota of Katy,"21555 Katy Freeway, Katy, TX 77450",29.7835556,-95.7420479
+5TFLA5DA3NX035933,"$50,451 ","$51,946 ","$51,946 ",Toyota,Tundra,2022,,5 miles,Sterling Mccall Toyota,"9400 Southwest Freeway, Houston, TX 77074",29.6787228,-95.5395719
+5TFLA5AB8NX012144,"$52,044 ","$52,044 ","$52,044 ",Toyota,Tundra,2022,Automatic,5 miles,Fred Haas Toyota World,"20400 Interstate 45, Spring, TX 77373",30.0605658,-95.4310959
+5TFLA5ABXNX010962,"$52,044 ","$52,044 ","$52,044 ",Toyota,Tundra,2022,Automatic,19 miles,Fred Haas Toyota World,"20400 Interstate 45, Spring, TX 77373",30.0605658,-95.4310959
+5TFLA5DBXNX039387,"$52,471 ","$52,471 ","$52,471 ",Toyota,Tundra,2022,Automatic,5 miles,Fred Haas Toyota World,"20400 Interstate 45, Spring, TX 77373",30.0605658,-95.4310959
+5TFLA5AB1NX011014,"$55,733 ","$55,733 ","$55,733 ",Toyota,Tundra,2022,Automatic,---,Don McGill Toyota of Houston,"11800 Katy Freeway, Houston, TX 77079",29.7871044,-95.5947165
+5TFLA5DB5NX038549,"$56,014 ","$56,014 ","$56,014 ",Toyota,Tundra,2022,Automatic,---,Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.4686477
+5TFLA5DB1NX038189,"$56,114 ","$56,114 ","$56,114 ",Toyota,Tundra,2022,Automatic,---,Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.4686477
+5TFLA5DB1NX041562,"$56,114 ","$56,114 ","$56,114 ",Toyota,Tundra,2022,Automatic,---,Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.4686477
+5TFJA5DB6NX037854,"$57,556 ","$57,556 ","$57,556 ",Toyota,Tundra,2022,Automatic,7 miles,Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.4686477
+5TFJA5DB5NX039949,"$65,378 ","$65,378 ","$65,378 ",Toyota,Tundra,2022,Automatic,---,Toyota of Katy,"21555 Katy Freeway, Katy, TX 77450",29.7835556,-95.7420479
+5TFLA5AB1NX012938,"$58,970 ","$58,970 ","$58,970 ",Toyota,Tundra,2022,Automatic,---,Don McGill Toyota of Houston,"11800 Katy Freeway, Houston, TX 77079",29.7871044,-95.5947165
+5TFJC5AB0NX001141,"$58,640 ","$58,640 ","$59,075 ",Toyota,Tundra,2022,Automatic,0 miles,Toyota of Laredo,"6324 Bob Bullock Loop, Laredo, TX 78041",27.5561385,-99.4501652
+5TFJA5EC3NX008111,"$59,218 ","$60,713 ","$60,713 ",Toyota,Tundra,2022,Automatic,5 miles,Sterling McCall Toyota Fort Bend,"20465 Southwest Freeway, Richmond, TX 77469",29.5586332,-95.6946978
+5TFJC5AB2NX001125,"$59,233 ","$59,233 ","$59,233 ",Toyota,Tundra,2022,Automatic,---,Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.4686477
+5TFJC5DB8NX004686,"$60,242 ","$60,242 ","$60,242 ",Toyota,Tundra,2022,Automatic,---,Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.4686477
+5TFJA5DB5NX014601,"$59,949 ","$59,949 ","$60,384 ",Toyota,Tundra,2022,Automatic,5 miles,"Powell Watson Motors, Inc.","6301 Arena Blvd, Laredo, TX 78041",27.5570758,-99.4491939
+5TFMA5AB2NX006201,"$62,052 ","$62,052 ","$62,052 ",Toyota,Tundra,2022,Automatic,"4,359 miles",Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.4686477
+5TFNA5ABXNX011988,"$62,325 ","$62,325 ","$62,325 ",Toyota,Tundra,2022,Automatic,---,Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.4686477
+5TFLA5ABXNX011111,"$66,645 ","$66,645 ","$66,645 ",Toyota,Tundra,2022,Automatic,---,Don McGill Toyota of Houston,"11800 Katy Freeway, Houston, TX 77079",29.7871044,-95.5947165
+5TFMA5DB1NX036740,"$67,771 ","$67,771 ","$67,771 ",Toyota,Tundra,2022,Automatic,---,Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.4686477
+5TFPC5DB5NX004915,"$68,600 ","$68,600 ","$68,600 ",Toyota,Tundra,2022,Automatic,5 miles,Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.4686477
+5TFMA5DB6NX034823,"$67,253 ","$68,748 ","$68,748 ",Toyota,Tundra,2022,Automatic,10 miles,Sterling McCall Toyota Fort Bend,"20465 Southwest Freeway, Richmond, TX 77469",29.5586332,-95.6946978
+5TFVC5DB5NX002511,"$78,001 ","$78,001 ","$78,001 ",Toyota,Tundra,2022,Automatic,6 miles,Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.4686477
+5TFVC5DB8NX002583,"$78,426 ","$78,426 ","$78,426 ",Toyota,Tundra,2022,Automatic,---,Mike Calvert Toyota,"2333 South Loop West, Houston, TX 77054",29.6761391,-95.4140206
+5TFLA5DB1NX019691,Not Provided,"$78,990 ","$78,990 ",Toyota,Tundra,2022,Automatic,248 miles,Mike Calvert Toyota,"2333 South Loop West, Houston, TX 77054",29.6761391,-95.4140206
