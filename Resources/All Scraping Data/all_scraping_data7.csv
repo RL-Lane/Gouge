@@ -1,9 +1,9 @@
 vin,msrp,dealer's price,price,make,model,year,transmission,mileage,dealer name,dealer address,lat,lng
 1C4JJXR61NW152861,67935,67935,68218,Jeep,Wrangler,2022,8 Speed Automatic,15 miles,Premier CDJR of Lamesa,"1611 Lubbock Hwy Lamesa, TX 79331",32.7478766,-101.9508105
-1C4JJXR64NW108322,69920,69920,69920,Jeep,Wrangler,2022,8 Speed Automatic, ,Shottenkirk Prosper Chrysler Dodge Jeep Ram,"2550 W University Dr Prosper, TX 75078",33.2203892,-96.841397
+1C4JJXR64NW108322,69920,69920,69920,Jeep,Wrangler,2022,8 Speed Automatic,0 miles,Shottenkirk Prosper Chrysler Dodge Jeep Ram,"2550 W University Dr Prosper, TX 75078",33.2203892,-96.841397
 1C4JJXR6XNW108101,68700,68700,68700,Jeep,Wrangler,2022,8 Speed Automatic,3 miles,Pegasus CDJR,"305 South Interstate Highway 45 Ennis, TX 75119",32.3312863,-96.6154653
-1C4JJXR62NW270773,70475,70475,70475,Jeep,Wrangler,2022,8 Speed Automatic, ,Classic Chrysler Dodge Jeep Ram Fiat,"1111 E Interstate 20 Arlington, TX 76018",32.6790785,-97.1147754
-1C4JJXR61NW274197,70870,70870,70870,Jeep,Wrangler,2022,8 Speed Automatic, ,Classic Chrysler Dodge Jeep Ram Fiat,"1111 E Interstate 20 Arlington, TX 76018",32.6790785,-97.1147754
+1C4JJXR62NW270773,70475,70475,70475,Jeep,Wrangler,2022,8 Speed Automatic,0 miles,Classic Chrysler Dodge Jeep Ram Fiat,"1111 E Interstate 20 Arlington, TX 76018",32.6790785,-97.1147754
+1C4JJXR61NW274197,70870,70870,70870,Jeep,Wrangler,2022,8 Speed Automatic,0 miles,Classic Chrysler Dodge Jeep Ram Fiat,"1111 E Interstate 20 Arlington, TX 76018",32.6790785,-97.1147754
 5TFLA5AB9NX008331,47511,47511,47511,Toyota,Tundra,2022,Automatic,5 miles,Pat Lobb Toyota of McKinney,"3350 S Central Expy Mckinney, TX 75070",33.1675378,-96.643936
 5TFLA5BC2NX001986,47892,47892,47892,Toyota,Tundra,2022,Automatic,6 miles,Shottenkirk Toyota Weatherford,"3131 Fort Worth Hwy Weatherford, TX 76087",32.7582312,-97.7007613
 5TFLA5AB3NX111468,48957,48957,48957,Toyota,Tundra,2022,Automatic,1 miles,Family Toyota of Arlington,"1661 Wet N Wild Way Arlington, TX 76011",32.7612421,-97.0858991
@@ -27,28 +27,28 @@ vin,msrp,dealer's price,price,make,model,year,transmission,mileage,dealer name,d
 5TFMA5DB1NX040884,67652,68768,68768,Toyota,Tundra,2022,Automatic,0 miles,Texas Toyota of Grapevine,"701 E State Highway 114 Grapevine, TX 76092",32.9528879,-97.1366186
 5TFVC5DB1NX003705,77922,77922,77922,Toyota,Tundra,2022,Automatic,6 miles,Shottenkirk Toyota Weatherford,"3131 Fort Worth Hwy Weatherford, TX 76087",32.7582312,-97.7007613
 5TFVC5DB7NX003594,78347,78347,78347,Toyota,Tundra,2022,Automatic,5 miles,Lone Star Toyota of Lewisville,"1547 S. Stemmons Frwy. Lewisville, TX 75067",33.0215012,-96.9871311
-1FMEE5DP8NLB35076,Not Provided,32020,32225,Ford,Bronco,2022,Automatic,0 miles,DeMontrond Ford,"3944 US 59 S Cleveland, TX 77328",30.2823488,-95.1302179
-1FMDE5BH9NLB12171,Not Provided,40470,40675,Ford,Bronco,2022,8 Speed Automatic,0 miles,DeMontrond Ford,"3944 US 59 S Cleveland, TX 77328",30.2823488,-95.1302179
-1FMDE5BH9NLB13062,Not Provided,42015,42220,Ford,Bronco,2022,8 Speed Automatic,0 miles,DeMontrond Ford,"3944 US 59 S Cleveland, TX 77328",30.2823488,-95.1302179
-1FMDE5CP1NLB31612,Not Provided,44495,44700,Ford,Bronco,2022,8 Speed Automatic,0 miles,DeMontrond Ford,"3944 US 59 S Cleveland, TX 77328",30.2823488,-95.1302179
+1FMEE5DP8NLB35076,32020,32020,32225,Ford,Bronco,2022,Automatic,0 miles,DeMontrond Ford,"3944 US 59 S Cleveland, TX 77328",30.2823488,-95.1302179
+1FMDE5BH9NLB12171,40470,40470,40675,Ford,Bronco,2022,8 Speed Automatic,0 miles,DeMontrond Ford,"3944 US 59 S Cleveland, TX 77328",30.2823488,-95.1302179
+1FMDE5BH9NLB13062,42015,42015,42220,Ford,Bronco,2022,8 Speed Automatic,0 miles,DeMontrond Ford,"3944 US 59 S Cleveland, TX 77328",30.2823488,-95.1302179
+1FMDE5CP1NLB31612,44495,44495,44700,Ford,Bronco,2022,8 Speed Automatic,0 miles,DeMontrond Ford,"3944 US 59 S Cleveland, TX 77328",30.2823488,-95.1302179
 1FMDE5BH2NLB33377,46520,46520,46520,Ford,Bronco,2022,8 Speed Automatic,10 miles,Griffith Ford San Marcos,"2661 N Interstate 35 San Marcos, TX 78666",29.9003779,-97.9061361
 1FMDE5BH4NLA82318,52955,62955,63162,Ford,Bronco,2022,8 Speed Automatic,10 miles,"J.O. Williams Motors, Inc.","419 E Broadway Ave. Gladewater, TX 75647",32.5356344,-94.9403472
 1FMEE5DP6NLB31740,54270,54270,54270,Ford,Bronco,2022,Automatic,10 miles,Griffith Ford San Marcos,"2661 N Interstate 35 San Marcos, TX 78666",29.9003779,-97.9061361
 1FMEE5DP4NLB25337,54920,54920,54920,Ford,Bronco,2022,Automatic,10 miles,Griffith Ford San Marcos,"2661 N Interstate 35 San Marcos, TX 78666",29.9003779,-97.9061361
 1FMEE5DP3NLB09887,55725,55725,55725,Ford,Bronco,2022,Automatic,10 miles,Griffith Ford San Marcos,"2661 N Interstate 35 San Marcos, TX 78666",29.9003779,-97.9061361
-1FMEE5DP4NLB30943,Not Provided,56590,56795,Ford,Bronco,2022,Automatic,3 miles,DeMontrond Ford,"3944 US 59 S Cleveland, TX 77328",30.2823488,-95.1302179
+1FMEE5DP4NLB30943,56590,56590,56795,Ford,Bronco,2022,Automatic,3 miles,DeMontrond Ford,"3944 US 59 S Cleveland, TX 77328",30.2823488,-95.1302179
 1FMEE5DP0NLA73236,57235,57235,57235,Ford,Bronco,2022,Automatic,0 miles,Chaparral Ford Inc.,"102 County Road 773 Devine, TX 78016",29.1484967,-98.8758245
-1FMDE5BH2NLA83712,Not Provided,57590,57590,Ford,Bronco,2022,Automatic,269 miles,Carvana,"102 County Road 773 Devine, TX 78016",29.1484967,-98.8758245
+1FMDE5BH2NLA83712,57590,57590,57590,Ford,Bronco,2022,Automatic,269 miles,Carvana,"102 County Road 773 Devine, TX 78016",29.1484967,-98.8758245
 1FMEE5DP1NLB31435,63245,63245,63245,Ford,Bronco,2022,Automatic,10 miles,Griffith Ford San Marcos,"2661 N Interstate 35 San Marcos, TX 78666",29.9003779,-97.9061361
 1FMEE5DP3NLB32912,64185,64185,64185,Ford,Bronco,2022,Automatic,10 miles,Griffith Ford San Marcos,"2661 N Interstate 35 San Marcos, TX 78666",29.9003779,-97.9061361
-1FMEE5DP0NLA79277,Not Provided,68990,68990,Ford,Bronco,2022,Automatic,58 miles,Carvana,"2661 N Interstate 35 San Marcos, TX 78666",29.9003779,-97.9061361
-3FTTW8F98NRA45047,Not Provided,41990,41990,Ford,Maverick,2022,Automatic,193 miles,Carvana,"31480 IH 10 west Boerne, TX 78006",29.7552302,-98.7024799
-3FTTW8F99NRA41511,Not Provided,42990,42990,Ford,Maverick,2022,Automatic,229 miles,Carvana,"31480 IH 10 west Boerne, TX 78006",29.7552302,-98.7024799
-3FTTW8F98NRA53665,Not Provided,43590,43590,Ford,Maverick,2022,Automatic,58 miles,Carvana,"31480 IH 10 west Boerne, TX 78006",29.7552302,-98.7024799
+1FMEE5DP0NLA79277,68990,68990,68990,Ford,Bronco,2022,Automatic,58 miles,Carvana,"2661 N Interstate 35 San Marcos, TX 78666",29.9003779,-97.9061361
+3FTTW8F98NRA45047,41990,41990,41990,Ford,Maverick,2022,Automatic,193 miles,Carvana,"31480 IH 10 west Boerne, TX 78006",29.7552302,-98.7024799
+3FTTW8F99NRA41511,42990,42990,42990,Ford,Maverick,2022,Automatic,229 miles,Carvana,"31480 IH 10 west Boerne, TX 78006",29.7552302,-98.7024799
+3FTTW8F98NRA53665,43590,43590,43590,Ford,Maverick,2022,Automatic,58 miles,Carvana,"31480 IH 10 west Boerne, TX 78006",29.7552302,-98.7024799
 1GT40FDA3NU100794,112839,112839,112839,General Motors,Hummer,2022,Automatic,13 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D Houston, TX 77074",29.6681773,-95.5518088
 1GT40FDA6NU100305,114590,114590,114590,General Motors,Hummer,2022,Automatic,11 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D Houston, TX 77074",29.6681773,-95.5518088
 1GT40FDAXNU100517,115139,115139,115139,General Motors,Hummer,2022,Automatic,0 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D Houston, TX 77074",29.6681773,-95.5518088
-1GT40FDA3NU100729,Not Provided,115139,115139,General Motors,Hummer,2022,Automatic,3 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D Houston, TX 77074",29.6681773,-95.5518088
+1GT40FDA3NU100729,115139,115139,115139,General Motors,Hummer,2022,Automatic,3 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D Houston, TX 77074",29.6681773,-95.5518088
 1GT40FDA1NU100552,115139,115139,115139,General Motors,Hummer,2022,Automatic,11 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D Houston, TX 77074",29.6681773,-95.5518088
 1GT40FDA4NU100674,115139,115139,115139,General Motors,Hummer,2022,Automatic,11 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D Houston, TX 77074",29.6681773,-95.5518088
 1GT40FDA4NU100688,115139,115139,115139,General Motors,Hummer,2022,Automatic,13 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D Houston, TX 77074",29.6681773,-95.5518088
@@ -61,7 +61,7 @@ vin,msrp,dealer's price,price,make,model,year,transmission,mileage,dealer name,d
 3GNKBCR47NS203520,37855,37855,37855,General Motors,Blazer,2022,8 Speed Automatic,5 miles,Cavender Chevrolet,"30700 Interstate 10 - West Boerne, TX 78006",29.7476019,-98.6952709
 3GNKBFRS5NS189150,43040,42141,42386,General Motors,Blazer,2022,8 Speed Automatic,2 miles,Westside Chevrolet,"23001 Katy Fwy Katy, TX 77450",29.7836894,-95.7689096
 3GNKBERS4NS145909,44980,43442,43706,General Motors,Blazer,2022,8 Speed Automatic,2 miles,Classic Chevrolet of Houston,"7000 Southwest Fwy Houston, TX 77074",29.7102127,-95.5097388
-3GNKBJRS1NS124962,Not Provided,44990,44990,General Motors,Blazer,2022,8 Speed Automatic,271 miles,Carvana,"7000 Southwest Fwy Houston, TX 77074",29.7102127,-95.5097388
+3GNKBJRS1NS124962,44990,44990,44990,General Motors,Blazer,2022,8 Speed Automatic,271 miles,Carvana,"7000 Southwest Fwy Houston, TX 77074",29.7102127,-95.5097388
 3GNKBERS2NS200339,46885,46885,46885,General Motors,Blazer,2022,Automatic,5 miles,Four Stars Auto Ranch Chevrolet Buick,"262 US HWY 287 S Henrietta, TX 76365",33.7977697,-98.1944308
 3GNKBERS8NS195163,46015,46015,46015,General Motors,Blazer,2022,Automatic,5 miles,Cavender Chevrolet,"30700 Interstate 10 - West Boerne, TX 78006",29.7476019,-98.6952709
 3GNKBERSXNS195987,46370,46370,46370,General Motors,Blazer,2022,Automatic,10 miles,Cavender Chevrolet,"30700 Interstate 10 - West Boerne, TX 78006",29.7476019,-98.6952709
@@ -73,7 +73,7 @@ vin,msrp,dealer's price,price,make,model,year,transmission,mileage,dealer name,d
 1C4HJXAG9NW180572,38560,38560,38560,Jeep,Wrangler,2022,Automatic,11 miles,San Marcos Chrysler Dodge,"2990 I-35 S San Marcos, TX 78666",29.8413264,-97.9724411
 1C4HJXAG3NW194869,38660,38660,38968,Jeep,Wrangler,2022,Automatic,15 miles,Premier CDJR of Lamesa,"1611 Lubbock Hwy Lamesa, TX 79331",32.7478766,-101.9508105
 1C4HJXAG9NW272555,39370,39370,39370,Jeep,Wrangler,2022,Automatic,0 miles,San Marcos Chrysler Dodge,"2990 I-35 S San Marcos, TX 78666",29.8413264,-97.9724411
-1C4GJXAG4MW759639,Not Provided,39590,39590,Jeep,Wrangler,2022,Automatic,273 miles,Carvana,"2990 I-35 S San Marcos, TX 78666",29.8413264,-97.9724411
+1C4GJXAG4MW759639,39590,39590,39590,Jeep,Wrangler,2022,Automatic,273 miles,Carvana,"2990 I-35 S San Marcos, TX 78666",29.8413264,-97.9724411
 1C4HJXAG7NW262882,39575,39575,39719,Jeep,Wrangler,2022,Automatic,0 miles,Neessen Chrysler Dodge Jeep Ram,"2151 N US Highway 77 Byp Kingsville, TX 78363",27.5371885,-97.835223
 1C4GJXAN4NW175564,41330,40561,40561,Jeep,Wrangler,2022,Automatic,11 miles,Nyle Maxwell CDJR of Castroville,"1950 US Highway 90 E Castroville, TX 78009",29.3545562,-98.8454975
 1C4GJXANXNW175567,41330,40716,40716,Jeep,Wrangler,2022,Automatic,29 miles,Nyle Maxwell CDJR of Castroville,"1950 US Highway 90 E Castroville, TX 78009",29.3545562,-98.8454975
@@ -101,10 +101,10 @@ vin,msrp,dealer's price,price,make,model,year,transmission,mileage,dealer name,d
 1C4HJXDNXNW253569,45225,42125,42125,Jeep,Wrangler,2022,Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
 1C4HJXDN8NW242280,42980,42980,43379,Jeep,Wrangler,2022,Automatic,0 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
 1C4HJXDG9NW226056,43480,43480,43879,Jeep,Wrangler,2022,Automatic,0 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
-1C4HJXDG1NW225029,43920,43920,43920,Jeep,Wrangler,2022,Automatic, ,Boerne Dodge Chrysler Jeep Ram,"30300 I-10 West Boerne, TX 78006",29.744395,-98.6910634
+1C4HJXDG1NW225029,43920,43920,43920,Jeep,Wrangler,2022,Automatic,0 miles,Boerne Dodge Chrysler Jeep Ram,"30300 I-10 West Boerne, TX 78006",29.744395,-98.6910634
 1C4HJXDG6NW224829,44880,44880,45279,Jeep,Wrangler,2022,Automatic,0 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
 1C4HJXDG9NW181815,46150,45650,45650,Jeep,Wrangler,2022,Automatic,11 miles,Nyle Maxwell CDJR of Castroville,"1950 US Highway 90 E Castroville, TX 78009",29.3545562,-98.8454975
-1C4HJXDNXMW815680,Not Provided,45835,45835,Jeep,Wrangler,2022,Automatic,8 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
+1C4HJXDNXMW815680,45835,45835,45835,Jeep,Wrangler,2022,Automatic,8 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
 1C4HJXDG2NW181817,46545,46045,46045,Jeep,Wrangler,2022,Automatic,11 miles,Nyle Maxwell CDJR of Castroville,"1950 US Highway 90 E Castroville, TX 78009",29.3545562,-98.8454975
 1C4HJXDNXNW201424,45820,45820,46219,Jeep,Wrangler,2022,Automatic,0 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
 1C4HJXDM8NW231982,49875,46775,46775,Jeep,Wrangler,2022,Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
@@ -137,7 +137,7 @@ vin,msrp,dealer's price,price,make,model,year,transmission,mileage,dealer name,d
 1C4HJXFN2NW248234,56940,53616,53616,Jeep,Wrangler,2022,Automatic,1 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy Houston, TX 77079",29.78321,-95.5993955
 1C4HJXDG8NW204095,54250,54250,54649,Jeep,Wrangler,2022,Automatic,10 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
 1C4HJXEN8NW252760,54510,54510,54909,Jeep,Wrangler,2022,Automatic,0 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
-1C4HJXFN6NW252125,55665,55665,55665,Jeep,Wrangler,2022,Automatic, ,Boerne Dodge Chrysler Jeep Ram,"30300 I-10 West Boerne, TX 78006",29.744395,-98.6910634
+1C4HJXFN6NW252125,55665,55665,55665,Jeep,Wrangler,2022,Automatic,0 miles,Boerne Dodge Chrysler Jeep Ram,"30300 I-10 West Boerne, TX 78006",29.744395,-98.6910634
 1C4HJXDGXNW203658,55365,55365,55764,Jeep,Wrangler,2022,Automatic,0 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
 1C4HJXDG8NW203657,55760,55760,56159,Jeep,Wrangler,2022,Automatic,0 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
 1C4HJXEN0NW208154,56575,56575,56974,Jeep,Wrangler,2022,Automatic,4 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121 Frisco, TX 75035",33.1009626,-96.7998519
@@ -177,11 +177,11 @@ vin,msrp,dealer's price,price,make,model,year,transmission,mileage,dealer name,d
 1C4JJXP63NW264533,64190,64190,64190,Jeep,Wrangler,2022,8 Speed Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
 1C4JJXR61NW152861,67935,67935,68243,Jeep,Wrangler,2022,8 Speed Automatic,15 miles,Premier CDJR of Lamesa,"1611 Lubbock Hwy Lamesa, TX 79331",32.7478766,-101.9508105
 1C4JJXR62NW222268,69685,69685,69685,Jeep,Wrangler,2022,8 Speed Automatic,0 miles,San Antonio Dodge Chrysler Jeep Ram,"11910 N Ih 35 San Antonio, TX 78233",29.5474868,-98.3631077
-5TFLA5AB4NX012657,Not Provided,47723,47723,Toyota,Tundra,2022,8 Speed Automatic, ,Toyota of Boerne,"31205 I-10 W Boerne, TX 78006",29.7506876,-98.7026131
-5TFLA5AB8NX011303,Not Provided,49039,49039,Toyota,Tundra,2022,Automatic, ,Toyota of Boerne,"31205 I-10 W Boerne, TX 78006",29.7506876,-98.7026131
+5TFLA5AB4NX012657,47723,47723,47723,Toyota,Tundra,2022,8 Speed Automatic,0 miles,Toyota of Boerne,"31205 I-10 W Boerne, TX 78006",29.7506876,-98.7026131
+5TFLA5AB8NX011303,49039,49039,49039,Toyota,Tundra,2022,Automatic,0 miles,Toyota of Boerne,"31205 I-10 W Boerne, TX 78006",29.7506876,-98.7026131
 5TFLA5AB3NX111468,48957,48957,49198,Toyota,Tundra,2022,Automatic,1 miles,Family Toyota of Arlington,"1661 Wet N Wild Way Arlington, TX 76011",32.7612421,-97.0858991
 5TFLA5AB1NX012499,49970,49970,49970,Toyota,Tundra,2022,Automatic,10 miles,North Park Toyota of San Antonio,"10703 S.W. Loop 410 San Antonio, TX 78211",29.3156659,-98.6122131
-5TFLA5DB5NX038535,Not Provided,50453,50453,Toyota,Tundra,2022,Automatic, ,Toyota of Boerne,"31205 I-10 W, Boerne, TX 78006",29.7506876,-98.7026131
+5TFLA5DB5NX038535,50453,50453,50453,Toyota,Tundra,2022,Automatic,0 miles,Toyota of Boerne,"31205 I-10 W, Boerne, TX 78006",29.7506876,-98.7026131
 5TFJA5AB4NX010771,54796,54796,54796,Toyota,Tundra,2022,Automatic,0 miles,Alamo Toyota,"18019 US 281 North, San Antonio, TX 78232",29.2450108,-98.4740466
 5TFLA5DB3NX040445,55317,55317,55317,Toyota,Tundra,2022,Automatic,10 miles,North Park Toyota of San Antonio,"10703 S.W. Loop 410, San Antonio, TX 78211",29.3156659,-98.6122131
 5TFJC5BC7NX001029,58469,58469,58469,Toyota,Tundra,2022,Automatic,0 miles,Alamo Toyota,"18019 US 281 North, San Antonio, TX 78232",29.2450108,-98.4740466
@@ -189,10 +189,10 @@ vin,msrp,dealer's price,price,make,model,year,transmission,mileage,dealer name,d
 5TFJA5DB5NX014601,59949,59949,60168,Toyota,Tundra,2022,Automatic,5 miles,"Powell Watson Motors, Inc.","6301 Arena Blvd, Laredo, TX 78041",27.5570758,-99.4491939
 5TFNA5DB3NX039174,65187,65187,65187,Toyota,Tundra,2022,Automatic,0 miles,Alamo Toyota,"18019 US 281 North, San Antonio, TX 78232",29.2450108,-98.4740466
 5TFPC5DB4NX004081,70377,70377,70377,Toyota,Tundra,2022,Automatic,0 miles,Alamo Toyota,"18019 US 281 North, San Antonio, TX 78232",29.2450108,-98.4740466
-1FMEE5DP8NLB35076,Not Provided,32020,32174,Ford,Bronco,2022,Automatic,0 miles,DeMontrond Ford,"3944 US 59 S, Cleveland, TX 77328",30.2823488,-95.1302179
-1FMDE5BH9NLB12171,Not Provided,40470,40624,Ford,Bronco,2022,Automatic,0 miles,DeMontrond Ford,"3944 US 59 S, Cleveland, TX 77328",30.2823488,-95.1302179
-1FMDE5BH9NLB13062,Not Provided,42015,42169,Ford,Bronco,2022,Automatic,0 miles,DeMontrond Ford,"3944 US 59 S, Cleveland, TX 77328",30.2823488,-95.1302179
-1FMDE5CP1NLB31612,Not Provided,44495,44649,Ford,Bronco,2022,Automatic,0 miles,DeMontrond Ford,"3944 US 59 S, Cleveland, TX 77328",30.2823488,-95.1302179
+1FMEE5DP8NLB35076,32020,32020,32174,Ford,Bronco,2022,Automatic,0 miles,DeMontrond Ford,"3944 US 59 S, Cleveland, TX 77328",30.2823488,-95.1302179
+1FMDE5BH9NLB12171,40470,40470,40624,Ford,Bronco,2022,Automatic,0 miles,DeMontrond Ford,"3944 US 59 S, Cleveland, TX 77328",30.2823488,-95.1302179
+1FMDE5BH9NLB13062,42015,42015,42169,Ford,Bronco,2022,Automatic,0 miles,DeMontrond Ford,"3944 US 59 S, Cleveland, TX 77328",30.2823488,-95.1302179
+1FMDE5CP1NLB31612,44495,44495,44649,Ford,Bronco,2022,Automatic,0 miles,DeMontrond Ford,"3944 US 59 S, Cleveland, TX 77328",30.2823488,-95.1302179
 1FMDE5BH6NLB45077,45465,45465,45465,Ford,Bronco,2022,Automatic,8 miles,Maxwell Ford,"5000 South IH-35, Austin, TX 78745",30.2053831,-97.7607699
 1FMDE5BH2NLB33377,46520,46520,46520,Ford,Bronco,2022,Automatic,10 miles,Griffith Ford San Marcos,"2661 N Interstate 35, San Marcos, TX 78666",29.9003779,-97.9061361
 1FMDE5BH8NLB45095,46775,46775,46775,Ford,Bronco,2022,Automatic,8 miles,Maxwell Ford,"5000 South IH-35, Austin, TX 78745",30.2053831,-97.7607699
@@ -203,21 +203,21 @@ vin,msrp,dealer's price,price,make,model,year,transmission,mileage,dealer name,d
 1FMEE5DP6NLB31740,54270,54270,54270,Ford,Bronco,2022,Automatic,10 miles,Griffith Ford San Marcos,"2661 N Interstate 35, San Marcos, TX 78666",29.9003779,-97.9061361
 1FMEE5DP4NLB25337,54920,54920,54920,Ford,Bronco,2022,Automatic,10 miles,Griffith Ford San Marcos,"2661 N Interstate 35, San Marcos, TX 78666",29.9003779,-97.9061361
 1FMEE5DP3NLB09887,55725,55725,55725,Ford,Bronco,2022,8 Speed Automatic,10 miles,Griffith Ford San Marcos,"2661 N Interstate 35, San Marcos, TX 78666",29.9003779,-97.9061361
-1FMEE5DP4NLB30943,Not Provided,56590,56744,Ford,Bronco,2022,8 Speed Automatic,3 miles,DeMontrond Ford,"3944 US 59 S, Cleveland, TX 77328",30.2823488,-95.1302179
-1FMDE5BH2NLA83712,Not Provided,57590,57590,Ford,Bronco,2022,8 Speed Automatic,269 miles,Carvana,"3944 US 59 S, Cleveland, TX 77328",30.2823488,-95.1302179
+1FMEE5DP4NLB30943,56590,56590,56744,Ford,Bronco,2022,8 Speed Automatic,3 miles,DeMontrond Ford,"3944 US 59 S, Cleveland, TX 77328",30.2823488,-95.1302179
+1FMDE5BH2NLA83712,57590,57590,57590,Ford,Bronco,2022,8 Speed Automatic,269 miles,Carvana,"3944 US 59 S, Cleveland, TX 77328",30.2823488,-95.1302179
 1FMEE5DP1NLB31435,63245,63245,63245,Ford,Bronco,2022,8 Speed Automatic,10 miles,Griffith Ford San Marcos,"2661 N Interstate 35, San Marcos, TX 78666",29.9003779,-97.9061361
 1FMEE5DP3NLB32912,64185,64185,64185,Ford,Bronco,2022,8 Speed Automatic,10 miles,Griffith Ford San Marcos,"2661 N Interstate 35, San Marcos, TX 78666",29.9003779,-97.9061361
-1FMEE5DP0NLA79277,Not Provided,68990,68990,Ford,Bronco,2022,Automatic,58 miles,Carvana,"2661 N Interstate 35, San Marcos, TX 78666",29.9003779,-97.9061361
-1FMEE5DP2MLA90053,Not Provided,58674,58674,Ford,Bronco,2022,Automatic,"7,707 miles",Maxwell Ford,"5000 South IH-35, Austin, TX 78745",30.2053831,-97.7607699
+1FMEE5DP0NLA79277,68990,68990,68990,Ford,Bronco,2022,Automatic,58 miles,Carvana,"2661 N Interstate 35, San Marcos, TX 78666",29.9003779,-97.9061361
+1FMEE5DP2MLA90053,58674,58674,58674,Ford,Bronco,2022,Automatic,"7,707 miles",Maxwell Ford,"5000 South IH-35, Austin, TX 78745",30.2053831,-97.7607699
 3FTTW8F96NRA66348,31855,31855,31855,Ford,Maverick,2022,Automatic,10 miles,Maxwell Ford,"5000 South IH-35, Austin, TX 78745",30.2053831,-97.7607699
 3FTTW8F96NRA78323,31855,31855,32284,Ford,Maverick,2022,Automatic,0 miles,Vernon Ford,"2803 Wilbarger St, Vernon, TX 76384",34.1520803,-99.2956248
-3FTTW8F98NRA45047,Not Provided,41990,41990,Ford,Maverick,2022,Automatic,193 miles,Carvana,"2803 Wilbarger St, Vernon, TX 76384",34.1520803,-99.2956248
-3FTTW8F99NRA41511,Not Provided,42990,42990,Ford,Maverick,2022,Automatic,229 miles,Carvana,"2803 Wilbarger St, Vernon, TX 76384",34.1520803,-99.2956248
-3FTTW8F98NRA53665,Not Provided,43590,43590,Ford,Maverick,2022,Automatic,58 miles,Carvana,"2803 Wilbarger St, Vernon, TX 76384",34.1520803,-99.2956248
+3FTTW8F98NRA45047,41990,41990,41990,Ford,Maverick,2022,Automatic,193 miles,Carvana,"2803 Wilbarger St, Vernon, TX 76384",34.1520803,-99.2956248
+3FTTW8F99NRA41511,42990,42990,42990,Ford,Maverick,2022,Automatic,229 miles,Carvana,"2803 Wilbarger St, Vernon, TX 76384",34.1520803,-99.2956248
+3FTTW8F98NRA53665,43590,43590,43590,Ford,Maverick,2022,Automatic,58 miles,Carvana,"2803 Wilbarger St, Vernon, TX 76384",34.1520803,-99.2956248
 1GT40FDA3NU100794,112839,112839,112839,General Motors,Hummer,2022,Automatic,13 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D, Houston, TX 77074",29.6681773,-95.5518088
 1GT40FDA6NU100305,114590,114590,114590,General Motors,Hummer,2022,Automatic,11 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D, Houston, TX 77074",29.6681773,-95.5518088
 1GT40FDAXNU100517,115139,115139,115139,General Motors,Hummer,2022,Automatic,0 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D, Houston, TX 77074",29.6681773,-95.5518088
-1GT40FDA3NU100729,Not Provided,115139,115139,General Motors,Hummer,2022,Automatic,3 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D, Houston, TX 77074",29.6681773,-95.5518088
+1GT40FDA3NU100729,115139,115139,115139,General Motors,Hummer,2022,Automatic,3 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D, Houston, TX 77074",29.6681773,-95.5518088
 1GT40FDA1NU100552,115139,115139,115139,General Motors,Hummer,2022,Automatic,11 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D, Houston, TX 77074",29.6681773,-95.5518088
 1GT40FDA4NU100674,115139,115139,115139,General Motors,Hummer,2022,Automatic,11 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D, Houston, TX 77074",29.6681773,-95.5518088
 1GT40FDA4NU100688,115139,115139,115139,General Motors,Hummer,2022,Automatic,13 miles,Sterling McCall Buick GMC,"10422 Southwest Fwy Building D, Houston, TX 77074",29.6681773,-95.5518088
@@ -228,7 +228,7 @@ vin,msrp,dealer's price,price,make,model,year,transmission,mileage,dealer name,d
 3GNKBFRS5NS189150,43040,42141,42330,General Motors,Blazer,2022,Automatic,2 miles,Westside Chevrolet,"23001 Katy Fwy, Katy, TX 77450",29.7836894,-95.7689096
 3GNKBERS4NS145909,44980,43442,43652,General Motors,Blazer,2022,Automatic,2 miles,Classic Chevrolet of Houston,"7000 Southwest Fwy, Houston, TX 77074",29.7102127,-95.5097388
 3GNKBERSXNS185184,45605,44355,44355,General Motors,Blazer,2022,Automatic,0 miles,Capitol Chevrolet,"6200 S I H 35, Austin, TX 78745",30.1941831,-97.7690481
-3GNKBJRS1NS124962,Not Provided,44990,44990,General Motors,Blazer,2022,Automatic,271 miles,Carvana,"6200 S I H 35, Austin, TX 78745",30.1941831,-97.7690481
+3GNKBJRS1NS124962,44990,44990,44990,General Motors,Blazer,2022,Automatic,271 miles,Carvana,"6200 S I H 35, Austin, TX 78745",30.1941831,-97.7690481
 3GNKBERS2NS200339,46885,46885,46885,General Motors,Blazer,2022,Automatic,5 miles,Four Stars Auto Ranch Chevrolet Buick,"262 US HWY 287 S, Henrietta, TX 76365",33.7977697,-98.1944308
 3GNKBERS4NS143769,44870,47169,47465,General Motors,Blazer,2022,Automatic,7 miles,Coleman Chevrolet,"510 Addison St, New Boston, TX 75570",33.4760884,-94.4113771
 3GNKBERS2NS203029,47670,47670,47670,General Motors,Blazer,2022,8 Speed Automatic,2 miles,El Dorado Chevrolet,"2300 North Central Expressway, Mckinney, TX 75070",33.2265094,-96.6314957
@@ -243,7 +243,7 @@ vin,msrp,dealer's price,price,make,model,year,transmission,mileage,dealer name,d
 1C4HJXAG3NW194869,38660,38660,38962,Jeep,Wrangler,2022,Automatic,15 miles,Premier CDJR of Lamesa,"1611 Lubbock Hwy, Lamesa, TX 79331",32.7478766,-101.9508105
 1C4HJXAG1NW235113,39200,39200,39200,Jeep,Wrangler,2022,Automatic,10 miles,Nyle Maxwell CDJR Austin,"13817 U.S. 183, Austin, TX 78750",30.4654634,-97.7943555
 1C4HJXAG9NW272555,39370,39370,39370,Jeep,Wrangler,2022,Automatic,0 miles,San Marcos Chrysler Dodge,"2990 I-35 S, San Marcos, TX 78666",29.8413264,-97.9724411
-1C4GJXAG4MW759639,Not Provided,39590,39590,Jeep,Wrangler,2022,Automatic,273 miles,Carvana,"2990 I-35 S, San Marcos, TX 78666",29.8413264,-97.9724411
+1C4GJXAG4MW759639,39590,39590,39590,Jeep,Wrangler,2022,Automatic,273 miles,Carvana,"2990 I-35 S, San Marcos, TX 78666",29.8413264,-97.9724411
 1C4GJXAG7NW211622,39685,39685,39685,Jeep,Wrangler,2022,Automatic,10 miles,Nyle Maxwell CDJR Austin,"13817 U.S. 183, Austin, TX 78750",30.4654634,-97.7943555
 1C4HJXAG7NW262882,39575,39575,39768,Jeep,Wrangler,2022,Automatic,0 miles,Neessen Chrysler Dodge Jeep Ram,"2151 N US Highway 77 Byp, Kingsville, TX 78363",27.5371885,-97.835223
 1C4HJXAG1NW196006,40620,40620,40620,Jeep,Wrangler,2022,Automatic,0 miles,Sames Bastrop CDJ,"1586 Hwy 71 West, Cedar Creek, TX 78612",30.1258939,-97.4366989
@@ -267,10 +267,10 @@ vin,msrp,dealer's price,price,make,model,year,transmission,mileage,dealer name,d
 1C4HJXCN7NW225729,47550,47550,47550,Jeep,Wrangler,2022,8 Speed Automatic,7 miles,Covert Chrysler Dodge Jeep Ram-Austin,"8107 Research Blvd, Austin, TX 78758",30.3522474,-97.7135395
 1C4HJXCN5NW225728,47945,47945,47945,Jeep,Wrangler,2022,Automatic,7 miles,Covert Chrysler Dodge Jeep Ram-Austin,"8107 Research Blvd, Austin, TX 78758",30.3522474,-97.7135395
 1C4HJXCG7NW225733,50190,50190,50190,Jeep,Wrangler,2022,Automatic,7 miles,Covert Chrysler Dodge Jeep Ram-Austin,"8107 Research Blvd, Austin, TX 78758",30.3522474,-97.7135395
-1C4GJXAG5NW259605,50525,50525,50525,Jeep,Wrangler,2022,Automatic, ,South Point Dodge Chrysler Jeep,"5210 IH-35 South, Austin, TX 78745",30.2039191,-97.7612793
+1C4GJXAG5NW259605,50525,50525,50525,Jeep,Wrangler,2022,Automatic,0 miles,South Point Dodge Chrysler Jeep,"5210 IH-35 South, Austin, TX 78745",30.2039191,-97.7612793
 1C4HJXCN0NW196137,50535,50535,50934,Jeep,Wrangler,2022,Automatic,0 miles,Frisco Chrysler Dodge Jeep Ram,"9640 State Highway 121, Frisco, TX 75035",33.1009626,-96.7998519
 1C4HJXCG4NW180850,50990,50990,51292,Jeep,Wrangler,2022,Automatic,15 miles,Premier CDJR of Lamesa,"1611 Lubbock Hwy, Lamesa, TX 79331",32.7478766,-101.9508105
-1C4HJXCN0NW196011,58305,58305,58305,Jeep,Wrangler,2022,Automatic, ,South Point Dodge Chrysler Jeep,"5210 IH-35 South, Austin, TX 78745",30.2039191,-97.7612793
+1C4HJXCN0NW196011,58305,58305,58305,Jeep,Wrangler,2022,Automatic,0 miles,South Point Dodge Chrysler Jeep,"5210 IH-35 South, Austin, TX 78745",30.2039191,-97.7612793
 1C4HJXDG9NW120514,51870,51870,51870,Jeep,Wrangler,2022,Automatic,7 miles,Covert Chrysler Dodge Jeep Ram-Austin,"8107 Research Blvd, Austin, TX 78758",30.3522474,-97.7135395
 1C4HJXDN2NW231419,39565,36465,36465,Jeep,Wrangler,2022,Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy, Houston, TX 77079",29.78321,-95.5993955
 1C4HJXDN9NW231417,39565,36465,36465,Jeep,Wrangler,2022,Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy, Houston, TX 77079",29.78321,-95.5993955
@@ -291,17 +291,17 @@ vin,msrp,dealer's price,price,make,model,year,transmission,mileage,dealer name,d
 1C4JJXP65NW197997,59380,57880,57880,Jeep,Wrangler,2022,Automatic,0 miles,Texan Chrysler Dodge Jeep Ram,"18555 Highway 59 North, Humble, TX 77338",29.986783,-95.2771782
 1C4JJXP66NW227976,59475,57975,57975,Jeep,Wrangler,2022,8 Speed Automatic,0 miles,Texan Chrysler Dodge Jeep Ram,"18555 Highway 59 North, Humble, TX 77338",29.986783,-95.2771782
 1C4JJXP62NW227974,59475,57975,57975,Jeep,Wrangler,2022,8 Speed Automatic,0 miles,Texan Chrysler Dodge Jeep Ram,"18555 Highway 59 North, Humble, TX 77338",29.986783,-95.2771782
-1C4JJXP65NW114696,Not Provided,58230,58230,Jeep,Wrangler,2022,8 Speed Automatic,10 miles,Ron Carter Chrysler Jeep Dodge of League City,"3535 Gulf Freeway South, Dickinson, TX 77539",29.4493097,-95.0765908
+1C4JJXP65NW114696,58230,58230,58230,Jeep,Wrangler,2022,8 Speed Automatic,10 miles,Ron Carter Chrysler Jeep Dodge of League City,"3535 Gulf Freeway South, Dickinson, TX 77539",29.4493097,-95.0765908
 1C4JJXP67NW197998,59775,58275,58275,Jeep,Wrangler,2022,8 Speed Automatic,0 miles,Texan Chrysler Dodge Jeep Ram,"18555 Highway 59 North, Humble, TX 77338",29.986783,-95.2771782
-1C4JJXP66NW227931,Not Provided,58380,58380,Jeep,Wrangler,2022,8 Speed Automatic,11 miles,Ron Carter Chrysler Jeep Dodge of League City,"3535 Gulf Freeway South, Dickinson, TX 77539",29.4493097,-95.0765908
-1C4JJXP63NW114695,Not Provided,58625,58625,Jeep,Wrangler,2022,Automatic,10 miles,Ron Carter Chrysler Jeep Dodge of League City,"3535 Gulf Freeway South, Dickinson, TX 77539",29.4493097,-95.0765908
+1C4JJXP66NW227931,58380,58380,58380,Jeep,Wrangler,2022,8 Speed Automatic,11 miles,Ron Carter Chrysler Jeep Dodge of League City,"3535 Gulf Freeway South, Dickinson, TX 77539",29.4493097,-95.0765908
+1C4JJXP63NW114695,58625,58625,58625,Jeep,Wrangler,2022,Automatic,10 miles,Ron Carter Chrysler Jeep Dodge of League City,"3535 Gulf Freeway South, Dickinson, TX 77539",29.4493097,-95.0765908
 1C4JJXP64NW278232,60385,58885,58885,Jeep,Wrangler,2022,Automatic,0 miles,Texan Chrysler Dodge Jeep Ram,"18555 Highway 59 North, Humble, TX 77338",29.986783,-95.2771782
 1C4JJXP60NW279829,60470,58970,58970,Jeep,Wrangler,2022,Automatic,0 miles,Texan Chrysler Dodge Jeep Ram,"18555 Highway 59 North, Humble, TX 77338",29.986783,-95.2771782
 1C4JJXP60NW177883,58580,58580,59026,Jeep,Wrangler,2022,Automatic,25 miles,Premier CDJR of Lamesa,"1611 Lubbock Hwy, Lamesa, TX 79331",32.7478766,-101.9508105
 1C4JJXP6XNW198191,59070,59070,59070,Jeep,Wrangler,2022,Automatic,1 miles,Big Star Chrysler Jeep Dodge RAM Fiat Clear Lake,"15711 Gulf Fwy, Webster, TX 77598",29.5833016,-95.1792983
 1C4JJXP61NW198189,59070,59070,59070,Jeep,Wrangler,2022,Automatic,1 miles,Big Star Chrysler Jeep Dodge RAM Fiat Clear Lake,"15711 Gulf Fwy, Webster, TX 77598",29.5833016,-95.1792983
 1C4JJXP66NW218825,60730,59230,59230,Jeep,Wrangler,2022,Automatic,0 miles,Texan Chrysler Dodge Jeep Ram,"18555 Highway 59 North, Humble, TX 77338",29.986783,-95.2771782
-1C4JJXP63NW198467,59350,59350,59350,Jeep,Wrangler,2022,Automatic, ,Tomball Dodge Chrysler Jeep,"23777 Highway 249, Tomball, TX 77375",30.0273083,-95.6011605
+1C4JJXP63NW198467,59350,59350,59350,Jeep,Wrangler,2022,Automatic,0 miles,Tomball Dodge Chrysler Jeep,"23777 Highway 249, Tomball, TX 77375",30.0273083,-95.6011605
 1C4JJXP69NW229317,57480,59480,59480,Jeep,Wrangler,2022,Automatic,10 miles,Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy, Manvel, TX 77578",29.5382955,-95.3853406
 1C4JJXP61NW179058,59675,59675,59675,Jeep,Wrangler,2022,Automatic,0 miles,River Oaks Chrysler Jeep Dodge Ram,"4807 Kirby Drive, Houston, TX 77098",29.7288798,-95.4179281
 1C4JJXP63NW136907,59770,59770,59770,Jeep,Wrangler,2022,Automatic,2 miles,Northwest Chrysler Jeep Dodge,"19616 Northwest Fwy, Houston, TX 77065",29.9121305,-95.6121042
@@ -326,23 +326,23 @@ vin,msrp,dealer's price,price,make,model,year,transmission,mileage,dealer name,d
 1C4JJXP69NW272149,60730,60730,60730,Jeep,Wrangler,2022,Automatic,0 miles,River Oaks Chrysler Jeep Dodge Ram,"4807 Kirby Drive, Houston, TX 77098",29.7288798,-95.4179281
 1C4JJXP6XNW205396,60770,60770,60770,Jeep,Wrangler,2022,Automatic,1 miles,Big Star Chrysler Jeep Dodge RAM Fiat Clear Lake,"15711 Gulf Fwy, Webster, TX 77598",29.5833016,-95.1792983
 1C4JJXP62NW229255,60940,60940,60940,Jeep,Wrangler,2022,Automatic,0 miles,Gillman Jeep,"10575 W Sam Houston Pkwy S, Houston, TX 77099",29.6666254,-95.5585695
-1C4JJXP69NW278551,61860,61860,61860,Jeep,Wrangler,2022,Automatic, ,Tomball Dodge Chrysler Jeep,"23777 Highway 249, Tomball, TX 77375",30.0273083,-95.6011605
+1C4JJXP69NW278551,61860,61860,61860,Jeep,Wrangler,2022,Automatic,0 miles,Tomball Dodge Chrysler Jeep,"23777 Highway 249, Tomball, TX 77375",30.0273083,-95.6011605
 1C4JJXP60NW213734,59965,61965,61965,Jeep,Wrangler,2022,Automatic,5 miles,Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy, Manvel, TX 77578",29.5382955,-95.3853406
 1C4JJXP69NW213733,59965,61965,61965,Jeep,Wrangler,2022,Automatic,10 miles,Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy, Manvel, TX 77578",29.5382955,-95.3853406
 1C4JJXR68NW198655,65725,62325,62325,Jeep,Wrangler,2022,Automatic,0 miles,Mac Haik Chrysler Dodge Jeep RAM Energy Corridor,"12111 Katy Fwy, Houston, TX 77079",29.78321,-95.5993955
 1C4JJXP65NW153563,61935,61935,62381,Jeep,Wrangler,2022,Automatic,15 miles,Premier CDJR of Lamesa,"1611 Lubbock Hwy, Lamesa, TX 79331",32.7478766,-101.9508105
 1C4JJXP62NW229319,57480,62480,62480,Jeep,Wrangler,2022,Automatic,5 miles,Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy, Manvel, TX 77578",29.5382955,-95.3853406
-1C4JJXP62NW279752,62860,62860,62860,Jeep,Wrangler,2022,Automatic, ,Tomball Dodge Chrysler Jeep,"23777 Highway 249, Tomball, TX 77375",30.0273083,-95.6011605
+1C4JJXP62NW279752,62860,62860,62860,Jeep,Wrangler,2022,Automatic,0 miles,Tomball Dodge Chrysler Jeep,"23777 Highway 249, Tomball, TX 77375",30.0273083,-95.6011605
 1C4JJXP61NW213709,61075,63075,63075,Jeep,Wrangler,2022,Automatic,10 miles,Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy, Manvel, TX 77578",29.5382955,-95.3853406
-1C4JJXP63NW206339,63075,63075,63075,Jeep,Wrangler,2022,Automatic, ,Yaklin Chrysler Dodge Jeep Ram of Angleton,"1212 S Velasco St, Angleton, TX 77515",29.1479516,-95.4307369
+1C4JJXP63NW206339,63075,63075,63075,Jeep,Wrangler,2022,Automatic,0 miles,Yaklin Chrysler Dodge Jeep Ram of Angleton,"1212 S Velasco St, Angleton, TX 77515",29.1479516,-95.4307369
 1C4JJXR69NW107831,63170,63170,63170,Jeep,Wrangler,2022,Automatic,0 miles,Gillman Jeep,"10575 W Sam Houston Pkwy S, Houston, TX 77099",29.6666254,-95.5585695
 1C4JJXP68NW213707,61925,63925,63925,Jeep,Wrangler,2022,Automatic,5 miles,Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy, Manvel, TX 77578",29.5382955,-95.3853406
 1C4JJXP6XNW269759,62550,64550,64550,Jeep,Wrangler,2022,Automatic,5 miles,Southfork Chrysler Dodge Jeep Ram,"17725 South Fwy, Manvel, TX 77578",29.5382955,-95.3853406
 1C4JJXP65NW179192,60425,64900,64900,Jeep,Wrangler,2022,Automatic,4 miles,Crossroads Dodge Chrysler Jeep Ram,"320 Highway 146 Byp, Liberty, TX 77575",30.0588201,-94.7702507
 1C4JJXP64NW274973,61165,65888,65888,Jeep,Wrangler,2022,Automatic,0 miles,Helfman Dodge Chrysler Jeep Ram,"7720 Katy Freeway, Houston, TX 77024",29.7856569,-95.4695896
-1C4JJXR63NW228340,66560,66560,66560,Jeep,Wrangler,2022,Automatic, ,Tomball Dodge Chrysler Jeep,"23777 Highway 249, Tomball, TX 77375",30.0273083,-95.6011605
+1C4JJXR63NW228340,66560,66560,66560,Jeep,Wrangler,2022,Automatic,0 miles,Tomball Dodge Chrysler Jeep,"23777 Highway 249, Tomball, TX 77375",30.0273083,-95.6011605
 1C4JJXR66NW229451,67105,67105,67105,Jeep,Wrangler,2022,Automatic,2 miles,Northwest Chrysler Jeep Dodge,"19616 Northwest Fwy, Houston, TX 77065",29.9121305,-95.6121042
-1C4JJXR65NW205559,67560,67560,67560,Jeep,Wrangler,2022,Automatic, ,Tomball Dodge Chrysler Jeep,"23777 Highway 249, Tomball, TX 77375",30.0273083,-95.6011605
+1C4JJXR65NW205559,67560,67560,67560,Jeep,Wrangler,2022,Automatic,0 miles,Tomball Dodge Chrysler Jeep,"23777 Highway 249, Tomball, TX 77375",30.0273083,-95.6011605
 1C4JJXR61NW152861,67935,67935,68381,Jeep,Wrangler,2022,Automatic,15 miles,Premier CDJR of Lamesa,"1611 Lubbock Hwy, Lamesa, TX 79331",32.7478766,-101.9508105
 1C4JJXR67NW233797,68885,68885,68885,Jeep,Wrangler,2022,Automatic,0 miles,River Oaks Chrysler Jeep Dodge Ram,"4807 Kirby Drive, Houston, TX 77098",29.7288798,-95.4179281
 1C4JJXP6XNW271396,64480,69888,69888,Jeep,Wrangler,2022,Automatic,0 miles,Helfman Dodge Chrysler Jeep Ram,"7720 Katy Freeway, Houston, TX 77024",29.7856569,-95.4695896
@@ -354,42 +354,42 @@ vin,msrp,dealer's price,price,make,model,year,transmission,mileage,dealer name,d
 1C4JJXR65NW158825,73055,77888,77888,Jeep,Wrangler,2022,8 Speed Automatic,0 miles,Helfman Dodge Chrysler Jeep Ram,"7720 Katy Freeway, Houston, TX 77024",29.7856569,-95.4695896
 5TFKB5AA2NX012284,38878,38878,38878,Toyota,Tundra,2022,Automatic,5 miles,Fred Haas Toyota World,"20400 Interstate 45, Spring, TX 77373",30.0605658,-95.4310959
 5TFKB5AA4NX012271,38878,38878,38878,Toyota,Tundra,2022,Automatic,5 miles,Fred Haas Toyota World,"20400 Interstate 45, Spring, TX 77373",30.0605658,-95.4310959
-5TFKB5AB8NX011732,42220,42220,42220,Toyota,Tundra,2022,Automatic, ,Toyota of Katy,"21555 Katy Freeway, Katy, TX 77450",29.7835556,-95.7420479
-5TFKB5DB1NX038833,45101,45101,45101,Toyota,Tundra,2022,Automatic, ,Mike Calvert Toyota,"2333 South Loop West, Houston, TX 77054",29.6761391,-95.4140206
+5TFKB5AB8NX011732,42220,42220,42220,Toyota,Tundra,2022,Automatic,0 miles,Toyota of Katy,"21555 Katy Freeway, Katy, TX 77450",29.7835556,-95.7420479
+5TFKB5DB1NX038833,45101,45101,45101,Toyota,Tundra,2022,Automatic,0 miles,Mike Calvert Toyota,"2333 South Loop West, Houston, TX 77054",29.6761391,-95.4140206
 5TFKB5DB8NX039381,46719,46719,46719,Toyota,Tundra,2022,Automatic,7 miles,Fred Haas Toyota Country,"22435 State Highway 249, Houston, TX 77070",30.0067283,-95.5887247
 5TFLA5AA6NX012876,47381,47381,47381,Toyota,Tundra,2022,Automatic,5 miles,Fred Haas Toyota World,"20400 Interstate 45, Spring, TX 77373",30.0605658,-95.4310959
 5TFLA5AB8NX007963,47976,47976,47976,Toyota,Tundra,2022,Automatic,5 miles,Fred Haas Toyota World,"20400 Interstate 45, Spring, TX 77373",30.0605658,-95.4310959
-5TFLA5BC3NX001849,48905,48905,48905,Toyota,Tundra,2022,Automatic, ,Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.4686477
+5TFLA5BC3NX001849,48905,48905,48905,Toyota,Tundra,2022,Automatic,0 miles,Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.4686477
 5TFLA5AB5NX013171,48906,50401,50401,Toyota,Tundra,2022,Automatic,5 miles,Sterling McCall Toyota Fort Bend,"20465 Southwest Freeway, Richmond, TX 77469",29.5586332,-95.6946978
-5TFLA5AB1NX012082,48957,48957,48957,Toyota,Tundra,2022,Automatic, ,Toyota of Katy,"21555 Katy Freeway, Katy, TX 77450",29.7835556,-95.7420479
+5TFLA5AB1NX012082,48957,48957,48957,Toyota,Tundra,2022,Automatic,0 miles,Toyota of Katy,"21555 Katy Freeway, Katy, TX 77450",29.7835556,-95.7420479
 5TFLA5BC7NX001966,48984,48984,48984,Toyota,Tundra,2022,Automatic,5 miles,Fred Haas Toyota World,"20400 Interstate 45, Spring, TX 77373",30.0605658,-95.4310959
 5TFLA5AB2NX012852,49036,49036,49036,Toyota,Tundra,2022,Automatic,5 miles,Fred Haas Toyota World,"20400 Interstate 45, Spring, TX 77373",30.0605658,-95.4310959
 5TFLA5AB3NX111468,48957,48957,49194,Toyota,Tundra,2022,Automatic,1 miles,Family Toyota of Arlington,"1661 Wet N Wild Way, Arlington, TX 76011",32.7612421,-97.0858991
 5TFLA5BC2NX001972,49409,49409,49409,Toyota,Tundra,2022,Automatic,5 miles,Fred Haas Toyota World,"20400 Interstate 45, Spring, TX 77373",30.0605658,-95.4310959
 5TFLA5AB0NX011859,51566,53061,53061,Toyota,Tundra,2022,Automatic,5 miles,Sterling McCall Toyota Fort Bend,"20465 Southwest Freeway, Richmond, TX 77469",29.5586332,-95.6946978
-5TFLA5EC3NX007307,51910,51910,51910,Toyota,Tundra,2022,Automatic, ,Toyota of Katy,"21555 Katy Freeway, Katy, TX 77450",29.7835556,-95.7420479
+5TFLA5EC3NX007307,51910,51910,51910,Toyota,Tundra,2022,Automatic,0 miles,Toyota of Katy,"21555 Katy Freeway, Katy, TX 77450",29.7835556,-95.7420479
 5TFLA5DA3NX035933,50451,51946,51946,Toyota,Tundra,2022,Automatic,5 miles,Sterling Mccall Toyota,"9400 Southwest Freeway, Houston, TX 77074",29.6787228,-95.5395719
 5TFLA5AB8NX012144,52044,52044,52044,Toyota,Tundra,2022,Automatic,5 miles,Fred Haas Toyota World,"20400 Interstate 45, Spring, TX 77373",30.0605658,-95.4310959
 5TFLA5ABXNX010962,52044,52044,52044,Toyota,Tundra,2022,Automatic,19 miles,Fred Haas Toyota World,"20400 Interstate 45, Spring, TX 77373",30.0605658,-95.4310959
 5TFLA5DBXNX039387,52471,52471,52471,Toyota,Tundra,2022,Automatic,5 miles,Fred Haas Toyota World,"20400 Interstate 45, Spring, TX 77373",30.0605658,-95.4310959
-5TFLA5AB1NX011014,55733,55733,55733,Toyota,Tundra,2022,Automatic, ,Don McGill Toyota of Houston,"11800 Katy Freeway, Houston, TX 77079",29.7871044,-95.5947165
-5TFLA5DB5NX038549,56014,56014,56014,Toyota,Tundra,2022,Automatic, ,Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.4686477
-5TFLA5DB1NX038189,56114,56114,56114,Toyota,Tundra,2022,Automatic, ,Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.4686477
-5TFLA5DB1NX041562,56114,56114,56114,Toyota,Tundra,2022,Automatic, ,Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.4686477
+5TFLA5AB1NX011014,55733,55733,55733,Toyota,Tundra,2022,Automatic,0 miles,Don McGill Toyota of Houston,"11800 Katy Freeway, Houston, TX 77079",29.7871044,-95.5947165
+5TFLA5DB5NX038549,56014,56014,56014,Toyota,Tundra,2022,Automatic,0 miles,Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.4686477
+5TFLA5DB1NX038189,56114,56114,56114,Toyota,Tundra,2022,Automatic,0 miles,Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.4686477
+5TFLA5DB1NX041562,56114,56114,56114,Toyota,Tundra,2022,Automatic,0 miles,Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.4686477
 5TFJA5DB6NX037854,57556,57556,57556,Toyota,Tundra,2022,8 Speed Automatic,7 miles,Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.4686477
-5TFJA5DB5NX039949,65378,65378,65378,Toyota,Tundra,2022,8 Speed Automatic, ,Toyota of Katy,"21555 Katy Freeway, Katy, TX 77450",29.7835556,-95.7420479
-5TFLA5AB1NX012938,58970,58970,58970,Toyota,Tundra,2022,8 Speed Automatic, ,Don McGill Toyota of Houston,"11800 Katy Freeway, Houston, TX 77079",29.7871044,-95.5947165
+5TFJA5DB5NX039949,65378,65378,65378,Toyota,Tundra,2022,8 Speed Automatic,0 miles,Toyota of Katy,"21555 Katy Freeway, Katy, TX 77450",29.7835556,-95.7420479
+5TFLA5AB1NX012938,58970,58970,58970,Toyota,Tundra,2022,8 Speed Automatic,0 miles,Don McGill Toyota of Houston,"11800 Katy Freeway, Houston, TX 77079",29.7871044,-95.5947165
 5TFJC5AB0NX001141,58640,58640,59075,Toyota,Tundra,2022,8 Speed Automatic,0 miles,Toyota of Laredo,"6324 Bob Bullock Loop, Laredo, TX 78041",27.5561385,-99.4501652
 5TFJA5EC3NX008111,59218,60713,60713,Toyota,Tundra,2022,8 Speed Automatic,5 miles,Sterling McCall Toyota Fort Bend,"20465 Southwest Freeway, Richmond, TX 77469",29.5586332,-95.6946978
-5TFJC5AB2NX001125,59233,59233,59233,Toyota,Tundra,2022,Automatic, ,Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.4686477
-5TFJC5DB8NX004686,60242,60242,60242,Toyota,Tundra,2022,Automatic, ,Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.4686477
+5TFJC5AB2NX001125,59233,59233,59233,Toyota,Tundra,2022,Automatic,0 miles,Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.4686477
+5TFJC5DB8NX004686,60242,60242,60242,Toyota,Tundra,2022,Automatic,0 miles,Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.4686477
 5TFJA5DB5NX014601,59949,59949,60384,Toyota,Tundra,2022,Automatic,5 miles,"Powell Watson Motors, Inc.","6301 Arena Blvd, Laredo, TX 78041",27.5570758,-99.4491939
 5TFMA5AB2NX006201,62052,62052,62052,Toyota,Tundra,2022,Automatic,"4,359 miles",Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.4686477
-5TFNA5ABXNX011988,62325,62325,62325,Toyota,Tundra,2022,Automatic, ,Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.4686477
-5TFLA5ABXNX011111,66645,66645,66645,Toyota,Tundra,2022,Automatic, ,Don McGill Toyota of Houston,"11800 Katy Freeway, Houston, TX 77079",29.7871044,-95.5947165
-5TFMA5DB1NX036740,67771,67771,67771,Toyota,Tundra,2022,Automatic, ,Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.4686477
+5TFNA5ABXNX011988,62325,62325,62325,Toyota,Tundra,2022,Automatic,0 miles,Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.4686477
+5TFLA5ABXNX011111,66645,66645,66645,Toyota,Tundra,2022,Automatic,0 miles,Don McGill Toyota of Houston,"11800 Katy Freeway, Houston, TX 77079",29.7871044,-95.5947165
+5TFMA5DB1NX036740,67771,67771,67771,Toyota,Tundra,2022,Automatic,0 miles,Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.4686477
 5TFPC5DB5NX004915,68600,68600,68600,Toyota,Tundra,2022,Automatic,5 miles,Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.4686477
 5TFMA5DB6NX034823,67253,68748,68748,Toyota,Tundra,2022,Automatic,10 miles,Sterling McCall Toyota Fort Bend,"20465 Southwest Freeway, Richmond, TX 77469",29.5586332,-95.6946978
 5TFVC5DB5NX002511,78001,78001,78001,Toyota,Tundra,2022,Automatic,6 miles,Gullo Toyota of Conroe,"500 I-45 South, Conroe, TX 77304",30.3009349,-95.4686477
-5TFVC5DB8NX002583,78426,78426,78426,Toyota,Tundra,2022,Automatic, ,Mike Calvert Toyota,"2333 South Loop West, Houston, TX 77054",29.6761391,-95.4140206
-5TFLA5DB1NX019691,Not Provided,78990,78990,Toyota,Tundra,2022,Automatic,248 miles,Mike Calvert Toyota,"2333 South Loop West, Houston, TX 77054",29.6761391,-95.4140206
+5TFVC5DB8NX002583,78426,78426,78426,Toyota,Tundra,2022,Automatic,0 miles,Mike Calvert Toyota,"2333 South Loop West, Houston, TX 77054",29.6761391,-95.4140206
+5TFLA5DB1NX019691,78990,78990,78990,Toyota,Tundra,2022,Automatic,248 miles,Mike Calvert Toyota,"2333 South Loop West, Houston, TX 77054",29.6761391,-95.4140206
