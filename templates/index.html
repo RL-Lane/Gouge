@@ -1,130 +1,307 @@
+<!-- link to background image: https://pictures.dealer.com/l/laneworleanslr/1478/8ad13fe9de0c3fbf43f22d70dc609cb7x.jpg -->
+
+
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <title>Home</title>
-    <link rel="stylesheet" href="style.css">
-    <!-- CSS only -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
-    <!-- JavaScript Bundle with Popper -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
-</head>
-
-
-<body id="background">
-    <nav class="navbar navbar-expand-lg navbar-light">
-        <div class="container-fluid">
-          <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mx-auto class">
-              <li class="nav-item">
-                <!-- home icon that returns us to the home page -->
-                <a class="nav-link active" aria-current="page" href="index.html">
-                  <svg xmlns="http://www.w3.org/2000/svg" width="45" height="30" fill= "rgb(11, 11, 185)"  class="bi bi-house-fill" viewBox="0 0 16 16">
-                    <path fill-rule="evenodd" d="m8 3.293 6 6V13.5a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5V9.293l6-6zm5-.793V6l-2-2V2.5a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5z"/>
-                    <path fill-rule="evenodd" d="M7.293 1.5a1 1 0 0 1 1.414 0l6.647 6.646a.5.5 0 0 1-.708.708L8 2.207 1.354 8.854a.5.5 0 1 1-.708-.708L7.293 1.5z"/>
-                  </svg>
-                </a>
-              </li>
-              <li  class="nav-item">
-                <a id ="nav_tabs" class="nav-link" href="carsanalyzed.html">Cars Analyzed </a>
-              </li>
-              <li id="about_header" class="nav-item">
-                <a id ="nav_tabs" class="nav-link" href="visualizations.html">Visualizations </a>
-              </li>
-              <!-- <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                 Manufacturers <img src="car_img.jpg" width="25" height="25">
-                </a>
-                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <li><a class="dropdown-item" href="#">Action</a></li>
-                  <li><a class="dropdown-item" href="#">Another action</a></li>
-                  <li><hr class="dropdown-divider"></li>
-                  <li><a class="dropdown-item" href="#">Something else here</a></li>
-                </ul> -->
-              </li>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Vehicle Gouge</title>
+        <!-- Favicon-->
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" crossorigin="anonymous"></script>
+        <!-- Simple line icons-->
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.5.5/css/simple-line-icons.min.css" rel="stylesheet" />
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body id="home">
+        <!-- Navigation-->
+        <a class="menu-toggle rounded" href="#"><i class="fas fa-bars"></i></a>
+        <nav id="sidebar-wrapper">
+            <ul class="sidebar-nav">
+                <li class="sidebar-brand"><a href="#home">Home</a></li>
+                <li class="sidebar-nav-item"><a href="#about">About</a></li>
+                <li class="sidebar-nav-item"><a href="#map">Map</a></li>
+                <li class="sidebar-nav-item"><a href="#visualizations">Visualizations</a></li>
+                <li class="sidebar-nav-item"><a href="#meet_the_team">Meet the Team!</a></li>
+                <li class="sidebar-nav-item"><a href="#contact">Contact</a></li>
             </ul>
-          </div>
-        </div>
-      </nav>
-
-      <br>
-
-      <h2 class="home_page_header">Vehicle Price Gouging</h2>
-      <br>
-      <br>
-      
-      <div class="container">
-        <div class="row">
-            
-
-          <div class = "col-md-6" > 
-            
-            <img class="home_image" src="https://www.fenderbender.com/ext/resources/car-climbing-coins-flat-2.jpg?t=1624273302&width=1080">
-
-          </div>
-
-          <div class = "col-md-6" > 
-            <div class="accordion" id="accordion_layout">
-              <div id="accordion_dropdown" class="accordion-item">
-                <h2 class="accordion-header" id="headingOne">
-                  <button id="button_accord" class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                    <h5 >What is this project about?</h5>
-                  </button>
-                </h2>
-                <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-                  <div class="accordion-body">
-                    <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+        </nav>
+        <!-- Header-->
+        <header class="masthead d-flex align-items-center">
+            <div class="container px-4 px-lg-5 text-center">
+                <h1 class="mb-1">Vehicle Price Gouging</h1>
+                <h3 class="mb-5"><em>What does the data tell us?</em></h3>
+                <a class="btn btn-dark" href="#about">Learn More!</a>
+            </div>
+        </header>
+        <!-- About-->
+        <section class="content-section2" id="about" >
+            <br>
+            <br>
+            <div class = "col-md-12" > 
+                <div class="accordion" id="accordion_layout">
+                  <div id="accordion_dropdown" class="accordion-item">
+                    <h2 class="accordion-header" id="headingOne">
+                      <button id="button_accord" class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                        <h5 >What is this project about?</h5>
+                      </button>
+                    </h2>
+                    <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                      <div class="accordion-body">
+                        <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                      </div>
+                    </div>
+                  </div>
+                   <!-- break inbetween accordion dropdowns -->
+                   <br> 
+                  <div id="accordion_dropdown" class="accordion-item">
+                    <h2 class="accordion-header" id="headingTwo">
+                      <button id="button_accord" class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                        <h5>Why was this project conducted?</h5>
+                      </button>
+                    </h2>
+                    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                      <div class="accordion-body">
+                        <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                      </div>
+                    </div>
+                  </div>
+                  <!-- break inbetween accordion dropdowns -->
+                  <br> 
+                  <div id="accordion_dropdown" class="accordion-item">
+                    <h2 class="accordion-header" id="headingThree">
+                      <button id="button_accord" class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                        <h5>Where was the data obtained?</h5>
+                      </button>
+                    </h2>
+                    <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                      <div class="accordion-body">
+                        <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                      </div>
+                    </div>
                   </div>
                 </div>
-              </div>
-               <!-- break inbetween accordion dropdowns -->
-               <br> 
-              <div id="accordion_dropdown" class="accordion-item">
-                <h2 class="accordion-header" id="headingTwo">
-                  <button id="button_accord" class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                    <h5>Why was this project conducted?</h5>
-                  </button>
-                </h2>
-                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
-                  <div class="accordion-body">
-                    <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
-                  </div>
+             <br>
+             <br>
+             <br>
+             <br>
+             <br>
+             <br>
+             <br>
+            </div>
+    
+        </section>
+        <!-- Services-->
+        <section class="content-section bg-primary text-white text-center" id="services">
+            <div class="container px-4 px-lg-5">
+                <div class="content-section-heading">
+                    <h3 class="text-secondary mb-0">Services</h3>
+                    <h2 class="mb-5">What We Offer</h2>
                 </div>
-              </div>
-              <!-- break inbetween accordion dropdowns -->
-              <br> 
-              <div id="accordion_dropdown" class="accordion-item">
-                <h2 class="accordion-header" id="headingThree">
-                  <button id="button_accord" class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                    <h5>Where was the data obtained?</h5>
-                  </button>
-                </h2>
-                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
-                  <div class="accordion-body">
-                    <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
-                  </div>
+                <div class="row gx-4 gx-lg-5">
+                    <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
+                        <span class="service-icon rounded-circle mx-auto mb-3"><i class="icon-screen-smartphone"></i></span>
+                        <h4><strong>Responsive</strong></h4>
+                        <p class="text-faded mb-0">Looks great on any screen size!</p>
+                    </div>
+                    <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
+                        <span class="service-icon rounded-circle mx-auto mb-3"><i class="icon-pencil"></i></span>
+                        <h4><strong>Redesigned</strong></h4>
+                        <p class="text-faded mb-0">Freshly redesigned for Bootstrap 5.</p>
+                    </div>
+                    <div class="col-lg-3 col-md-6 mb-5 mb-md-0">
+                        <span class="service-icon rounded-circle mx-auto mb-3"><i class="icon-like"></i></span>
+                        <h4><strong>Favorited</strong></h4>
+                        <p class="text-faded mb-0">
+                            Millions of users
+                            <i class="fas fa-heart"></i>
+                            Start Bootstrap!
+                        </p>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <span class="service-icon rounded-circle mx-auto mb-3"><i class="icon-mustache"></i></span>
+                        <h4><strong>Question</strong></h4>
+                        <p class="text-faded mb-0">I mustache you a question...</p>
+                    </div>
                 </div>
-              </div>
+            </div>
+        </section>
+        <!-- Callout-->
+        <section class="callout">
+            <div class="container px-4 px-lg-5 text-center">
+                <h2 class="mx-auto mb-5">
+                    Welcome to
+                    <em>your</em>
+                    next website!
+                </h2>
+                <a class="btn btn-primary btn-xl" href="https://startbootstrap.com/theme/stylish-portfolio/">Download Now!</a>
+            </div>
+        </section>
+        <!-- Portfolio-->
+        <section class="content-section" id="portfolio">
+            <div class="container px-4 px-lg-5">
+                <div class="content-section-heading text-center">
+                    <h3 class="text-secondary mb-0">Portfolio</h3>
+                    <h2 class="mb-5">Recent Projects</h2>
+                </div>
+                <div class="row gx-0">
+                    <div class="col-lg-6">
+                        <a class="portfolio-item" href="#!">
+                            <div class="caption">
+                                <div class="caption-content">
+                                    <div class="h2">Stationary</div>
+                                    <p class="mb-0">A yellow pencil with envelopes on a clean, blue backdrop!</p>
+                                </div>
+                            </div>
+                            <img class="img-fluid" src="assets/img/portfolio-1.jpg" alt="..." />
+                        </a>
+                    </div>
+                    <div class="col-lg-6">
+                        <a class="portfolio-item" href="#!">
+                            <div class="caption">
+                                <div class="caption-content">
+                                    <div class="h2">Ice Cream</div>
+                                    <p class="mb-0">A dark blue background with a colored pencil, a clip, and a tiny ice cream cone!</p>
+                                </div>
+                            </div>
+                            <img class="img-fluid" src="assets/img/portfolio-2.jpg" alt="..." />
+                        </a>
+                    </div>
+                    <div class="col-lg-6">
+                        <a class="portfolio-item" href="#!">
+                            <div class="caption">
+                                <div class="caption-content">
+                                    <div class="h2">Strawberries</div>
+                                    <p class="mb-0">Strawberries are such a tasty snack, especially with a little sugar on top!</p>
+                                </div>
+                            </div>
+                            <img class="img-fluid" src="assets/img/portfolio-3.jpg" alt="..." />
+                        </a>
+                    </div>
+                    <div class="col-lg-6">
+                        <a class="portfolio-item" href="#!">
+                            <div class="caption">
+                                <div class="caption-content">
+                                    <div class="h2">Workspace</div>
+                                    <p class="mb-0">A yellow workspace with some scissors, pencils, and other objects.</p>
+                                </div>
+                            </div>
+                            <img class="img-fluid" src="assets/img/portfolio-4.jpg" alt="..." />
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Meet the Team-->
+        <section class="content-section bg-primary text-white" id="meet_the_team">
+            <h2 class="team_header">Meet the Team!</h2>
+            <br>
+            <br>
+            <div class="row" id="meetteam_format">
+                    <div class = "col-md-2.4" class="card" style="width: 12.5rem;">
+                    <img id="team_pics" src="https://media-exp1.licdn.com/dms/image/C4E03AQFKEnj5P_yHWQ/profile-displayphoto-shrink_400_400/0/1604975982588?e=1662595200&v=beta&t=AJC31yK6Xs273__rwSKHU6AV0u9uvldvICvIwUvI0yA" class="card-img-top" >
+                    <div class="card-body">
+                    <br>
+                   <p class="card-text">
+                        <a class="name">Daniel Czornyj</a>
+                        <br>
+                        <br>
+                        <a id="hyperlinks" href="https://github.com/dczornyj" target="_blank" >Github</a>
+                        <br>
+                        <a id="hyperlinks" href="https://www.linkedin.com/in/daniel-czornyj-b602771bb/" target="_blank">LinkedIn</a>
+                    </p>
+                    <p id="text" class="card-text">
+    
+                    </p>
+                    </div>
+                </div>
+                
+                
+                <div class = "col-md-2.4" class="card" style="width: 12.5rem;" id="card_format">
+                    <img id="team_pics" src="https://media-exp1.licdn.com/dms/image/C5603AQGyUq6SUxkpOQ/profile-displayphoto-shrink_400_400/0/1651756216853?e=1662595200&v=beta&t=PSjUVTYAVLYawM-dkNIbfCA4HFX8GkpHblGVWWOYuEY" class="card-img-top">
+                    <br>
+                    <div class="card-body">
+                        <br>
+                        <p class="card-text">
+                          <a class="name">Robert Gonzalez</a>
+                          <br>
+                          <br>
+                          <a id="hyperlinks" href = "https://github.com/RSGDATA" target="_blank">Github</a>
+                          <br>
+                          <a id="hyperlinks" href="https://www.linkedin.com/in/robert-gonzalez-20ab4a234/" target="_blank" >LinkedIn</a>
+                    </p>
+                    </div>
+                </div>
+    
+                <div class = "col-md-2.4" class="card" style="width: 12.5rem;" id="card_format">
+                    <img id="team_pics" src="https://media-exp1.licdn.com/dms/image/C5603AQEinq7X0aWM_Q/profile-displayphoto-shrink_400_400/0/1655683965779?e=1662595200&v=beta&t=9xuUGLugkwGGYWdXCDDJzw2ZXFbPWGo6lujMH_pXeYI" class="card-img-top">
+                    <div class="card-body">
+                        <br>    
+                        <p class="card-text">
+                            <a class="name_rob">Robert Lane</a>
+                            <br>
+                            <br>
+                            <a id="hyperlinks" href="https://github.com/RL-Lane" target="_blank">Github</a>
+                            <br>
+                            <a id="hyperlinks" href="https://www.linkedin.com/in/robert-lane-jr/" target="_blank">LinkedIn</a>
+                        </p> 
+                    </div>
+                </div>
+    
+    
+                <div class = "col-md-2.4" class="card" style="width: 12.5rem;" id="card_format">
+                    <img id="team_pics" src="https://media-exp1.licdn.com/dms/image/C4E03AQF_07ypi3Cl0w/profile-displayphoto-shrink_400_400/0/1643589517474?e=1662595200&v=beta&t=t32QqofrWm4IWkdKmkZLA1mEOEsSVQJEw5GkyLRZxmE" class="card-img-top">
+                    <div class="card-body">
+                        <br>
+                        <p class="card-text">
+                            <a class="name">Krystal Lewis</a>
+                            <br>
+                            <br>
+                            <a id="hyperlinks" href="https://github.com/klew1230" target="_blank">Github</a>
+                            <br>
+                            <a id="hyperlinks" href="https://www.linkedin.com/in/krystallewis91/">LinkedIn</a>
+                        </p>
+                    </div>
+                </div>
+                <div class = "col-md-2.4" class="card" style="width: 12.5rem;" id="card_format">
+                    <img id="team_pics" src="https://media-exp1.licdn.com/dms/image/C4E03AQH2p-tYa-plHQ/profile-displayphoto-shrink_400_400/0/1517038458897?e=1662595200&v=beta&t=9YeZM0ALJ0lZdEWXCTEBXlPbkFvHT6ZzKbstljOasfw" class="card-img-top">
+                    <div class="card-body">
+                        <br>
+                        <p class="card-text">
+                            <a class="name">Cody Sultenfuss</a>
+                            <br>
+                            <br>
+                            <a id="hyperlinks" href="https://github.com/sultenfussc" target="_blank">Github</a>
+                            <br>
+                            <a id="hyperlinks" href="https://www.linkedin.com/in/cody-sultenfuss-067407a1/" target="_blank">LinkedIn</a>
+                        </p>
+                    </div>
+                </div>
+    
+    
             </div>
             
-            
-          </div>
-
-
-
-        
-        
+        </section>
+        <!-- Map-->
+        <div class="map" id="contact">
+            <iframe src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A&amp;output=embed"></iframe>
+            <br />
+            <small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A"></a></small>
         </div>
+        <!-- Footer-->
       
-      </div>
-
-
-
-  
-
-      
-
-    
-
-</body>
+        <!-- Scroll to Top Button-->
+        <a class="scroll-to-top rounded" href="#page-top"><i class="fas fa-angle-up"></i></a>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>
