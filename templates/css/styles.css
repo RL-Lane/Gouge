@@ -11516,6 +11516,26 @@ footer.footer .social-link:hover {
   border: 0;
 }
 
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map
+ {
+    height: 100%;
+    width: 100%;
+}
+
+#map-leaflet {
+  height:800px;
+}
+
+#button_accord {
+  background: #155d74;
+  color:white;
+}
+
 @media (max-width: 992px) {
   .map {
     height: 75%;
