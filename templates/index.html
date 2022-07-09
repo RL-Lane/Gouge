@@ -18,10 +18,22 @@
         <!-- Google fonts-->
         <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css" />
         <!-- Core theme CSS (includes Bootstrap)-->
+        
+        <!-- Leaflet CSS -->
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+        integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+        crossorigin="" />
+
+        <!-- Leaflet JavaScript code -->
+        <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+        integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+        crossorigin=""></script>
+
         <link href="css/styles.css" rel="stylesheet" />
         <!-- load jQuery -->
         <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
     </head>
+        
     <body id="home">
         <!-- Navigation-->
         <a class="menu-toggle rounded" href="#"><i class="fas fa-bars"></i></a>
@@ -32,7 +44,7 @@
             <ul class="sidebar-nav">
                 <li class="sidebar-brand"><a href="#home">Home</a></li>
                 <li class="sidebar-nav-item"><a href="#about">About</a></li>
-                <li class="sidebar-nav-item"><a href="#dealerships_map">Map</a></li>
+                <li class="sidebar-nav-item"><a href="#map-leaflet">Map</a></li>
                 <li class="sidebar-nav-item"><a href="#visualizations">Visualizations</a></li>
                 <li class="sidebar-nav-item"><a href="#meet_the_team">Meet the Team!</a></li>
                 <li class="sidebar-nav-item"><a href="#contact">Contact</a></li>
@@ -58,7 +70,7 @@
                 <div class="accordion" id="accordion_layout">
                   <div id="accordion_dropdown" class="accordion-item">
                     <h2 class="accordion-header" id="headingOne">
-                      <button id="button_accord" class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                      <button id="button_accord" class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
                         <h5 >What is this project about?</h5>
                       </button>
                     </h2>
@@ -147,10 +159,11 @@
         </section>
 
         <!-- Leaflet Map-->
-        <section class="content-section bg-primary text-white text-center" id="map">
+        <section class="content-section bg-primary text-white text-center" id="map-leaflet">
             <h2> Distribution of Data by Texas Dealer</h2>
-
+           
             <!-- start of map.html -->
+
             <div id="map-placeholder">
             </div>
             <script>
