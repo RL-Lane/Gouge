@@ -8,23 +8,16 @@ model VARCHAR,
 year INT,
 transmission VARCHAR,
 mileage VARCHAR,
-"dealer name" VARCHAR,
-"dealer address" VARCHAR,
+dealer_name VARCHAR,
+dealer_address VARCHAR,
+dealer_state VARCHAR,
+dealer_zipcode VARCHAR,
 lat FLOAT,
 lng FLOAT
 	
 );
 
-CREATE TABLE temp (
-id SERIAL,
-valuetemp VARCHAR);
 
-INSERT INTO temp (valuetemp)
-VALUES
-('10 miles'),
-('20 miles'),
-('1 mile'),
-('3');
 
 
 
