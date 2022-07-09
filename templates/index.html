@@ -140,7 +140,7 @@
                             </div>
                             <script>
                                 $(function(){
-                                $("#where-placeholder").load("static/where.html");
+                                $("#where-placeholder").load("{{ url_for('static', filename='where.html') }}");
                                 });
                                 </script>
                                 <!--end of where.html-->
@@ -182,7 +182,7 @@
         </section>
         <script>
             $(function(){
-            $("#map-placeholder").load("static/map.html");
+            $("#map-placeholder").load("{{ url_for('static', filename='map.html') }}");
             });
             </script>
             <!--end of map.html-->
@@ -207,7 +207,7 @@
         </section>
         <script>
             $(function(){
-            $("#map-placeholder").load("static/map.html");
+            $("#map-placeholder").load("{{ url_for('static', filename='plotly.html') }}");
             });
             </script>
             <!--end of map.html-->
