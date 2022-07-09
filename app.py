@@ -15,6 +15,7 @@ from flask import (
     redirect)
 
 engine = create_engine("sqlite:///resources/scrape_db.sqlite")
+kaggle = create_engine("sqlite:///resources/cis_2018_lite.sqlite")
 
 # reflect an existing database into a new model
 Base = automap_base()
@@ -31,6 +32,22 @@ msrp = Base.classes.car_scrape
 # Flask Setup
 #################################################
 app = Flask(__name__)
+
+Kaggle_Base = automap_base()
+# reflect the tables
+Kaggle_Base.prepare(kaggle, reflect=True)
+
+# Save reference to the table
+print(Kaggle_Base.classes.keys())
+
+kaggle_data = Kaggle_Base.classes.sales
+# Actors = Base.classes.actors
+
+#################################################
+# Flask Setup
+#################################################
+app = Flask(__name__)
+
 
 @app.route("/")
 def home():
