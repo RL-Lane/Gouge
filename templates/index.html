@@ -44,8 +44,8 @@
             <ul class="sidebar-nav">
                 <li class="sidebar-brand"><a href="#home">Home</a></li>
                 <li class="sidebar-nav-item"><a href="#about">About</a></li>
-                <li class="sidebar-nav-item"><a href="#map">Map</a></li>
-                <li class="sidebar-nav-item"><a href="#visualizations">Visualizations</a></li>
+                <li class="sidebar-nav-item"><a href="#map-section">Map</a></li>
+                <li class="sidebar-nav-item"><a href="#visualizations-section">Visualizations</a></li>
                 <li class="sidebar-nav-item"><a href="#meet_the_team">Meet the Team!</a></li>
                 <li class="sidebar-nav-item"><a href="#contact">Contact</a></li>
             </ul>
@@ -67,10 +67,10 @@
             <br>
             <br>
             <div class = "col-md-12" > 
-                <div class="accordion" id="accordion_layout">
-                  <div id="accordion_dropdown" class="accordion-item">
+                <div class="accordion accordion_layout">
+                  <div  class="accordion-item accordion_dropdown">
                     <h2 class="accordion-header" id="headingOne">
-                      <button id="button_accord" class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                      <button  class="accordion-button collapsed button_accord" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
                         <h5 >What is this project about?</h5>
                       </button>
                     </h2>
@@ -95,9 +95,9 @@
 
                    <!-- break inbetween accordion dropdowns -->
                    <br> 
-                  <div id="accordion_dropdown" class="accordion-item">
+                  <div  class="accordion-item accordion_dropdown">
                     <h2 class="accordion-header" id="headingTwo">
-                      <button id="button_accord" class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                      <button  class="accordion-button collapsed button_accord" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                         <h5>Why was this project conducted?</h5>
                       </button>
                     </h2>
@@ -123,9 +123,9 @@
                   
                   <!-- break inbetween accordion dropdowns -->
                   <br> 
-                  <div id="accordion_dropdown" class="accordion-item">
+                  <div  class="accordion-item accordion_dropdown">
                     <h2 class="accordion-header" id="headingThree">
-                      <button id="button_accord" class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                      <button  class="accordion-button collapsed button_accord" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                         <h5>Where was the data obtained?</h5>
                       </button>
                     </h2>
@@ -148,7 +148,16 @@
                         </div>
                     </div>
                   </div>
+
+
+
+                  
                 </div>
+
+
+                
+
+
              <br>
              <br>
              <br>
@@ -157,40 +166,51 @@
             </div>
     
         </section>
-
+        <h2 id="map-section" style="z-index: 85; text-align: center; background-color: #f5f5dc;"> Distribution of Data by Texas Dealer</h2><br>
         <!-- Leaflet Map-->
-        <section class="content-section bg-primary text-white text-center" id="map">
-            <h2> Distribution of Data by Texas Dealer</h2>
-           
+        <section class="content-section  text-center" id="map">
+            
+            
             <!-- start of map.html -->
-
-            <div id="map-placeholder">
+            <div class="row">
+                <div id="map-placeholder" class="col-md-8">
             </div>
-            <script>
-                $(function(){
-                $("#map-placeholder").load("map.html");
-                });
-                </script>
-                <!--end of map.html-->
           
 
         </section>
+        <script>
+            $(function(){
+            $("#map-placeholder").load("map.html");
+            });
+            </script>
+            <!--end of map.html-->
+
+            <br>
+
 
 
 
         <!-- Callout-->
-        <section class="callout" id="visualizations">
-            <h1>CHARTS!</h1>
-            <!-- Individual html pages for each chart  still to be created -->
+        <h2 id="visualizations-section" style="z-index: 85; text-align: center; background-color: #f5f5dc;">Kaggle Analysis</h2><br>
+        <!-- Leaflet Map-->
+        <section class="content-section  text-center" >
+            
+            
+            <!-- start of map.html -->
             <div class="row">
-                
+                <div id="map-placeholder" class="col-md-8">
+            </div>
+          
 
+        </section>
+        <script>
+            $(function(){
+            $("#map-placeholder").load("map.html");
+            });
+            </script>
+            <!--end of map.html-->
 
-
-
-
-
-
+            <br>
 
 
 
@@ -258,11 +278,11 @@
             </div>
         </section>
         <!-- Meet the Team-->
-        <section class="content-section bg-primary text-white" id="meet_the_team">
+        <section class="content-section bg-primary text-white" id="meet_the_team" style="z-index: 30; text-align: center;">
             <h2 class="team_header">Meet the Team!</h2>
             <br>
             <br>
-            <div class="row" id="meetteam_format">
+            <div class="row" id="meetteam_format" >
                     <div class = "col-md-2.4" class="card" style="width: 12.5rem;">
                     <img id="team_pics" src="https://media-exp1.licdn.com/dms/image/C4E03AQFKEnj5P_yHWQ/profile-displayphoto-shrink_400_400/0/1604975982588?e=1662595200&v=beta&t=AJC31yK6Xs273__rwSKHU6AV0u9uvldvICvIwUvI0yA" class="card-img-top" >
                     <div class="card-body">
